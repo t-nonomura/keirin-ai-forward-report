@@ -1,35 +1,35 @@
 {
   "command": "render-actions-forward-site",
-  "generated_at": "2026-05-27T22:49:36+09:00",
-  "state_dir": "report/data/live_state",
-  "output_dir": "report",
+  "generated_at": "2026-05-27T22:54:59+09:00",
+  "state_dir": "D:\\keirin-ai\\tmp\\keirin-ai-forward-report-working\\data\\live_state",
+  "output_dir": "D:\\keirin-ai\\tmp\\keirin-ai-forward-report-working",
   "day_count": 2,
-  "prediction_count": 33,
+  "prediction_count": 56,
   "latest_date": "2026-05-28",
   "total": {
     "period": "total",
-    "race_count": 33,
-    "settled_race_count": 0,
-    "pending_count": 33,
-    "hit_count": 0,
-    "hit_rate": 0.0,
-    "invested_units": 0,
-    "returned_units": 0,
-    "profit_units": 0,
-    "roi": 0.0
+    "race_count": 56,
+    "settled_race_count": 34,
+    "pending_count": 22,
+    "hit_count": 10,
+    "hit_rate": 0.294118,
+    "invested_units": 365.0,
+    "returned_units": 226.3,
+    "profit_units": -138.7,
+    "roi": 0.62
   },
   "daily": [
     {
       "period": "2026-05-27",
-      "race_count": 14,
-      "settled_race_count": 0,
-      "pending_count": 14,
-      "hit_count": 0,
-      "hit_rate": 0.0,
-      "invested_units": 0,
-      "returned_units": 0,
-      "profit_units": 0,
-      "roi": 0.0
+      "race_count": 37,
+      "settled_race_count": 34,
+      "pending_count": 3,
+      "hit_count": 10,
+      "hit_rate": 0.294118,
+      "invested_units": 365.0,
+      "returned_units": 226.3,
+      "profit_units": -138.7,
+      "roi": 0.62
     },
     {
       "period": "2026-05-28",
@@ -47,29 +47,29 @@
   "weekly": [
     {
       "period": "2026-05-25",
-      "race_count": 33,
-      "settled_race_count": 0,
-      "pending_count": 33,
-      "hit_count": 0,
-      "hit_rate": 0.0,
-      "invested_units": 0,
-      "returned_units": 0,
-      "profit_units": 0,
-      "roi": 0.0
+      "race_count": 56,
+      "settled_race_count": 34,
+      "pending_count": 22,
+      "hit_count": 10,
+      "hit_rate": 0.294118,
+      "invested_units": 365.0,
+      "returned_units": 226.3,
+      "profit_units": -138.7,
+      "roi": 0.62
     }
   ],
   "monthly": [
     {
       "period": "2026-05-01",
-      "race_count": 33,
-      "settled_race_count": 0,
-      "pending_count": 33,
-      "hit_count": 0,
-      "hit_rate": 0.0,
-      "invested_units": 0,
-      "returned_units": 0,
-      "profit_units": 0,
-      "roi": 0.0
+      "race_count": 56,
+      "settled_race_count": 34,
+      "pending_count": 22,
+      "hit_count": 10,
+      "hit_rate": 0.294118,
+      "invested_units": 365.0,
+      "returned_units": 226.3,
+      "profit_units": -138.7,
+      "roi": 0.62
     }
   ]
 }
