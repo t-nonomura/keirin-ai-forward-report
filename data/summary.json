@@ -1,35 +1,35 @@
 {
   "command": "render-actions-forward-site",
-  "generated_at": "2026-05-28T01:51:23+09:00",
-  "state_dir": "report/data/live_state",
-  "output_dir": "report",
+  "generated_at": "2026-05-28T02:05:33+09:00",
+  "state_dir": "tmp\\keirin-ai-forward-report-working\\data\\live_state",
+  "output_dir": "tmp\\keirin-ai-forward-report-working",
   "day_count": 2,
   "prediction_count": 71,
   "latest_date": "2026-05-28",
   "total": {
     "period": "total",
     "race_count": 71,
-    "settled_race_count": 34,
-    "pending_count": 37,
-    "hit_count": 10,
-    "hit_rate": 0.294118,
-    "invested_units": 365.0,
-    "returned_units": 226.3,
-    "profit_units": -138.7,
-    "roi": 0.62
+    "settled_race_count": 37,
+    "pending_count": 34,
+    "hit_count": 11,
+    "hit_rate": 0.297297,
+    "invested_units": 392.0,
+    "returned_units": 239.7,
+    "profit_units": -152.3,
+    "roi": 0.61148
   },
   "daily": [
     {
       "period": "2026-05-27",
       "race_count": 37,
-      "settled_race_count": 34,
-      "pending_count": 3,
-      "hit_count": 10,
-      "hit_rate": 0.294118,
-      "invested_units": 365.0,
-      "returned_units": 226.3,
-      "profit_units": -138.7,
-      "roi": 0.62
+      "settled_race_count": 37,
+      "pending_count": 0,
+      "hit_count": 11,
+      "hit_rate": 0.297297,
+      "invested_units": 392.0,
+      "returned_units": 239.7,
+      "profit_units": -152.3,
+      "roi": 0.61148
     },
     {
       "period": "2026-05-28",
@@ -48,28 +48,28 @@
     {
       "period": "2026-05-25",
       "race_count": 71,
-      "settled_race_count": 34,
-      "pending_count": 37,
-      "hit_count": 10,
-      "hit_rate": 0.294118,
-      "invested_units": 365.0,
-      "returned_units": 226.3,
-      "profit_units": -138.7,
-      "roi": 0.62
+      "settled_race_count": 37,
+      "pending_count": 34,
+      "hit_count": 11,
+      "hit_rate": 0.297297,
+      "invested_units": 392.0,
+      "returned_units": 239.7,
+      "profit_units": -152.3,
+      "roi": 0.61148
     }
   ],
   "monthly": [
     {
       "period": "2026-05-01",
       "race_count": 71,
-      "settled_race_count": 34,
-      "pending_count": 37,
-      "hit_count": 10,
-      "hit_rate": 0.294118,
-      "invested_units": 365.0,
-      "returned_units": 226.3,
-      "profit_units": -138.7,
-      "roi": 0.62
+      "settled_race_count": 37,
+      "pending_count": 34,
+      "hit_count": 11,
+      "hit_rate": 0.297297,
+      "invested_units": 392.0,
+      "returned_units": 239.7,
+      "profit_units": -152.3,
+      "roi": 0.61148
     }
   ],
   "venue_daily": [
@@ -115,14 +115,14 @@
     {
       "period": "2026-05-27",
       "race_count": 7,
-      "settled_race_count": 6,
-      "pending_count": 1,
+      "settled_race_count": 7,
+      "pending_count": 0,
       "hit_count": 1,
-      "hit_rate": 0.166667,
-      "invested_units": 61.0,
+      "hit_rate": 0.142857,
+      "invested_units": 72.0,
       "returned_units": 2.7,
-      "profit_units": -58.3,
-      "roi": 0.044262,
+      "profit_units": -69.3,
+      "roi": 0.0375,
       "venue": "名古屋"
     },
     {
@@ -154,14 +154,14 @@
     {
       "period": "2026-05-27",
       "race_count": 6,
-      "settled_race_count": 4,
-      "pending_count": 2,
-      "hit_count": 2,
+      "settled_race_count": 6,
+      "pending_count": 0,
+      "hit_count": 3,
       "hit_rate": 0.5,
-      "invested_units": 40.0,
-      "returned_units": 40.0,
-      "profit_units": 0.0,
-      "roi": 1.0,
+      "invested_units": 56.0,
+      "returned_units": 53.4,
+      "profit_units": -2.6,
+      "roi": 0.953571,
       "venue": "玉野"
     },
     {
@@ -299,14 +299,14 @@
     {
       "period": "2026-05-25",
       "race_count": 7,
-      "settled_race_count": 6,
-      "pending_count": 1,
+      "settled_race_count": 7,
+      "pending_count": 0,
       "hit_count": 1,
-      "hit_rate": 0.166667,
-      "invested_units": 61.0,
+      "hit_rate": 0.142857,
+      "invested_units": 72.0,
       "returned_units": 2.7,
-      "profit_units": -58.3,
-      "roi": 0.044262,
+      "profit_units": -69.3,
+      "roi": 0.0375,
       "venue": "名古屋"
     },
     {
@@ -390,14 +390,14 @@
     {
       "period": "2026-05-25",
       "race_count": 6,
-      "settled_race_count": 4,
-      "pending_count": 2,
-      "hit_count": 2,
+      "settled_race_count": 6,
+      "pending_count": 0,
+      "hit_count": 3,
       "hit_rate": 0.5,
-      "invested_units": 40.0,
-      "returned_units": 40.0,
-      "profit_units": 0.0,
-      "roi": 1.0,
+      "invested_units": 56.0,
+      "returned_units": 53.4,
+      "profit_units": -2.6,
+      "roi": 0.953571,
       "venue": "玉野"
     },
     {
@@ -470,14 +470,14 @@
     {
       "period": "2026-05-01",
       "race_count": 7,
-      "settled_race_count": 6,
-      "pending_count": 1,
+      "settled_race_count": 7,
+      "pending_count": 0,
       "hit_count": 1,
-      "hit_rate": 0.166667,
-      "invested_units": 61.0,
+      "hit_rate": 0.142857,
+      "invested_units": 72.0,
       "returned_units": 2.7,
-      "profit_units": -58.3,
-      "roi": 0.044262,
+      "profit_units": -69.3,
+      "roi": 0.0375,
       "venue": "名古屋"
     },
     {
@@ -561,14 +561,14 @@
     {
       "period": "2026-05-01",
       "race_count": 6,
-      "settled_race_count": 4,
-      "pending_count": 2,
-      "hit_count": 2,
+      "settled_race_count": 6,
+      "pending_count": 0,
+      "hit_count": 3,
       "hit_rate": 0.5,
-      "invested_units": 40.0,
-      "returned_units": 40.0,
-      "profit_units": 0.0,
-      "roi": 1.0,
+      "invested_units": 56.0,
+      "returned_units": 53.4,
+      "profit_units": -2.6,
+      "roi": 0.953571,
       "venue": "玉野"
     },
     {

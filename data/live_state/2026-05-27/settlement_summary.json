@@ -1,22 +1,21 @@
 {
   "command": "settle-actions-formation-forward",
   "target_date": "2026-05-27",
-  "generated_at": "2026-05-27T22:54:58+09:00",
+  "generated_at": "2026-05-28T02:02:17+09:00",
   "prediction_hash": "84e89aa42b9845f8400d445d307f72fec894557e0e6d983fb50916033a9fd1d8",
-  "races_json_path": "D:\\keirin-ai\\data\\raw\\official\\2026-05-27\\races.json",
+  "races_json_path": "data\\raw\\official\\2026-05-27\\races.json",
   "race_count": 37,
-  "settled_race_count": 34,
-  "pending_count": 3,
-  "hit_count": 10,
-  "hit_rate": 0.294118,
-  "invested_units": 365.0,
-  "returned_units": 226.3,
-  "profit_units": -138.7,
-  "roi": 0.62,
-  "settlement_closed": false,
+  "settled_race_count": 37,
+  "pending_count": 0,
+  "hit_count": 11,
+  "hit_rate": 0.297297,
+  "invested_units": 392.0,
+  "returned_units": 239.7,
+  "profit_units": -152.3,
+  "roi": 0.61148,
+  "settlement_closed": true,
   "status_counts": {
-    "hit": 10,
-    "miss": 24,
-    "pending": 3
+    "hit": 11,
+    "miss": 26
   }
 }
