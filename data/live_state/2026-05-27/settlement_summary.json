@@ -1,7 +1,7 @@
 {
   "command": "settle-actions-formation-forward",
   "target_date": "2026-05-27",
-  "generated_at": "2026-05-28T02:02:17+09:00",
+  "generated_at": "2026-05-28T12:37:58+09:00",
   "prediction_hash": "84e89aa42b9845f8400d445d307f72fec894557e0e6d983fb50916033a9fd1d8",
   "races_json_path": "data\\raw\\official\\2026-05-27\\races.json",
   "race_count": 37,

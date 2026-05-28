@@ -1,22 +1,22 @@
 {
   "command": "settle-actions-formation-forward",
   "target_date": "2026-05-28",
-  "generated_at": "2026-05-28T11:32:35+09:00",
+  "generated_at": "2026-05-28T12:38:19+09:00",
   "prediction_hash": "e89f135044262a14eefb9eb59036d3b0c5fd8cdeb2674a975a882288530abcbe",
-  "races_json_path": "data/raw/official/2026-05-28/races.json",
+  "races_json_path": "data\\raw\\official\\2026-05-28\\races.json",
   "race_count": 34,
-  "settled_race_count": 13,
-  "pending_count": 21,
+  "settled_race_count": 16,
+  "pending_count": 18,
   "hit_count": 1,
-  "hit_rate": 0.076923,
-  "invested_units": 142.0,
+  "hit_rate": 0.0625,
+  "invested_units": 170.0,
   "returned_units": 1.7,
-  "profit_units": -140.3,
-  "roi": 0.011972,
+  "profit_units": -168.3,
+  "roi": 0.01,
   "settlement_closed": false,
   "status_counts": {
     "hit": 1,
-    "miss": 12,
-    "pending": 21
+    "miss": 15,
+    "pending": 18
   }
 }
