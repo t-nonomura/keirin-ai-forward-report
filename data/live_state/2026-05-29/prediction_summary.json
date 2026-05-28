@@ -1,0 +1,31 @@
+{
+  "command": "run-actions-formation-forward",
+  "target_date": "2026-05-29",
+  "generated_at": "2026-05-28T22:04:00+09:00",
+  "logic_id": "formation_hit0138_3x2x4_incremental_non_girls",
+  "logic_label": "3x2x4 incremental / formation_estimated_hit_rate >= 0.138 / non-girls",
+  "min_estimated_hit_rate": 0.138,
+  "formation_role_score_method": "incremental",
+  "formation_first_count": 3,
+  "formation_second_count": 2,
+  "formation_third_count": 4,
+  "raw_race_count": 50,
+  "dataset_row_count": 348,
+  "formation_row_count": 505,
+  "selected_race_count": 41,
+  "selected_ticket_count": 423,
+  "late_generated_count": 0,
+  "source_path": "data\\raw\\official\\2026-05-29\\races.json",
+  "dataset_csv_path": "exports\\forward-tests\\2026-05-29\\work\\dataset\\rider_placement_dataset.csv",
+  "scored_csv_path": "exports\\forward-tests\\2026-05-29\\work\\scored.csv",
+  "formations_csv_path": "exports\\forward-tests\\2026-05-29\\work\\formations_3x2x4_incremental.csv",
+  "score_summary": {
+    "command": "score-rider-placement-dataset",
+    "dataset_csv_path": "exports\\forward-tests\\2026-05-29\\work\\dataset\\rider_placement_dataset.csv",
+    "model_dir": "tmp\\today-formation-hit0138-20260527\\model_all_latest_1y_lr",
+    "output_path": "exports\\forward-tests\\2026-05-29\\work\\scored.csv",
+    "row_count": 348
+  },
+  "package_manifest_hash": "1fab0eaca4f9b902eaa2ea61c24acd4e638596cdd4235ee1e70c85df75fa1345",
+  "prediction_hash": "7a3989e2c97f57bb666e1a174b68c9fbc3505b148584f09cb36551ea4c6c5a87"
+}
