@@ -1,11 +1,11 @@
 {
   "command": "render-actions-forward-site",
-  "generated_at": "2026-05-28T22:04:36+09:00",
+  "generated_at": "2026-05-28T22:47:49+09:00",
   "state_dir": "tmp\\keirin-ai-forward-report-working\\data\\live_state",
   "output_dir": "tmp\\keirin-ai-forward-report-working",
   "day_count": 3,
   "prediction_count": 112,
-  "latest_date": "2026-05-29",
+  "latest_date": "2026-05-28",
   "total": {
     "period": "total",
     "race_count": 112,
