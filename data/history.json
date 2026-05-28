@@ -1981,14 +1981,14 @@
     "estimated_hit_rate": 0.1468,
     "estimated_hit_rate_pct": 14.68,
     "selected_tickets": "1-2-3|1-2-4|1-2-6|2-1-3|2-1-4|2-1-6|5-1-3|5-1-4|5-1-6|5-2-1|5-2-3|5-2-4|5-2-6",
-    "status": "pending",
+    "status": "miss",
     "late_generated": false,
-    "actual_ticket": "",
-    "actual_payout_units": "",
+    "actual_ticket": "2-1-5",
+    "actual_payout_units": 25.5,
     "invested_units": 13.0,
     "returned_units": 0.0,
-    "profit_units": 0.0,
-    "combined_odds": 2.567595995187
+    "profit_units": -13.0,
+    "combined_odds": 2.270403138817
   },
   {
     "date": "2026-05-29",
