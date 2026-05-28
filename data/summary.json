@@ -1,6 +1,6 @@
 {
   "command": "render-actions-forward-site",
-  "generated_at": "2026-05-28T17:15:51+09:00",
+  "generated_at": "2026-05-28T20:50:59+09:00",
   "state_dir": "report/data/live_state",
   "output_dir": "report",
   "day_count": 2,
@@ -9,14 +9,14 @@
   "total": {
     "period": "total",
     "race_count": 71,
-    "settled_race_count": 58,
-    "pending_count": 13,
-    "hit_count": 13,
-    "hit_rate": 0.224138,
-    "invested_units": 614.0,
-    "returned_units": 315.7,
-    "profit_units": -298.3,
-    "roi": 0.514169
+    "settled_race_count": 61,
+    "pending_count": 10,
+    "hit_count": 15,
+    "hit_rate": 0.245902,
+    "invested_units": 654.0,
+    "returned_units": 412.0,
+    "profit_units": -242.0,
+    "roi": 0.629969
   },
   "daily": [
     {
@@ -34,42 +34,42 @@
     {
       "period": "2026-05-28",
       "race_count": 34,
-      "settled_race_count": 21,
-      "pending_count": 13,
-      "hit_count": 2,
-      "hit_rate": 0.095238,
-      "invested_units": 222.0,
-      "returned_units": 76.0,
-      "profit_units": -146.0,
-      "roi": 0.342342
+      "settled_race_count": 24,
+      "pending_count": 10,
+      "hit_count": 4,
+      "hit_rate": 0.166667,
+      "invested_units": 262.0,
+      "returned_units": 172.3,
+      "profit_units": -89.7,
+      "roi": 0.657634
     }
   ],
   "weekly": [
     {
       "period": "2026-05-25",
       "race_count": 71,
-      "settled_race_count": 58,
-      "pending_count": 13,
-      "hit_count": 13,
-      "hit_rate": 0.224138,
-      "invested_units": 614.0,
-      "returned_units": 315.7,
-      "profit_units": -298.3,
-      "roi": 0.514169
+      "settled_race_count": 61,
+      "pending_count": 10,
+      "hit_count": 15,
+      "hit_rate": 0.245902,
+      "invested_units": 654.0,
+      "returned_units": 412.0,
+      "profit_units": -242.0,
+      "roi": 0.629969
     }
   ],
   "monthly": [
     {
       "period": "2026-05-01",
       "race_count": 71,
-      "settled_race_count": 58,
-      "pending_count": 13,
-      "hit_count": 13,
-      "hit_rate": 0.224138,
-      "invested_units": 614.0,
-      "returned_units": 315.7,
-      "profit_units": -298.3,
-      "roi": 0.514169
+      "settled_race_count": 61,
+      "pending_count": 10,
+      "hit_count": 15,
+      "hit_rate": 0.245902,
+      "invested_units": 654.0,
+      "returned_units": 412.0,
+      "profit_units": -242.0,
+      "roi": 0.629969
     }
   ],
   "venue_daily": [
@@ -167,14 +167,14 @@
     {
       "period": "2026-05-28",
       "race_count": 7,
-      "settled_race_count": 4,
-      "pending_count": 3,
-      "hit_count": 0,
-      "hit_rate": 0.0,
-      "invested_units": 38.0,
-      "returned_units": 0.0,
-      "profit_units": -38.0,
-      "roi": 0.0,
+      "settled_race_count": 7,
+      "pending_count": 0,
+      "hit_count": 2,
+      "hit_rate": 0.285714,
+      "invested_units": 78.0,
+      "returned_units": 96.3,
+      "profit_units": 18.3,
+      "roi": 1.234615,
       "venue": "伊東"
     },
     {
@@ -260,14 +260,14 @@
     {
       "period": "2026-05-25",
       "race_count": 7,
-      "settled_race_count": 4,
-      "pending_count": 3,
-      "hit_count": 0,
-      "hit_rate": 0.0,
-      "invested_units": 38.0,
-      "returned_units": 0.0,
-      "profit_units": -38.0,
-      "roi": 0.0,
+      "settled_race_count": 7,
+      "pending_count": 0,
+      "hit_count": 2,
+      "hit_rate": 0.285714,
+      "invested_units": 78.0,
+      "returned_units": 96.3,
+      "profit_units": 18.3,
+      "roi": 1.234615,
       "venue": "伊東"
     },
     {
@@ -431,14 +431,14 @@
     {
       "period": "2026-05-01",
       "race_count": 7,
-      "settled_race_count": 4,
-      "pending_count": 3,
-      "hit_count": 0,
-      "hit_rate": 0.0,
-      "invested_units": 38.0,
-      "returned_units": 0.0,
-      "profit_units": -38.0,
-      "roi": 0.0,
+      "settled_race_count": 7,
+      "pending_count": 0,
+      "hit_count": 2,
+      "hit_rate": 0.285714,
+      "invested_units": 78.0,
+      "returned_units": 96.3,
+      "profit_units": 18.3,
+      "roi": 1.234615,
       "venue": "伊東"
     },
     {

@@ -603,14 +603,14 @@
       "estimated_hit_rate": 0.1849,
       "estimated_hit_rate_pct": 18.49,
       "selected_tickets": "5-2-3|5-2-4|5-2-7|5-7-2|5-7-3|5-7-4|6-2-3|6-2-4|6-2-7|6-7-2|6-7-3|6-7-4|7-2-3|7-2-4",
-      "status": "pending",
+      "status": "hit",
       "late_generated": false,
-      "actual_ticket": "",
-      "actual_payout_units": "",
+      "actual_ticket": "6-2-7",
+      "actual_payout_units": 23.4,
       "invested_units": 14.0,
-      "returned_units": 0.0,
-      "profit_units": 0.0,
-      "combined_odds": 5.777336672682
+      "returned_units": 23.4,
+      "profit_units": 9.4,
+      "combined_odds": 5.897527668174
     },
     {
       "date": "2026-05-28",
@@ -630,14 +630,14 @@
       "estimated_hit_rate": 0.1492,
       "estimated_hit_rate_pct": 14.92,
       "selected_tickets": "1-4-2|1-4-5|1-7-2|1-7-4|1-7-5|2-4-1|2-4-5|2-7-1|2-7-4|2-7-5|7-4-1|7-4-2|7-4-5",
-      "status": "pending",
+      "status": "miss",
       "late_generated": false,
-      "actual_ticket": "",
-      "actual_payout_units": "",
+      "actual_ticket": "5-7-2",
+      "actual_payout_units": 38.6,
       "invested_units": 13.0,
       "returned_units": 0.0,
-      "profit_units": 0.0,
-      "combined_odds": 6.042615610801
+      "profit_units": -13.0,
+      "combined_odds": 7.715095299919
     },
     {
       "date": "2026-05-28",
@@ -657,14 +657,14 @@
       "estimated_hit_rate": 0.1734,
       "estimated_hit_rate_pct": 17.34,
       "selected_tickets": "1-3-2|1-3-4|1-5-2|1-5-3|1-5-4|4-3-1|4-3-2|4-5-1|4-5-2|4-5-3|5-3-1|5-3-2|5-3-4",
-      "status": "pending",
+      "status": "hit",
       "late_generated": false,
-      "actual_ticket": "",
-      "actual_payout_units": "",
+      "actual_ticket": "4-5-1",
+      "actual_payout_units": 72.9,
       "invested_units": 13.0,
-      "returned_units": 0.0,
-      "profit_units": 0.0,
-      "combined_odds": 2.692283441304
+      "returned_units": 72.9,
+      "profit_units": 59.9,
+      "combined_odds": 2.965086598026
     },
     {
       "date": "2026-05-28",
@@ -691,7 +691,7 @@
       "invested_units": 8.0,
       "returned_units": 0.0,
       "profit_units": 0.0,
-      "combined_odds": 7.261600056705
+      "combined_odds": 5.510043466578
     },
     {
       "date": "2026-05-28",
@@ -718,7 +718,7 @@
       "invested_units": 8.0,
       "returned_units": 0.0,
       "profit_units": 0.0,
-      "combined_odds": 4.43740862151
+      "combined_odds": 3.506813596704
     },
     {
       "date": "2026-05-28",
@@ -745,7 +745,7 @@
       "invested_units": 12.0,
       "returned_units": 0.0,
       "profit_units": 0.0,
-      "combined_odds": 4.585329082911
+      "combined_odds": 4.726603604167
     },
     {
       "date": "2026-05-28",
@@ -772,7 +772,7 @@
       "invested_units": 8.0,
       "returned_units": 0.0,
       "profit_units": 0.0,
-      "combined_odds": 3.195694998504
+      "combined_odds": 3.782051837839
     },
     {
       "date": "2026-05-28",
@@ -799,7 +799,7 @@
       "invested_units": 10.0,
       "returned_units": 0.0,
       "profit_units": 0.0,
-      "combined_odds": 7.547498901025
+      "combined_odds": 5.92100056945
     },
     {
       "date": "2026-05-28",
@@ -826,7 +826,7 @@
       "invested_units": 12.0,
       "returned_units": 0.0,
       "profit_units": 0.0,
-      "combined_odds": 3.818381195072
+      "combined_odds": 5.016738495009
     },
     {
       "date": "2026-05-28",
@@ -853,7 +853,7 @@
       "invested_units": 12.0,
       "returned_units": 0.0,
       "profit_units": 0.0,
-      "combined_odds": 3.953306860096
+      "combined_odds": 3.754101495781
     },
     {
       "date": "2026-05-28",
@@ -880,7 +880,7 @@
       "invested_units": 8.0,
       "returned_units": 0.0,
       "profit_units": 0.0,
-      "combined_odds": 3.413535828318
+      "combined_odds": 3.694818978809
     },
     {
       "date": "2026-05-28",
@@ -907,7 +907,7 @@
       "invested_units": 10.0,
       "returned_units": 0.0,
       "profit_units": 0.0,
-      "combined_odds": 2.350793607857
+      "combined_odds": 1.997482691261
     },
     {
       "date": "2026-05-28",
@@ -934,31 +934,31 @@
       "invested_units": 13.0,
       "returned_units": 0.0,
       "profit_units": 0.0,
-      "combined_odds": 2.666638413014
+      "combined_odds": 3.032389726401
     }
   ],
-  "settled_at": "2026-05-28T17:12:37+09:00",
+  "settled_at": "2026-05-28T20:47:49+09:00",
   "races_json_path": "data/raw/official/2026-05-28/races.json",
   "summary": {
     "command": "settle-actions-formation-forward",
     "target_date": "2026-05-28",
-    "generated_at": "2026-05-28T17:12:37+09:00",
+    "generated_at": "2026-05-28T20:47:49+09:00",
     "prediction_hash": "e89f135044262a14eefb9eb59036d3b0c5fd8cdeb2674a975a882288530abcbe",
     "races_json_path": "data/raw/official/2026-05-28/races.json",
     "race_count": 34,
-    "settled_race_count": 21,
-    "pending_count": 13,
-    "hit_count": 2,
-    "hit_rate": 0.095238,
-    "invested_units": 222.0,
-    "returned_units": 76.0,
-    "profit_units": -146.0,
-    "roi": 0.342342,
+    "settled_race_count": 24,
+    "pending_count": 10,
+    "hit_count": 4,
+    "hit_rate": 0.166667,
+    "invested_units": 262.0,
+    "returned_units": 172.3,
+    "profit_units": -89.7,
+    "roi": 0.657634,
     "settlement_closed": false,
     "status_counts": {
-      "hit": 2,
-      "miss": 19,
-      "pending": 13
+      "hit": 4,
+      "miss": 20,
+      "pending": 10
     }
   }
 }
