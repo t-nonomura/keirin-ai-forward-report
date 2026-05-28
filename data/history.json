@@ -1792,13 +1792,13 @@
     "estimated_hit_rate": 0.1801,
     "estimated_hit_rate_pct": 18.01,
     "selected_tickets": "1-2-3|1-2-4|3-1-2|3-1-4|3-2-1|3-2-4|5-1-2|5-1-3|5-1-4|5-2-1|5-2-3|5-2-4",
-    "status": "pending",
+    "status": "miss",
     "late_generated": false,
-    "actual_ticket": "",
-    "actual_payout_units": "",
+    "actual_ticket": "1-5-2",
+    "actual_payout_units": 18.2,
     "invested_units": 12.0,
     "returned_units": 0.0,
-    "profit_units": 0.0,
+    "profit_units": -12.0,
     "combined_odds": 3.649359344704
   },
   {
@@ -1819,14 +1819,14 @@
     "estimated_hit_rate": 0.1425,
     "estimated_hit_rate_pct": 14.25,
     "selected_tickets": "1-2-3|1-2-4|2-1-3|2-1-4|3-1-2|3-1-4|3-2-1|3-2-4",
-    "status": "pending",
+    "status": "miss",
     "late_generated": false,
-    "actual_ticket": "",
-    "actual_payout_units": "",
+    "actual_ticket": "2-4-1",
+    "actual_payout_units": 18.1,
     "invested_units": 8.0,
     "returned_units": 0.0,
-    "profit_units": 0.0,
-    "combined_odds": 2.900318632318
+    "profit_units": -8.0,
+    "combined_odds": 2.899943221425
   },
   {
     "date": "2026-05-28",
@@ -1846,14 +1846,14 @@
     "estimated_hit_rate": 0.1478,
     "estimated_hit_rate_pct": 14.78,
     "selected_tickets": "1-2-3|1-2-4|3-1-2|3-1-4|3-2-1|3-2-4|4-1-2|4-1-3|4-2-1|4-2-3",
-    "status": "pending",
+    "status": "miss",
     "late_generated": false,
-    "actual_ticket": "",
-    "actual_payout_units": "",
+    "actual_ticket": "2-7-6",
+    "actual_payout_units": 789.4,
     "invested_units": 10.0,
     "returned_units": 0.0,
-    "profit_units": 0.0,
-    "combined_odds": 5.096057893194
+    "profit_units": -10.0,
+    "combined_odds": 4.531707295291
   },
   {
     "date": "2026-05-28",
@@ -1873,14 +1873,14 @@
     "estimated_hit_rate": 0.1851,
     "estimated_hit_rate_pct": 18.51,
     "selected_tickets": "1-3-2|1-3-5|2-1-3|2-1-5|2-3-1|2-3-5|4-1-2|4-1-3|4-1-5|4-3-1|4-3-2|4-3-5",
-    "status": "pending",
+    "status": "miss",
     "late_generated": false,
-    "actual_ticket": "",
-    "actual_payout_units": "",
+    "actual_ticket": "1-2-6",
+    "actual_payout_units": 41.1,
     "invested_units": 12.0,
     "returned_units": 0.0,
-    "profit_units": 0.0,
-    "combined_odds": 4.585262874641
+    "profit_units": -12.0,
+    "combined_odds": 3.589622862141
   },
   {
     "date": "2026-05-28",
@@ -1900,14 +1900,14 @@
     "estimated_hit_rate": 0.1537,
     "estimated_hit_rate_pct": 15.37,
     "selected_tickets": "1-2-3|1-2-4|3-1-2|3-1-4|3-2-1|3-2-4|5-1-2|5-1-3|5-1-4|5-2-1|5-2-3|5-2-4",
-    "status": "pending",
+    "status": "miss",
     "late_generated": false,
-    "actual_ticket": "",
-    "actual_payout_units": "",
+    "actual_ticket": "1-2-7",
+    "actual_payout_units": 3.8,
     "invested_units": 12.0,
     "returned_units": 0.0,
-    "profit_units": 0.0,
-    "combined_odds": 3.058313124427
+    "profit_units": -12.0,
+    "combined_odds": 2.431405178118
   },
   {
     "date": "2026-05-28",
@@ -1927,14 +1927,14 @@
     "estimated_hit_rate": 0.1619,
     "estimated_hit_rate_pct": 16.19,
     "selected_tickets": "1-2-3|1-2-4|2-1-3|2-1-4|3-1-2|3-1-4|3-2-1|3-2-4",
-    "status": "pending",
+    "status": "miss",
     "late_generated": false,
-    "actual_ticket": "",
-    "actual_payout_units": "",
+    "actual_ticket": "1-2-5",
+    "actual_payout_units": 1.6,
     "invested_units": 8.0,
     "returned_units": 0.0,
-    "profit_units": 0.0,
-    "combined_odds": 4.471568567898
+    "profit_units": -8.0,
+    "combined_odds": 3.634004398865
   },
   {
     "date": "2026-05-28",
@@ -1954,14 +1954,14 @@
     "estimated_hit_rate": 0.1539,
     "estimated_hit_rate_pct": 15.39,
     "selected_tickets": "1-2-3|1-2-4|2-1-3|2-1-4|5-1-2|5-1-3|5-1-4|5-2-1|5-2-3|5-2-4",
-    "status": "pending",
+    "status": "miss",
     "late_generated": false,
-    "actual_ticket": "",
-    "actual_payout_units": "",
+    "actual_ticket": "1-2-6",
+    "actual_payout_units": 5.6,
     "invested_units": 10.0,
     "returned_units": 0.0,
-    "profit_units": 0.0,
-    "combined_odds": 1.888909838019
+    "profit_units": -10.0,
+    "combined_odds": 2.18748367835
   },
   {
     "date": "2026-05-28",
@@ -1988,7 +1988,7 @@
     "invested_units": 13.0,
     "returned_units": 0.0,
     "profit_units": 0.0,
-    "combined_odds": 2.837304620018
+    "combined_odds": 2.567595995187
   },
   {
     "date": "2026-05-29",
