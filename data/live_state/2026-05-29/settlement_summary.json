@@ -1,24 +1,15 @@
 {
-  "command": "settle-actions-formation-forward",
-  "target_date": "2026-05-29",
-  "generated_at": "2026-05-29T21:28:06+09:00",
-  "prediction_hash": "7a3989e2c97f57bb666e1a174b68c9fbc3505b148584f09cb36551ea4c6c5a87",
-  "races_json_path": "data/raw/official/2026-05-29/races.json",
-  "race_count": 41,
-  "settled_race_count": 40,
+  "period": "2026-05-29",
+  "race_count": 4,
+  "settled_race_count": 4,
   "pending_count": 0,
-  "void_count": 1,
+  "void_count": 0,
   "no_result_count": 0,
-  "hit_count": 8,
-  "hit_rate": 0.2,
-  "invested_units": 412.0,
-  "returned_units": 232.8,
-  "profit_units": -179.2,
-  "roi": 0.565049,
-  "settlement_closed": true,
-  "status_counts": {
-    "hit": 8,
-    "miss": 32,
-    "void": 1
-  }
+  "hit_count": 0,
+  "hit_rate": 0.0,
+  "invested_units": 34.0,
+  "returned_units": 0.0,
+  "profit_units": -34.0,
+  "roi": 0.0,
+  "logic_label": "S級 / 推定的中率>=13.8% / 点数<=10 / 1着候補B本数>=8 / ちぎりリスク>=0.20 / 1着確率>=0.25 / 1月・11月見送り"
 }

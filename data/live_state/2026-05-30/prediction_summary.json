@@ -2,8 +2,8 @@
   "command": "run-actions-formation-forward",
   "target_date": "2026-05-30",
   "generated_at": "2026-05-29T19:15:06+09:00",
-  "logic_id": "formation_hit0138_3x2x4_incremental_non_girls",
-  "logic_label": "3x2x4 incremental / formation_estimated_hit_rate >= 0.138 / non-girls",
+  "logic_id": "research_105_s_chigire_back_gate",
+  "logic_label": "S級 / 推定的中率>=13.8% / 点数<=10 / 1着候補B本数>=8 / ちぎりリスク>=0.20 / 1着確率>=0.25 / 1月・11月見送り",
   "min_estimated_hit_rate": 0.138,
   "formation_role_score_method": "incremental",
   "formation_first_count": 3,
@@ -12,8 +12,8 @@
   "raw_race_count": 47,
   "dataset_row_count": 344,
   "formation_row_count": 474,
-  "selected_race_count": 44,
-  "selected_ticket_count": 448,
+  "selected_race_count": 6,
+  "selected_ticket_count": 52,
   "late_generated_count": 0,
   "source_path": "data\\raw\\official\\2026-05-30\\races.json",
   "dataset_csv_path": "exports\\forward-tests\\2026-05-30\\work\\dataset\\rider_placement_dataset.csv",
@@ -27,5 +27,8 @@
     "row_count": 344
   },
   "package_manifest_hash": "1fab0eaca4f9b902eaa2ea61c24acd4e638596cdd4235ee1e70c85df75fa1345",
-  "prediction_hash": "e9df4d052bc7c177885ff2e7e948cf1ce1d36cd6314605e596b17bd97685a7d4"
+  "prediction_hash": "e9df4d052bc7c177885ff2e7e948cf1ce1d36cd6314605e596b17bd97685a7d4",
+  "backtest_logic_filter_applied": true,
+  "source_prediction_count_before_filter": 44,
+  "filter_note": "S? / ?????>=13.8% / ??<=10 / 1???B??>=8 / ??????>=0.20 / 1???>=0.25 / 1??11????"
 }
