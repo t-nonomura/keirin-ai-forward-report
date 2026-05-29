@@ -1,22 +1,22 @@
 {
   "command": "render-actions-forward-site",
-  "generated_at": "2026-05-29T04:45:34+09:00",
-  "state_dir": "report/data/live_state",
-  "output_dir": "report",
+  "generated_at": "2026-05-29T09:57:01+09:00",
+  "state_dir": "tmp\\keirin-ai-forward-report-working\\data\\live_state",
+  "output_dir": "tmp\\keirin-ai-forward-report-working",
   "day_count": 3,
   "prediction_count": 112,
   "latest_date": "2026-05-29",
   "total": {
     "period": "total",
     "race_count": 112,
-    "settled_race_count": 71,
-    "pending_count": 41,
-    "hit_count": 16,
-    "hit_rate": 0.225352,
-    "invested_units": 755.0,
-    "returned_units": 457.2,
-    "profit_units": -297.8,
-    "roi": 0.605563
+    "settled_race_count": 75,
+    "pending_count": 37,
+    "hit_count": 17,
+    "hit_rate": 0.226667,
+    "invested_units": 794.0,
+    "returned_units": 501.4,
+    "profit_units": -292.6,
+    "roi": 0.631486
   },
   "daily": [
     {
@@ -46,42 +46,42 @@
     {
       "period": "2026-05-29",
       "race_count": 41,
-      "settled_race_count": 0,
-      "pending_count": 41,
-      "hit_count": 0,
-      "hit_rate": 0.0,
-      "invested_units": 0,
-      "returned_units": 0,
-      "profit_units": 0,
-      "roi": 0.0
+      "settled_race_count": 4,
+      "pending_count": 37,
+      "hit_count": 1,
+      "hit_rate": 0.25,
+      "invested_units": 39.0,
+      "returned_units": 44.2,
+      "profit_units": 5.2,
+      "roi": 1.133333
     }
   ],
   "weekly": [
     {
       "period": "2026-05-25",
       "race_count": 112,
-      "settled_race_count": 71,
-      "pending_count": 41,
-      "hit_count": 16,
-      "hit_rate": 0.225352,
-      "invested_units": 755.0,
-      "returned_units": 457.2,
-      "profit_units": -297.8,
-      "roi": 0.605563
+      "settled_race_count": 75,
+      "pending_count": 37,
+      "hit_count": 17,
+      "hit_rate": 0.226667,
+      "invested_units": 794.0,
+      "returned_units": 501.4,
+      "profit_units": -292.6,
+      "roi": 0.631486
     }
   ],
   "monthly": [
     {
       "period": "2026-05-01",
       "race_count": 112,
-      "settled_race_count": 71,
-      "pending_count": 41,
-      "hit_count": 16,
-      "hit_rate": 0.225352,
-      "invested_units": 755.0,
-      "returned_units": 457.2,
-      "profit_units": -297.8,
-      "roi": 0.605563
+      "settled_race_count": 75,
+      "pending_count": 37,
+      "hit_count": 17,
+      "hit_rate": 0.226667,
+      "invested_units": 794.0,
+      "returned_units": 501.4,
+      "profit_units": -292.6,
+      "roi": 0.631486
     }
   ],
   "venue_daily": [
@@ -270,14 +270,14 @@
     {
       "period": "2026-05-29",
       "race_count": 7,
-      "settled_race_count": 0,
-      "pending_count": 7,
-      "hit_count": 0,
-      "hit_rate": 0.0,
-      "invested_units": 0,
-      "returned_units": 0,
-      "profit_units": 0,
-      "roi": 0.0,
+      "settled_race_count": 4,
+      "pending_count": 3,
+      "hit_count": 1,
+      "hit_rate": 0.25,
+      "invested_units": 39.0,
+      "returned_units": 44.2,
+      "profit_units": 5.2,
+      "roi": 1.133333,
       "venue": "岐阜"
     },
     {
@@ -415,14 +415,14 @@
     {
       "period": "2026-05-25",
       "race_count": 13,
-      "settled_race_count": 6,
-      "pending_count": 7,
-      "hit_count": 1,
-      "hit_rate": 0.166667,
-      "invested_units": 65.0,
-      "returned_units": 1.7,
-      "profit_units": -63.3,
-      "roi": 0.026154,
+      "settled_race_count": 10,
+      "pending_count": 3,
+      "hit_count": 2,
+      "hit_rate": 0.2,
+      "invested_units": 104.0,
+      "returned_units": 45.9,
+      "profit_units": -58.1,
+      "roi": 0.441346,
       "venue": "岐阜"
     },
     {
@@ -599,14 +599,14 @@
     {
       "period": "2026-05-01",
       "race_count": 13,
-      "settled_race_count": 6,
-      "pending_count": 7,
-      "hit_count": 1,
-      "hit_rate": 0.166667,
-      "invested_units": 65.0,
-      "returned_units": 1.7,
-      "profit_units": -63.3,
-      "roi": 0.026154,
+      "settled_race_count": 10,
+      "pending_count": 3,
+      "hit_count": 2,
+      "hit_rate": 0.2,
+      "invested_units": 104.0,
+      "returned_units": 45.9,
+      "profit_units": -58.1,
+      "roi": 0.441346,
       "venue": "岐阜"
     },
     {
