@@ -9,7 +9,7 @@
   },
   "ticket_type": "trifecta",
   "logic": {
-    "description": "S??? / ?????>=13.8% / ????<=10 / 1???B??>=8 / 1?????????>=0.20 / 1???1???>=0.25 / 1??11?????",
+    "description": "S\u7d1a\u9650\u5b9a / \u63a8\u5b9a\u7684\u4e2d\u7387>=13.8% / \u8cfc\u5165\u70b9\u6570<=10 / 1\u7740\u5019\u88dcB\u672c\u6570>=8 / 1\u7740\u5019\u88dc\u3061\u304e\u308a\u30ea\u30b9\u30af>=0.20 / 1\u7740\u5019\u88dc1\u7740\u78ba\u7387>=0.25 / 1\u6708\u30fb11\u6708\u306f\u898b\u9001\u308a",
     "base_gate": {
       "estimated_hit_rate_min": 0.138,
       "ticket_count_max": 10,
@@ -4159,7 +4159,7 @@
       "avg_tickets_per_race": 9.222222222222221,
       "avg_races_per_active_day": 1.5,
       "active_days": 12,
-      "venue": "玉野"
+      "venue": "\u7389\u91ce"
     },
     {
       "race_count": 16,
@@ -4176,7 +4176,7 @@
       "avg_tickets_per_race": 9.625,
       "avg_races_per_active_day": 1.6,
       "active_days": 10,
-      "venue": "前橋"
+      "venue": "\u524d\u6a4b"
     },
     {
       "race_count": 16,
@@ -4193,7 +4193,7 @@
       "avg_tickets_per_race": 9.25,
       "avg_races_per_active_day": 1.3333333333333333,
       "active_days": 12,
-      "venue": "小倉"
+      "venue": "\u5c0f\u5009"
     },
     {
       "race_count": 14,
@@ -4210,7 +4210,7 @@
       "avg_tickets_per_race": 8.714285714285714,
       "avg_races_per_active_day": 1.2727272727272727,
       "active_days": 11,
-      "venue": "伊東"
+      "venue": "\u4f0a\u6771"
     },
     {
       "race_count": 14,
@@ -4227,7 +4227,7 @@
       "avg_tickets_per_race": 9.714285714285714,
       "avg_races_per_active_day": 1.4,
       "active_days": 10,
-      "venue": "富山"
+      "venue": "\u5bcc\u5c71"
     },
     {
       "race_count": 14,
@@ -4244,7 +4244,7 @@
       "avg_tickets_per_race": 9.714285714285714,
       "avg_races_per_active_day": 1.2727272727272727,
       "active_days": 11,
-      "venue": "岸和田"
+      "venue": "\u5cb8\u548c\u7530"
     },
     {
       "race_count": 12,
@@ -4261,7 +4261,7 @@
       "avg_tickets_per_race": 9.666666666666666,
       "avg_races_per_active_day": 1.3333333333333333,
       "active_days": 9,
-      "venue": "豊橋"
+      "venue": "\u8c4a\u6a4b"
     },
     {
       "race_count": 11,
@@ -4278,7 +4278,7 @@
       "avg_tickets_per_race": 9.636363636363637,
       "avg_races_per_active_day": 1.375,
       "active_days": 8,
-      "venue": "京王閣"
+      "venue": "\u4eac\u738b\u95a3"
     },
     {
       "race_count": 11,
@@ -4295,7 +4295,7 @@
       "avg_tickets_per_race": 9.454545454545455,
       "avg_races_per_active_day": 1.375,
       "active_days": 8,
-      "venue": "取手"
+      "venue": "\u53d6\u624b"
     },
     {
       "race_count": 11,
@@ -4312,7 +4312,7 @@
       "avg_tickets_per_race": 9.272727272727273,
       "avg_races_per_active_day": 1.5714285714285714,
       "active_days": 7,
-      "venue": "広島"
+      "venue": "\u5e83\u5cf6"
     },
     {
       "race_count": 11,
@@ -4329,7 +4329,7 @@
       "avg_tickets_per_race": 9.090909090909092,
       "avg_races_per_active_day": 1.375,
       "active_days": 8,
-      "venue": "弥彦"
+      "venue": "\u5f25\u5f66"
     },
     {
       "race_count": 10,
@@ -4346,7 +4346,7 @@
       "avg_tickets_per_race": 9.0,
       "avg_races_per_active_day": 1.4285714285714286,
       "active_days": 7,
-      "venue": "奈良"
+      "venue": "\u5948\u826f"
     },
     {
       "race_count": 10,
@@ -4363,7 +4363,7 @@
       "avg_tickets_per_race": 9.8,
       "avg_races_per_active_day": 1.4285714285714286,
       "active_days": 7,
-      "venue": "宇都宮"
+      "venue": "\u5b87\u90fd\u5bae"
     },
     {
       "race_count": 9,
@@ -4380,7 +4380,7 @@
       "avg_tickets_per_race": 9.555555555555555,
       "avg_races_per_active_day": 1.8,
       "active_days": 5,
-      "venue": "四日市"
+      "venue": "\u56db\u65e5\u5e02"
     },
     {
       "race_count": 8,
@@ -4397,7 +4397,7 @@
       "avg_tickets_per_race": 9.75,
       "avg_races_per_active_day": 1.1428571428571428,
       "active_days": 7,
-      "venue": "久留米"
+      "venue": "\u4e45\u7559\u7c73"
     },
     {
       "race_count": 8,
@@ -4414,7 +4414,7 @@
       "avg_tickets_per_race": 8.75,
       "avg_races_per_active_day": 1.1428571428571428,
       "active_days": 7,
-      "venue": "佐世保"
+      "venue": "\u4f50\u4e16\u4fdd"
     },
     {
       "race_count": 8,
@@ -4431,7 +4431,7 @@
       "avg_tickets_per_race": 8.75,
       "avg_races_per_active_day": 1.1428571428571428,
       "active_days": 7,
-      "venue": "函館"
+      "venue": "\u51fd\u9928"
     },
     {
       "race_count": 8,
@@ -4448,7 +4448,7 @@
       "avg_tickets_per_race": 9.0,
       "avg_races_per_active_day": 1.1428571428571428,
       "active_days": 7,
-      "venue": "名古屋"
+      "venue": "\u540d\u53e4\u5c4b"
     },
     {
       "race_count": 8,
@@ -4465,7 +4465,7 @@
       "avg_tickets_per_race": 9.0,
       "avg_races_per_active_day": 1.1428571428571428,
       "active_days": 7,
-      "venue": "大宮"
+      "venue": "\u5927\u5bae"
     },
     {
       "race_count": 8,
@@ -4482,7 +4482,7 @@
       "avg_tickets_per_race": 9.0,
       "avg_races_per_active_day": 1.1428571428571428,
       "active_days": 7,
-      "venue": "小松島"
+      "venue": "\u5c0f\u677e\u5cf6"
     },
     {
       "race_count": 8,
@@ -4499,7 +4499,7 @@
       "avg_tickets_per_race": 9.5,
       "avg_races_per_active_day": 1.3333333333333333,
       "active_days": 6,
-      "venue": "小田原"
+      "venue": "\u5c0f\u7530\u539f"
     },
     {
       "race_count": 8,
@@ -4516,7 +4516,7 @@
       "avg_tickets_per_race": 9.25,
       "avg_races_per_active_day": 1.3333333333333333,
       "active_days": 6,
-      "venue": "川崎"
+      "venue": "\u5ddd\u5d0e"
     },
     {
       "race_count": 8,
@@ -4533,7 +4533,7 @@
       "avg_tickets_per_race": 9.25,
       "avg_races_per_active_day": 1.1428571428571428,
       "active_days": 7,
-      "venue": "熊本"
+      "venue": "\u718a\u672c"
     },
     {
       "race_count": 8,
@@ -4550,7 +4550,7 @@
       "avg_tickets_per_race": 9.0,
       "avg_races_per_active_day": 1.0,
       "active_days": 8,
-      "venue": "青森"
+      "venue": "\u9752\u68ee"
     },
     {
       "race_count": 7,
@@ -4567,7 +4567,7 @@
       "avg_tickets_per_race": 9.714285714285714,
       "avg_races_per_active_day": 1.4,
       "active_days": 5,
-      "venue": "別府"
+      "venue": "\u5225\u5e9c"
     },
     {
       "race_count": 6,
@@ -4584,7 +4584,7 @@
       "avg_tickets_per_race": 8.666666666666666,
       "avg_races_per_active_day": 1.2,
       "active_days": 5,
-      "venue": "大垣"
+      "venue": "\u5927\u57a3"
     },
     {
       "race_count": 6,
@@ -4601,7 +4601,7 @@
       "avg_tickets_per_race": 9.0,
       "avg_races_per_active_day": 1.0,
       "active_days": 6,
-      "venue": "高知"
+      "venue": "\u9ad8\u77e5"
     },
     {
       "race_count": 5,
@@ -4618,7 +4618,7 @@
       "avg_tickets_per_race": 9.2,
       "avg_races_per_active_day": 1.0,
       "active_days": 5,
-      "venue": "岐阜"
+      "venue": "\u5c90\u961c"
     },
     {
       "race_count": 5,
@@ -4635,7 +4635,7 @@
       "avg_tickets_per_race": 9.6,
       "avg_races_per_active_day": 1.25,
       "active_days": 4,
-      "venue": "松阪"
+      "venue": "\u677e\u962a"
     },
     {
       "race_count": 5,
@@ -4652,7 +4652,7 @@
       "avg_tickets_per_race": 9.2,
       "avg_races_per_active_day": 1.0,
       "active_days": 5,
-      "venue": "武雄"
+      "venue": "\u6b66\u96c4"
     },
     {
       "race_count": 4,
@@ -4669,7 +4669,7 @@
       "avg_tickets_per_race": 9.0,
       "avg_races_per_active_day": 1.0,
       "active_days": 4,
-      "venue": "平塚"
+      "venue": "\u5e73\u585a"
     },
     {
       "race_count": 4,
@@ -4686,7 +4686,7 @@
       "avg_tickets_per_race": 10.0,
       "avg_races_per_active_day": 1.0,
       "active_days": 4,
-      "venue": "松戸"
+      "venue": "\u677e\u6238"
     },
     {
       "race_count": 4,
@@ -4703,7 +4703,7 @@
       "avg_tickets_per_race": 10.0,
       "avg_races_per_active_day": 1.3333333333333333,
       "active_days": 3,
-      "venue": "立川"
+      "venue": "\u7acb\u5ddd"
     },
     {
       "race_count": 4,
@@ -4720,7 +4720,7 @@
       "avg_tickets_per_race": 9.5,
       "avg_races_per_active_day": 1.3333333333333333,
       "active_days": 3,
-      "venue": "西武園"
+      "venue": "\u897f\u6b66\u5712"
     },
     {
       "race_count": 4,
@@ -4737,7 +4737,7 @@
       "avg_tickets_per_race": 8.5,
       "avg_races_per_active_day": 1.0,
       "active_days": 4,
-      "venue": "静岡"
+      "venue": "\u9759\u5ca1"
     },
     {
       "race_count": 3,
@@ -4754,7 +4754,7 @@
       "avg_tickets_per_race": 9.333333333333334,
       "avg_races_per_active_day": 1.0,
       "active_days": 3,
-      "venue": "福井"
+      "venue": "\u798f\u4e95"
     },
     {
       "race_count": 2,
@@ -4771,7 +4771,7 @@
       "avg_tickets_per_race": 8.0,
       "avg_races_per_active_day": 2.0,
       "active_days": 1,
-      "venue": "いわき平"
+      "venue": "\u3044\u308f\u304d\u5e73"
     },
     {
       "race_count": 2,
@@ -4788,7 +4788,7 @@
       "avg_tickets_per_race": 8.0,
       "avg_races_per_active_day": 1.0,
       "active_days": 2,
-      "venue": "松山"
+      "venue": "\u677e\u5c71"
     },
     {
       "race_count": 2,
@@ -4805,7 +4805,7 @@
       "avg_tickets_per_race": 9.0,
       "avg_races_per_active_day": 1.0,
       "active_days": 2,
-      "venue": "防府"
+      "venue": "\u9632\u5e9c"
     },
     {
       "race_count": 1,
@@ -4822,7 +4822,7 @@
       "avg_tickets_per_race": 10.0,
       "avg_races_per_active_day": 1.0,
       "active_days": 1,
-      "venue": "和歌山"
+      "venue": "\u548c\u6b4c\u5c71"
     },
     {
       "race_count": 1,
@@ -4839,7 +4839,7 @@
       "avg_tickets_per_race": 10.0,
       "avg_races_per_active_day": 1.0,
       "active_days": 1,
-      "venue": "高松"
+      "venue": "\u9ad8\u677e"
     }
   ],
   "source_files": {
