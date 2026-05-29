@@ -1,6 +1,24 @@
 {
+  "command": "run-actions-formation-forward",
   "target_date": "2026-05-30",
+  "generated_at": "2026-05-29T19:15:06+09:00",
+  "logic_id": "research_105_s_chigire_back_gate",
   "logic_label": "S級 / 推定的中率>=13.8% / 点数<=10 / 1着候補B本数>=8 / ちぎりリスク>=0.20 / 1着確率>=0.25 / 1月・11月見送り",
+  "prediction_hash": "e9df4d052bc7c177885ff2e7e948cf1ce1d36cd6314605e596b17bd97685a7d4",
+  "package_manifest_hash": "1fab0eaca4f9b902eaa2ea61c24acd4e638596cdd4235ee1e70c85df75fa1345",
+  "package_manifest": {
+    "package_kind": "local_forward_full",
+    "generated_by": "prepare-local-forward-schedule",
+    "model_dir": "tmp\\today-formation-hit0138-20260527\\model_all_latest_1y_lr",
+    "model_sha256": "26e5f51fa9d195d413af50ed8975c8093a4f306f992c09330438ecda6e8ae950",
+    "metadata_sha256": "ed07afd479a815cc7bdc49438f7ef250dbde65212a64d1874b860b3122a72b18",
+    "db_path": "data\\keirin_ai.sqlite",
+    "db_sha256": "4613d68c571703317c3ede3a5a9d9b0897ccd819467a7078ea6f84b9252c4825",
+    "snapshot_csv_sha256": "ab9b30ce0d00faf2c3b92268d7a977d68cf6eea803a522415a430e10a5f20d22",
+    "logic": "3x2x4 incremental / formation_estimated_hit_rate >= 0.138 / local rider DB",
+    "manifest_sha256": "1fab0eaca4f9b902eaa2ea61c24acd4e638596cdd4235ee1e70c85df75fa1345"
+  },
+  "ticket_changes_allowed": false,
   "predictions": [
     {
       "date": "2026-05-30",
@@ -190,17 +208,37 @@
     }
   ],
   "summary": {
-    "period": "2026-05-30",
-    "race_count": 6,
-    "settled_race_count": 0,
-    "pending_count": 6,
-    "void_count": 0,
-    "no_result_count": 0,
-    "hit_count": 0,
-    "hit_rate": 0.0,
-    "invested_units": 0,
-    "returned_units": 0,
-    "profit_units": 0,
-    "roi": 0.0
+    "command": "run-actions-formation-forward",
+    "target_date": "2026-05-30",
+    "generated_at": "2026-05-29T19:15:06+09:00",
+    "logic_id": "research_105_s_chigire_back_gate",
+    "logic_label": "S級 / 推定的中率>=13.8% / 点数<=10 / 1着候補B本数>=8 / ちぎりリスク>=0.20 / 1着確率>=0.25 / 1月・11月見送り",
+    "min_estimated_hit_rate": 0.138,
+    "formation_role_score_method": "incremental",
+    "formation_first_count": 3,
+    "formation_second_count": 2,
+    "formation_third_count": 4,
+    "raw_race_count": 47,
+    "dataset_row_count": 344,
+    "formation_row_count": 474,
+    "selected_race_count": 6,
+    "selected_ticket_count": 52,
+    "late_generated_count": 0,
+    "source_path": "data\\raw\\official\\2026-05-30\\races.json",
+    "dataset_csv_path": "exports\\forward-tests\\2026-05-30\\work\\dataset\\rider_placement_dataset.csv",
+    "scored_csv_path": "exports\\forward-tests\\2026-05-30\\work\\scored.csv",
+    "formations_csv_path": "exports\\forward-tests\\2026-05-30\\work\\formations_3x2x4_incremental.csv",
+    "score_summary": {
+      "command": "score-rider-placement-dataset",
+      "dataset_csv_path": "exports\\forward-tests\\2026-05-30\\work\\dataset\\rider_placement_dataset.csv",
+      "model_dir": "tmp\\today-formation-hit0138-20260527\\model_all_latest_1y_lr",
+      "output_path": "exports\\forward-tests\\2026-05-30\\work\\scored.csv",
+      "row_count": 344
+    },
+    "package_manifest_hash": "1fab0eaca4f9b902eaa2ea61c24acd4e638596cdd4235ee1e70c85df75fa1345",
+    "prediction_hash": "e9df4d052bc7c177885ff2e7e948cf1ce1d36cd6314605e596b17bd97685a7d4",
+    "backtest_logic_filter_applied": true,
+    "source_prediction_count_before_filter": 44,
+    "filter_note": "S? / ?????>=13.8% / ??<=10 / 1???B??>=8 / ??????>=0.20 / 1???>=0.25 / 1??11????"
   }
 }
