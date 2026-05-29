@@ -1,16 +1,16 @@
 {
   "command": "render-actions-forward-site",
-  "generated_at": "2026-05-29T09:57:01+09:00",
+  "generated_at": "2026-05-29T10:32:11+09:00",
   "state_dir": "tmp\\keirin-ai-forward-report-working\\data\\live_state",
   "output_dir": "tmp\\keirin-ai-forward-report-working",
-  "day_count": 3,
-  "prediction_count": 112,
+  "day_count": 4,
+  "prediction_count": 170,
   "latest_date": "2026-05-29",
   "total": {
     "period": "total",
-    "race_count": 112,
+    "race_count": 170,
     "settled_race_count": 75,
-    "pending_count": 37,
+    "pending_count": 95,
     "hit_count": 17,
     "hit_rate": 0.226667,
     "invested_units": 794.0,
@@ -19,6 +19,18 @@
     "roi": 0.631486
   },
   "daily": [
+    {
+      "period": "2026-05-26",
+      "race_count": 58,
+      "settled_race_count": 0,
+      "pending_count": 58,
+      "hit_count": 0,
+      "hit_rate": 0.0,
+      "invested_units": 0,
+      "returned_units": 0,
+      "profit_units": 0,
+      "roi": 0.0
+    },
     {
       "period": "2026-05-27",
       "race_count": 37,
@@ -59,9 +71,9 @@
   "weekly": [
     {
       "period": "2026-05-25",
-      "race_count": 112,
+      "race_count": 170,
       "settled_race_count": 75,
-      "pending_count": 37,
+      "pending_count": 95,
       "hit_count": 17,
       "hit_rate": 0.226667,
       "invested_units": 794.0,
@@ -73,9 +85,9 @@
   "monthly": [
     {
       "period": "2026-05-01",
-      "race_count": 112,
+      "race_count": 170,
       "settled_race_count": 75,
-      "pending_count": 37,
+      "pending_count": 95,
       "hit_count": 17,
       "hit_rate": 0.226667,
       "invested_units": 794.0,
@@ -85,6 +97,110 @@
     }
   ],
   "venue_daily": [
+    {
+      "period": "2026-05-26",
+      "race_count": 3,
+      "settled_race_count": 0,
+      "pending_count": 3,
+      "hit_count": 0,
+      "hit_rate": 0.0,
+      "invested_units": 0,
+      "returned_units": 0,
+      "profit_units": 0,
+      "roi": 0.0,
+      "venue": "京王閣"
+    },
+    {
+      "period": "2026-05-26",
+      "race_count": 12,
+      "settled_race_count": 0,
+      "pending_count": 12,
+      "hit_count": 0,
+      "hit_rate": 0.0,
+      "invested_units": 0,
+      "returned_units": 0,
+      "profit_units": 0,
+      "roi": 0.0,
+      "venue": "別府"
+    },
+    {
+      "period": "2026-05-26",
+      "race_count": 9,
+      "settled_race_count": 0,
+      "pending_count": 9,
+      "hit_count": 0,
+      "hit_rate": 0.0,
+      "invested_units": 0,
+      "returned_units": 0,
+      "profit_units": 0,
+      "roi": 0.0,
+      "venue": "前橋"
+    },
+    {
+      "period": "2026-05-26",
+      "race_count": 7,
+      "settled_race_count": 0,
+      "pending_count": 7,
+      "hit_count": 0,
+      "hit_rate": 0.0,
+      "invested_units": 0,
+      "returned_units": 0,
+      "profit_units": 0,
+      "roi": 0.0,
+      "venue": "名古屋"
+    },
+    {
+      "period": "2026-05-26",
+      "race_count": 12,
+      "settled_race_count": 0,
+      "pending_count": 12,
+      "hit_count": 0,
+      "hit_rate": 0.0,
+      "invested_units": 0,
+      "returned_units": 0,
+      "profit_units": 0,
+      "roi": 0.0,
+      "venue": "大垣"
+    },
+    {
+      "period": "2026-05-26",
+      "race_count": 3,
+      "settled_race_count": 0,
+      "pending_count": 3,
+      "hit_count": 0,
+      "hit_rate": 0.0,
+      "invested_units": 0,
+      "returned_units": 0,
+      "profit_units": 0,
+      "roi": 0.0,
+      "venue": "松山"
+    },
+    {
+      "period": "2026-05-26",
+      "race_count": 3,
+      "settled_race_count": 0,
+      "pending_count": 3,
+      "hit_count": 0,
+      "hit_rate": 0.0,
+      "invested_units": 0,
+      "returned_units": 0,
+      "profit_units": 0,
+      "roi": 0.0,
+      "venue": "玉野"
+    },
+    {
+      "period": "2026-05-26",
+      "race_count": 9,
+      "settled_race_count": 0,
+      "pending_count": 9,
+      "hit_count": 0,
+      "hit_rate": 0.0,
+      "invested_units": 0,
+      "returned_units": 0,
+      "profit_units": 0,
+      "roi": 0.0,
+      "venue": "静岡"
+    },
     {
       "period": "2026-05-27",
       "race_count": 1,
@@ -323,9 +439,9 @@
   "venue_weekly": [
     {
       "period": "2026-05-25",
-      "race_count": 1,
+      "race_count": 4,
       "settled_race_count": 1,
-      "pending_count": 0,
+      "pending_count": 3,
       "hit_count": 1,
       "hit_rate": 1.0,
       "invested_units": 10.0,
@@ -349,9 +465,9 @@
     },
     {
       "period": "2026-05-25",
-      "race_count": 11,
+      "race_count": 23,
       "settled_race_count": 11,
-      "pending_count": 0,
+      "pending_count": 12,
       "hit_count": 4,
       "hit_rate": 0.363636,
       "invested_units": 122.0,
@@ -362,9 +478,9 @@
     },
     {
       "period": "2026-05-25",
-      "race_count": 8,
+      "race_count": 17,
       "settled_race_count": 8,
-      "pending_count": 0,
+      "pending_count": 9,
       "hit_count": 2,
       "hit_rate": 0.25,
       "invested_units": 87.0,
@@ -375,9 +491,9 @@
     },
     {
       "period": "2026-05-25",
-      "race_count": 7,
+      "race_count": 14,
       "settled_race_count": 7,
-      "pending_count": 0,
+      "pending_count": 7,
       "hit_count": 1,
       "hit_rate": 0.142857,
       "invested_units": 72.0,
@@ -388,9 +504,9 @@
     },
     {
       "period": "2026-05-25",
-      "race_count": 2,
+      "race_count": 14,
       "settled_race_count": 2,
-      "pending_count": 0,
+      "pending_count": 12,
       "hit_count": 0,
       "hit_rate": 0.0,
       "invested_units": 19.0,
@@ -453,9 +569,9 @@
     },
     {
       "period": "2026-05-25",
-      "race_count": 7,
+      "race_count": 10,
       "settled_race_count": 7,
-      "pending_count": 0,
+      "pending_count": 3,
       "hit_count": 0,
       "hit_rate": 0.0,
       "invested_units": 77.0,
@@ -479,9 +595,9 @@
     },
     {
       "period": "2026-05-25",
-      "race_count": 6,
+      "race_count": 9,
       "settled_race_count": 6,
-      "pending_count": 0,
+      "pending_count": 3,
       "hit_count": 3,
       "hit_rate": 0.5,
       "invested_units": 56.0,
@@ -502,14 +618,27 @@
       "profit_units": -36.0,
       "roi": 0.0,
       "venue": "青森"
+    },
+    {
+      "period": "2026-05-25",
+      "race_count": 9,
+      "settled_race_count": 0,
+      "pending_count": 9,
+      "hit_count": 0,
+      "hit_rate": 0.0,
+      "invested_units": 0,
+      "returned_units": 0,
+      "profit_units": 0,
+      "roi": 0.0,
+      "venue": "静岡"
     }
   ],
   "venue_monthly": [
     {
       "period": "2026-05-01",
-      "race_count": 1,
+      "race_count": 4,
       "settled_race_count": 1,
-      "pending_count": 0,
+      "pending_count": 3,
       "hit_count": 1,
       "hit_rate": 1.0,
       "invested_units": 10.0,
@@ -533,9 +662,9 @@
     },
     {
       "period": "2026-05-01",
-      "race_count": 11,
+      "race_count": 23,
       "settled_race_count": 11,
-      "pending_count": 0,
+      "pending_count": 12,
       "hit_count": 4,
       "hit_rate": 0.363636,
       "invested_units": 122.0,
@@ -546,9 +675,9 @@
     },
     {
       "period": "2026-05-01",
-      "race_count": 8,
+      "race_count": 17,
       "settled_race_count": 8,
-      "pending_count": 0,
+      "pending_count": 9,
       "hit_count": 2,
       "hit_rate": 0.25,
       "invested_units": 87.0,
@@ -559,9 +688,9 @@
     },
     {
       "period": "2026-05-01",
-      "race_count": 7,
+      "race_count": 14,
       "settled_race_count": 7,
-      "pending_count": 0,
+      "pending_count": 7,
       "hit_count": 1,
       "hit_rate": 0.142857,
       "invested_units": 72.0,
@@ -572,9 +701,9 @@
     },
     {
       "period": "2026-05-01",
-      "race_count": 2,
+      "race_count": 14,
       "settled_race_count": 2,
-      "pending_count": 0,
+      "pending_count": 12,
       "hit_count": 0,
       "hit_rate": 0.0,
       "invested_units": 19.0,
@@ -637,9 +766,9 @@
     },
     {
       "period": "2026-05-01",
-      "race_count": 7,
+      "race_count": 10,
       "settled_race_count": 7,
-      "pending_count": 0,
+      "pending_count": 3,
       "hit_count": 0,
       "hit_rate": 0.0,
       "invested_units": 77.0,
@@ -663,9 +792,9 @@
     },
     {
       "period": "2026-05-01",
-      "race_count": 6,
+      "race_count": 9,
       "settled_race_count": 6,
-      "pending_count": 0,
+      "pending_count": 3,
       "hit_count": 3,
       "hit_rate": 0.5,
       "invested_units": 56.0,
@@ -686,6 +815,19 @@
       "profit_units": -36.0,
       "roi": 0.0,
       "venue": "青森"
+    },
+    {
+      "period": "2026-05-01",
+      "race_count": 9,
+      "settled_race_count": 0,
+      "pending_count": 9,
+      "hit_count": 0,
+      "hit_rate": 0.0,
+      "invested_units": 0,
+      "returned_units": 0,
+      "profit_units": 0,
+      "roi": 0.0,
+      "venue": "静岡"
     }
   ]
 }
