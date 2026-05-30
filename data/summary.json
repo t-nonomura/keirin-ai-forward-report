@@ -1,6 +1,6 @@
 {
   "command": "render-actions-forward-site",
-  "generated_at": "2026-05-31T00:36:57+09:00",
+  "generated_at": "2026-05-31T02:21:21+09:00",
   "state_dir": "report/data/live_state",
   "output_dir": "report",
   "day_count": 5,
