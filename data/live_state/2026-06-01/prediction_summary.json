@@ -1,0 +1,32 @@
+{
+  "command": "run-actions-formation-forward",
+  "target_date": "2026-06-01",
+  "generated_at": "2026-06-01T05:37:10+09:00",
+  "logic_id": "formation_hit0138_3x2x4_incremental_s_line_break",
+  "logic_label": "3x2x4 incremental / formation_estimated_hit_rate >= 0.138 / S-class / line-break back-chigire gate",
+  "min_estimated_hit_rate": 0.138,
+  "formation_role_score_method": "incremental",
+  "formation_first_count": 3,
+  "formation_second_count": 2,
+  "formation_third_count": 4,
+  "prediction_gate_profile": "line_break_back_chigire_s",
+  "raw_race_count": 86,
+  "dataset_row_count": 613,
+  "formation_row_count": 763,
+  "selected_race_count": 2,
+  "selected_ticket_count": 20,
+  "late_generated_count": 0,
+  "source_path": "data\\raw\\official\\2026-06-01\\races.json",
+  "dataset_csv_path": "exports\\forward-tests\\2026-06-01\\work\\dataset\\rider_placement_dataset.csv",
+  "scored_csv_path": "exports\\forward-tests\\2026-06-01\\work\\scored.csv",
+  "formations_csv_path": "exports\\forward-tests\\2026-06-01\\work\\formations_3x2x4_incremental.csv",
+  "score_summary": {
+    "command": "score-rider-placement-dataset",
+    "dataset_csv_path": "exports\\forward-tests\\2026-06-01\\work\\dataset\\rider_placement_dataset.csv",
+    "model_dir": "tmp\\preodds-safe-feature-backtest-1y-hit0138-fixed-20250527-20260526\\model",
+    "output_path": "exports\\forward-tests\\2026-06-01\\work\\scored.csv",
+    "row_count": 613
+  },
+  "package_manifest_hash": "b267d9cea6b4111e06f428de680e0ebe64270b38118a12a691effb93c8426c32",
+  "prediction_hash": "09b15762932cb029a844c08e49fa2a1e9a8f1b663143c6ad53c290af240c459f"
+}
