@@ -1,6 +1,6 @@
 {
   "command": "render-actions-forward-site",
-  "generated_at": "2026-05-31T18:27:16+09:00",
+  "generated_at": "2026-05-31T20:10:19+09:00",
   "state_dir": "report/data/live_state",
   "output_dir": "report",
   "day_count": 6,
@@ -9,16 +9,16 @@
   "total": {
     "period": "total",
     "race_count": 20,
-    "settled_race_count": 15,
-    "pending_count": 5,
+    "settled_race_count": 19,
+    "pending_count": 1,
     "void_count": 0,
     "no_result_count": 0,
-    "hit_count": 3,
-    "hit_rate": 0.2,
-    "invested_units": 134.0,
-    "returned_units": 20.6,
-    "profit_units": -113.4,
-    "roi": 0.153731
+    "hit_count": 4,
+    "hit_rate": 0.210526,
+    "invested_units": 170.0,
+    "returned_units": 28.8,
+    "profit_units": -141.2,
+    "roi": 0.169412
   },
   "daily": [
     {
@@ -80,48 +80,48 @@
     {
       "period": "2026-05-31",
       "race_count": 8,
-      "settled_race_count": 3,
-      "pending_count": 5,
+      "settled_race_count": 7,
+      "pending_count": 1,
       "void_count": 0,
       "no_result_count": 0,
-      "hit_count": 1,
-      "hit_rate": 0.333333,
-      "invested_units": 26.0,
-      "returned_units": 7.2,
-      "profit_units": -18.8,
-      "roi": 0.276923
+      "hit_count": 2,
+      "hit_rate": 0.285714,
+      "invested_units": 62.0,
+      "returned_units": 15.4,
+      "profit_units": -46.6,
+      "roi": 0.248387
     }
   ],
   "weekly": [
     {
       "period": "2026-05-25",
       "race_count": 20,
-      "settled_race_count": 15,
-      "pending_count": 5,
+      "settled_race_count": 19,
+      "pending_count": 1,
       "void_count": 0,
       "no_result_count": 0,
-      "hit_count": 3,
-      "hit_rate": 0.2,
-      "invested_units": 134.0,
-      "returned_units": 20.6,
-      "profit_units": -113.4,
-      "roi": 0.153731
+      "hit_count": 4,
+      "hit_rate": 0.210526,
+      "invested_units": 170.0,
+      "returned_units": 28.8,
+      "profit_units": -141.2,
+      "roi": 0.169412
     }
   ],
   "monthly": [
     {
       "period": "2026-05-01",
       "race_count": 20,
-      "settled_race_count": 15,
-      "pending_count": 5,
+      "settled_race_count": 19,
+      "pending_count": 1,
       "void_count": 0,
       "no_result_count": 0,
-      "hit_count": 3,
-      "hit_rate": 0.2,
-      "invested_units": 134.0,
-      "returned_units": 20.6,
-      "profit_units": -113.4,
-      "roi": 0.153731
+      "hit_count": 4,
+      "hit_rate": 0.210526,
+      "invested_units": 170.0,
+      "returned_units": 28.8,
+      "profit_units": -141.2,
+      "roi": 0.169412
     }
   ],
   "venue_daily": [
@@ -248,16 +248,16 @@
     {
       "period": "2026-05-31",
       "race_count": 5,
-      "settled_race_count": 0,
-      "pending_count": 5,
+      "settled_race_count": 4,
+      "pending_count": 1,
       "void_count": 0,
       "no_result_count": 0,
-      "hit_count": 0,
-      "hit_rate": 0.0,
-      "invested_units": 0,
-      "returned_units": 0,
-      "profit_units": 0,
-      "roi": 0.0,
+      "hit_count": 1,
+      "hit_rate": 0.25,
+      "invested_units": 36.0,
+      "returned_units": 8.2,
+      "profit_units": -27.8,
+      "roi": 0.227778,
       "venue": "松戸"
     }
   ],
@@ -325,16 +325,16 @@
     {
       "period": "2026-05-25",
       "race_count": 5,
-      "settled_race_count": 0,
-      "pending_count": 5,
+      "settled_race_count": 4,
+      "pending_count": 1,
       "void_count": 0,
       "no_result_count": 0,
-      "hit_count": 0,
-      "hit_rate": 0.0,
-      "invested_units": 0,
-      "returned_units": 0,
-      "profit_units": 0,
-      "roi": 0.0,
+      "hit_count": 1,
+      "hit_rate": 0.25,
+      "invested_units": 36.0,
+      "returned_units": 8.2,
+      "profit_units": -27.8,
+      "roi": 0.227778,
       "venue": "松戸"
     }
   ],
@@ -402,16 +402,16 @@
     {
       "period": "2026-05-01",
       "race_count": 5,
-      "settled_race_count": 0,
-      "pending_count": 5,
+      "settled_race_count": 4,
+      "pending_count": 1,
       "void_count": 0,
       "no_result_count": 0,
-      "hit_count": 0,
-      "hit_rate": 0.0,
-      "invested_units": 0,
-      "returned_units": 0,
-      "profit_units": 0,
-      "roi": 0.0,
+      "hit_count": 1,
+      "hit_rate": 0.25,
+      "invested_units": 36.0,
+      "returned_units": 8.2,
+      "profit_units": -27.8,
+      "roi": 0.227778,
       "venue": "松戸"
     }
   ]
