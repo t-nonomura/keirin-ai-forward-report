@@ -29,7 +29,12 @@
     "first_back_max": 21.0,
     "first_chigire_max": 0.4042,
     "first_p1_max": 0.303955910746,
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2026-05-27",
@@ -61,7 +66,12 @@
     "first_back_max": 13.0,
     "first_chigire_max": 0.3872,
     "first_p1_max": 0.281493270914,
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2026-05-28",
@@ -93,7 +103,12 @@
     "first_back_max": 15.0,
     "first_chigire_max": 0.3872,
     "first_p1_max": 0.41866257649,
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2026-05-29",
@@ -125,7 +140,12 @@
     "first_back_max": 12.0,
     "first_chigire_max": 0.4305,
     "first_p1_max": 0.389765596887,
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2026-05-29",
@@ -157,7 +177,12 @@
     "first_back_max": 13.0,
     "first_chigire_max": 0.2757,
     "first_p1_max": 0.279058450469,
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2026-05-29",
@@ -189,7 +214,12 @@
     "first_back_max": 12.0,
     "first_chigire_max": 0.4083,
     "first_p1_max": 0.304600157078,
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2026-05-30",
@@ -222,7 +252,12 @@
     "first_p1_max": 0.280593078372,
     "logic_profile": "research_105_s_chigire_back_gate",
     "prediction_gate_profile": "line_break_back_chigire_s",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2026-05-30",
@@ -255,7 +290,12 @@
     "first_p1_max": 0.258690097788,
     "logic_profile": "research_105_s_chigire_back_gate",
     "prediction_gate_profile": "line_break_back_chigire_s",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2026-05-30",
@@ -288,7 +328,12 @@
     "first_p1_max": 0.310319364673,
     "logic_profile": "research_105_s_chigire_back_gate",
     "prediction_gate_profile": "line_break_back_chigire_s",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2026-05-30",
@@ -321,7 +366,12 @@
     "first_p1_max": 0.360729980558,
     "logic_profile": "research_105_s_chigire_back_gate",
     "prediction_gate_profile": "line_break_back_chigire_s",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2026-05-30",
@@ -354,7 +404,12 @@
     "first_p1_max": 0.331362044651,
     "logic_profile": "research_105_s_chigire_back_gate",
     "prediction_gate_profile": "line_break_back_chigire_s",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2026-05-30",
@@ -387,7 +442,12 @@
     "first_p1_max": 0.337556421099,
     "logic_profile": "research_105_s_chigire_back_gate",
     "prediction_gate_profile": "line_break_back_chigire_s",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2026-05-31",
@@ -419,7 +479,12 @@
     "first_back_max": 18.0,
     "first_chigire_max": 0.3107,
     "first_p1_max": 0.26538679295,
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2026-05-31",
@@ -451,7 +516,12 @@
     "first_back_max": 9.0,
     "first_chigire_max": 0.4287,
     "first_p1_max": 0.340409011829,
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2026-05-31",
@@ -483,7 +553,12 @@
     "first_back_max": 11.0,
     "first_chigire_max": 0.2395,
     "first_p1_max": 0.280111513687,
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2026-05-31",
@@ -515,7 +590,12 @@
     "first_back_max": 9.0,
     "first_chigire_max": 0.3038,
     "first_p1_max": 0.289637708867,
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2026-05-31",
@@ -547,7 +627,12 @@
     "first_back_max": 10.0,
     "first_chigire_max": 0.302,
     "first_p1_max": 0.363636323481,
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2026-05-31",
@@ -579,7 +664,12 @@
     "first_back_max": 19.0,
     "first_chigire_max": 0.2968,
     "first_p1_max": 0.307495514936,
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2026-05-31",
@@ -611,7 +701,12 @@
     "first_back_max": 13.0,
     "first_chigire_max": 0.354,
     "first_p1_max": 0.306710467412,
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2026-05-31",
@@ -643,7 +738,12 @@
     "first_back_max": 11.0,
     "first_chigire_max": 0.3785,
     "first_p1_max": 0.447600275916,
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2026-06-01",
@@ -675,7 +775,12 @@
     "first_back_max": 15.0,
     "first_chigire_max": 0.3312,
     "first_p1_max": 0.33768985931,
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2026-06-01",
@@ -707,6 +812,11 @@
     "first_back_max": 10.0,
     "first_chigire_max": 0.4725,
     "first_p1_max": 0.31775507127,
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   }
 ]
