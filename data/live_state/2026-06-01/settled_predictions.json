@@ -52,12 +52,7 @@
       "first_chigire_max": 0.3312,
       "first_p1_max": 0.33768985931,
       "race_class_scope": "s",
-      "selection_integrity_status": "",
-      "ticket_type": "trifecta",
-      "selection_role": "challenger",
-      "sales_evidence_allowed": false,
-      "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
-      "candidate_selection_scope": "fixed_research_gate"
+      "selection_integrity_status": ""
     },
     {
       "date": "2026-06-01",
@@ -90,12 +85,7 @@
       "first_chigire_max": 0.4725,
       "first_p1_max": 0.31775507127,
       "race_class_scope": "s",
-      "selection_integrity_status": "",
-      "ticket_type": "trifecta",
-      "selection_role": "challenger",
-      "sales_evidence_allowed": false,
-      "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
-      "candidate_selection_scope": "fixed_research_gate"
+      "selection_integrity_status": ""
     }
   ],
   "summary": {
