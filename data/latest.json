@@ -126,5 +126,37 @@
       "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
       "candidate_selection_scope": "fixed_research_gate"
     }
-  ]
+  ],
+  "evidence_policy": {
+    "sales_evidence_allowed": false,
+    "sales_evidence_allowed_counts": {
+      "false": 2
+    },
+    "sales_evidence_blocked_count": 2,
+    "missing_selected_tickets_count": 0,
+    "research_only_count": 2,
+    "research_only_reason_counts": {
+      "s_class_line_break_gate_requires_forward_evidence": 2
+    },
+    "candidate_selection_scope_counts": {
+      "fixed_research_gate": 2
+    },
+    "ticket_type_counts": {
+      "trifecta": 2
+    },
+    "selection_role_counts": {
+      "challenger": 2
+    },
+    "race_class_scope_counts": {
+      "s": 2
+    },
+    "month_exclusion_counts": {
+      "1|11": 2
+    },
+    "warnings": [
+      "research_only_rows_present",
+      "sales_evidence_blocked",
+      "posthoc_month_exclusion_1_11_present"
+    ]
+  }
 }
