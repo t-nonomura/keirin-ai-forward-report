@@ -1,14 +1,45 @@
 {
   "command": "render-actions-forward-site",
-  "generated_at": "2026-05-31T08:06:06+09:00",
+  "generated_at": "2026-06-01T10:09:56+09:00",
   "state_dir": "tmp\\backtest-s-class-report-state-20260531",
   "output_dir": "tmp\\keirin-ai-forward-report-working\\backtest",
   "day_count": 180,
   "prediction_count": 322,
   "latest_date": "2026-05-12",
-  "logic_label": "3x2x4 incremental / formation_estimated_hit_rate >= 0.138 / S-class / line-break back-chigire gate",
+  "logic_label": "3x2x4 incremental / formation_estimated_hit_rate >= 0.138 / gate=line_break_back_chigire_s (S-class challenger, ticket<=10, first_back>=8, first_chigire>=0.20, first_p1>=0.25, month_not_in=1|11)",
   "prediction_gate_profile_counts": {
     "line_break_back_chigire_s": 322
+  },
+  "evidence_policy": {
+    "sales_evidence_allowed": false,
+    "sales_evidence_allowed_counts": {
+      "false": 322
+    },
+    "sales_evidence_blocked_count": 322,
+    "research_only_count": 322,
+    "research_only_reason_counts": {
+      "s_class_line_break_gate_requires_forward_evidence": 322
+    },
+    "candidate_selection_scope_counts": {
+      "fixed_research_gate": 322
+    },
+    "ticket_type_counts": {
+      "trifecta": 322
+    },
+    "selection_role_counts": {
+      "challenger": 322
+    },
+    "race_class_scope_counts": {
+      "s": 322
+    },
+    "month_exclusion_counts": {
+      "1|11": 322
+    },
+    "warnings": [
+      "research_only_rows_present",
+      "sales_evidence_blocked",
+      "posthoc_month_exclusion_1_11_present"
+    ]
   },
   "total": {
     "period": "total",

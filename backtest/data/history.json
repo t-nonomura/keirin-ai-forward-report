@@ -29,7 +29,12 @@
     "first_back_max": "14.0",
     "first_chigire_max": "0.406",
     "first_p1_max": "0.297182550412",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2025-05-27",
@@ -61,7 +66,12 @@
     "first_back_max": "10.0",
     "first_chigire_max": "0.347",
     "first_p1_max": "0.298076556528",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2025-05-28",
@@ -93,7 +103,12 @@
     "first_back_max": "18.0",
     "first_chigire_max": "0.4078",
     "first_p1_max": "0.279601467955",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2025-05-28",
@@ -125,7 +140,12 @@
     "first_back_max": "15.0",
     "first_chigire_max": "0.566",
     "first_p1_max": "0.347372330868",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2025-05-28",
@@ -157,7 +177,12 @@
     "first_back_max": "15.0",
     "first_chigire_max": "0.4392",
     "first_p1_max": "0.385073730441",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2025-05-29",
@@ -189,7 +214,12 @@
     "first_back_max": "17.0",
     "first_chigire_max": "0.3317",
     "first_p1_max": "0.269787576907",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2025-05-29",
@@ -221,7 +251,12 @@
     "first_back_max": "8.0",
     "first_chigire_max": "0.5228",
     "first_p1_max": "0.266386622812",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2025-05-29",
@@ -253,7 +288,12 @@
     "first_back_max": "9.0",
     "first_chigire_max": "0.4047",
     "first_p1_max": "0.290876320544",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2025-05-29",
@@ -285,7 +325,12 @@
     "first_back_max": "15.0",
     "first_chigire_max": "0.5123",
     "first_p1_max": "0.293724026451",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2025-05-29",
@@ -317,7 +362,12 @@
     "first_back_max": "15.0",
     "first_chigire_max": "0.4462",
     "first_p1_max": "0.309672362314",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2025-05-31",
@@ -349,7 +399,12 @@
     "first_back_max": "12.0",
     "first_chigire_max": "0.4065",
     "first_p1_max": "0.306811986075",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2025-05-31",
@@ -381,7 +436,12 @@
     "first_back_max": "10.0",
     "first_chigire_max": "0.455",
     "first_p1_max": "0.295327094695",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2025-05-31",
@@ -413,7 +473,12 @@
     "first_back_max": "12.0",
     "first_chigire_max": "0.375",
     "first_p1_max": "0.310852422767",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2025-05-31",
@@ -445,7 +510,12 @@
     "first_back_max": "16.0",
     "first_chigire_max": "0.5105",
     "first_p1_max": "0.307102674284",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2025-06-02",
@@ -477,7 +547,12 @@
     "first_back_max": "12.0",
     "first_chigire_max": "0.4983",
     "first_p1_max": "0.313410379419",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2025-06-03",
@@ -509,7 +584,12 @@
     "first_back_max": "10.0",
     "first_chigire_max": "0.3055",
     "first_p1_max": "0.263192450231",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2025-06-03",
@@ -541,7 +621,12 @@
     "first_back_max": "16.0",
     "first_chigire_max": "0.4983",
     "first_p1_max": "0.265209463247",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2025-06-06",
@@ -573,7 +658,12 @@
     "first_back_max": "13.0",
     "first_chigire_max": "0.3855",
     "first_p1_max": "0.267446682874",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2025-06-06",
@@ -605,7 +695,12 @@
     "first_back_max": "13.0",
     "first_chigire_max": "0.3558",
     "first_p1_max": "0.268519441192",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2025-06-07",
@@ -637,7 +732,12 @@
     "first_back_max": "11.0",
     "first_chigire_max": "0.549",
     "first_p1_max": "0.3319441869",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2025-06-09",
@@ -669,7 +769,12 @@
     "first_back_max": "12.0",
     "first_chigire_max": "0.3785",
     "first_p1_max": "0.286715757578",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2025-06-09",
@@ -701,7 +806,12 @@
     "first_back_max": "14.0",
     "first_chigire_max": "0.347",
     "first_p1_max": "0.289969735272",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2025-06-09",
@@ -733,7 +843,12 @@
     "first_back_max": "12.0",
     "first_chigire_max": "0.3213",
     "first_p1_max": "0.324052081209",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2025-06-10",
@@ -765,7 +880,12 @@
     "first_back_max": "12.0",
     "first_chigire_max": "0.3715",
     "first_p1_max": "0.344844172019",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2025-06-11",
@@ -797,7 +917,12 @@
     "first_back_max": "12.0",
     "first_chigire_max": "0.4948",
     "first_p1_max": "0.334866422845",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2025-06-11",
@@ -829,7 +954,12 @@
     "first_back_max": "9.0",
     "first_chigire_max": "0.559",
     "first_p1_max": "0.298670782451",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2025-06-17",
@@ -861,7 +991,12 @@
     "first_back_max": "10.0",
     "first_chigire_max": "0.5345",
     "first_p1_max": "0.307397141667",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2025-06-18",
@@ -893,7 +1028,12 @@
     "first_back_max": "14.0",
     "first_chigire_max": "0.5052",
     "first_p1_max": "0.27585057651",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2025-06-18",
@@ -925,7 +1065,12 @@
     "first_back_max": "11.0",
     "first_chigire_max": "0.4965",
     "first_p1_max": "0.285348980285",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2025-06-20",
@@ -957,7 +1102,12 @@
     "first_back_max": "12.0",
     "first_chigire_max": "0.389",
     "first_p1_max": "0.278149095839",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2025-06-20",
@@ -989,7 +1139,12 @@
     "first_back_max": "16.0",
     "first_chigire_max": "0.403",
     "first_p1_max": "0.274403401315",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2025-06-20",
@@ -1021,7 +1176,12 @@
     "first_back_max": "19.0",
     "first_chigire_max": "0.4095",
     "first_p1_max": "0.302759607496",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2025-06-20",
@@ -1053,7 +1213,12 @@
     "first_back_max": "9.0",
     "first_chigire_max": "0.528",
     "first_p1_max": "0.306862131991",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2025-06-20",
@@ -1085,7 +1250,12 @@
     "first_back_max": "13.0",
     "first_chigire_max": "0.257",
     "first_p1_max": "0.321961310994",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2025-06-21",
@@ -1117,7 +1287,12 @@
     "first_back_max": "14.0",
     "first_chigire_max": "0.396",
     "first_p1_max": "0.34583571895",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2025-06-21",
@@ -1149,7 +1324,12 @@
     "first_back_max": "10.0",
     "first_chigire_max": "0.3003",
     "first_p1_max": "0.262590773136",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2025-06-22",
@@ -1181,7 +1361,12 @@
     "first_back_max": "13.0",
     "first_chigire_max": "0.4375",
     "first_p1_max": "0.2569246548",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2025-06-24",
@@ -1213,7 +1398,12 @@
     "first_back_max": "8.0",
     "first_chigire_max": "0.479",
     "first_p1_max": "0.258066173045",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2025-06-24",
@@ -1245,7 +1435,12 @@
     "first_back_max": "12.0",
     "first_chigire_max": "0.4913",
     "first_p1_max": "0.259002200377",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2025-06-25",
@@ -1277,7 +1472,12 @@
     "first_back_max": "12.0",
     "first_chigire_max": "0.559",
     "first_p1_max": "0.285667271432",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2025-06-25",
@@ -1309,7 +1509,12 @@
     "first_back_max": "11.0",
     "first_chigire_max": "0.3387",
     "first_p1_max": "0.312929052667",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2025-06-26",
@@ -1341,7 +1546,12 @@
     "first_back_max": "13.0",
     "first_chigire_max": "0.5175",
     "first_p1_max": "0.316554090184",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2025-06-26",
@@ -1373,7 +1583,12 @@
     "first_back_max": "8.0",
     "first_chigire_max": "0.573",
     "first_p1_max": "0.363939154851",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2025-06-27",
@@ -1405,7 +1620,12 @@
     "first_back_max": "21.0",
     "first_chigire_max": "0.4007",
     "first_p1_max": "0.305183526549",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2025-06-27",
@@ -1437,7 +1657,12 @@
     "first_back_max": "15.0",
     "first_chigire_max": "0.3802",
     "first_p1_max": "0.331100496319",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2025-06-27",
@@ -1469,7 +1694,12 @@
     "first_back_max": "17.0",
     "first_chigire_max": "0.2483",
     "first_p1_max": "0.285508379488",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2025-06-28",
@@ -1501,7 +1731,12 @@
     "first_back_max": "13.0",
     "first_chigire_max": "0.354",
     "first_p1_max": "0.319093329375",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2025-06-28",
@@ -1533,7 +1768,12 @@
     "first_back_max": "20.0",
     "first_chigire_max": "0.6115",
     "first_p1_max": "0.346334225913",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2025-06-28",
@@ -1565,7 +1805,12 @@
     "first_back_max": "15.0",
     "first_chigire_max": "0.4357",
     "first_p1_max": "0.301379450849",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2025-06-29",
@@ -1597,7 +1842,12 @@
     "first_back_max": "11.0",
     "first_chigire_max": "0.5192",
     "first_p1_max": "0.274500297797",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2025-06-29",
@@ -1629,7 +1879,12 @@
     "first_back_max": "10.0",
     "first_chigire_max": "0.3488",
     "first_p1_max": "0.335634800285",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2025-06-29",
@@ -1661,7 +1916,12 @@
     "first_back_max": "21.0",
     "first_chigire_max": "0.3838",
     "first_p1_max": "0.286190209844",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2025-06-29",
@@ -1693,7 +1953,12 @@
     "first_back_max": "15.0",
     "first_chigire_max": "0.5713",
     "first_p1_max": "0.274166498675",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2025-06-29",
@@ -1725,7 +1990,12 @@
     "first_back_max": "15.0",
     "first_chigire_max": "0.521",
     "first_p1_max": "0.293476381201",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2025-06-30",
@@ -1757,7 +2027,12 @@
     "first_back_max": "17.0",
     "first_chigire_max": "0.4895",
     "first_p1_max": "0.333583604106",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2025-07-01",
@@ -1789,7 +2064,12 @@
     "first_back_max": "20.0",
     "first_chigire_max": "0.5713",
     "first_p1_max": "0.306247998771",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2025-07-01",
@@ -1821,7 +2101,12 @@
     "first_back_max": "9.0",
     "first_chigire_max": "0.5817",
     "first_p1_max": "0.284403754745",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2025-07-11",
@@ -1853,7 +2138,12 @@
     "first_back_max": "9.0",
     "first_chigire_max": "0.4983",
     "first_p1_max": "0.277381805009",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2025-07-17",
@@ -1885,7 +2175,12 @@
     "first_back_max": "20.0",
     "first_chigire_max": "0.2255",
     "first_p1_max": "0.269640868988",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2025-07-18",
@@ -1917,7 +2212,12 @@
     "first_back_max": "13.0",
     "first_chigire_max": "0.3488",
     "first_p1_max": "0.322464142797",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2025-07-19",
@@ -1949,7 +2249,12 @@
     "first_back_max": "20.0",
     "first_chigire_max": "0.2705",
     "first_p1_max": "0.276879800928",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2025-07-22",
@@ -1981,7 +2286,12 @@
     "first_back_max": "19.0",
     "first_chigire_max": "0.3798",
     "first_p1_max": "0.338754021492",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2025-07-28",
@@ -2013,7 +2323,12 @@
     "first_back_max": "9.0",
     "first_chigire_max": "0.5192",
     "first_p1_max": "0.285252268785",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2025-07-29",
@@ -2045,7 +2360,12 @@
     "first_back_max": "13.0",
     "first_chigire_max": "0.5485",
     "first_p1_max": "0.263582401551",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2025-07-29",
@@ -2077,7 +2397,12 @@
     "first_back_max": "18.0",
     "first_chigire_max": "0.4515",
     "first_p1_max": "0.270216268525",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2025-07-30",
@@ -2109,7 +2434,12 @@
     "first_back_max": "8.0",
     "first_chigire_max": "0.4012",
     "first_p1_max": "0.295173828535",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2025-07-30",
@@ -2141,7 +2471,12 @@
     "first_back_max": "20.0",
     "first_chigire_max": "0.455",
     "first_p1_max": "0.257643630318",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2025-08-01",
@@ -2173,7 +2508,12 @@
     "first_back_max": "8.0",
     "first_chigire_max": "0.49",
     "first_p1_max": "0.266746686804",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2025-08-03",
@@ -2205,7 +2545,12 @@
     "first_back_max": "9.0",
     "first_chigire_max": "0.5397",
     "first_p1_max": "0.277724119079",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2025-08-04",
@@ -2237,7 +2582,12 @@
     "first_back_max": "19.0",
     "first_chigire_max": "0.3247",
     "first_p1_max": "0.344261683135",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2025-08-06",
@@ -2269,7 +2619,12 @@
     "first_back_max": "9.0",
     "first_chigire_max": "0.4462",
     "first_p1_max": "0.263888149474",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2025-08-07",
@@ -2301,7 +2656,12 @@
     "first_back_max": "9.0",
     "first_chigire_max": "0.4113",
     "first_p1_max": "0.273557259268",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2025-08-08",
@@ -2333,7 +2693,12 @@
     "first_back_max": "15.0",
     "first_chigire_max": "0.399",
     "first_p1_max": "0.318505090706",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2025-08-12",
@@ -2365,7 +2730,12 @@
     "first_back_max": "12.0",
     "first_chigire_max": "0.4323",
     "first_p1_max": "0.32603233123",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2025-08-12",
@@ -2397,7 +2767,12 @@
     "first_back_max": "12.0",
     "first_chigire_max": "0.3055",
     "first_p1_max": "0.32362607021",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2025-08-14",
@@ -2429,7 +2804,12 @@
     "first_back_max": "15.0",
     "first_chigire_max": "0.5",
     "first_p1_max": "0.258769561708",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2025-08-15",
@@ -2461,7 +2841,12 @@
     "first_back_max": "13.0",
     "first_chigire_max": "0.389",
     "first_p1_max": "0.352429163963",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2025-08-16",
@@ -2493,7 +2878,12 @@
     "first_back_max": "12.0",
     "first_chigire_max": "0.3925",
     "first_p1_max": "0.29982163138",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2025-08-20",
@@ -2525,7 +2915,12 @@
     "first_back_max": "15.0",
     "first_chigire_max": "0.316",
     "first_p1_max": "0.295729039633",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2025-08-20",
@@ -2557,7 +2952,12 @@
     "first_back_max": "14.0",
     "first_chigire_max": "0.3907",
     "first_p1_max": "0.343374725519",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2025-08-20",
@@ -2589,7 +2989,12 @@
     "first_back_max": "10.0",
     "first_chigire_max": "0.5298",
     "first_p1_max": "0.274201263694",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2025-08-21",
@@ -2621,7 +3026,12 @@
     "first_back_max": "13.0",
     "first_chigire_max": "0.3213",
     "first_p1_max": "0.286658670916",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2025-08-23",
@@ -2653,7 +3063,12 @@
     "first_back_max": "13.0",
     "first_chigire_max": "0.4427",
     "first_p1_max": "0.307485656253",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2025-08-24",
@@ -2685,7 +3100,12 @@
     "first_back_max": "13.0",
     "first_chigire_max": "0.441",
     "first_p1_max": "0.266981269862",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2025-08-25",
@@ -2717,7 +3137,12 @@
     "first_back_max": "15.0",
     "first_chigire_max": "0.5368",
     "first_p1_max": "0.302038391602",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2025-08-25",
@@ -2749,7 +3174,12 @@
     "first_back_max": "12.0",
     "first_chigire_max": "0.514",
     "first_p1_max": "0.277348067316",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2025-08-28",
@@ -2781,7 +3211,12 @@
     "first_back_max": "12.0",
     "first_chigire_max": "0.4602",
     "first_p1_max": "0.284280789123",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2025-08-30",
@@ -2813,7 +3248,12 @@
     "first_back_max": "16.0",
     "first_chigire_max": "0.3458",
     "first_p1_max": "0.308973868772",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2025-09-01",
@@ -2845,7 +3285,12 @@
     "first_back_max": "8.0",
     "first_chigire_max": "0.295",
     "first_p1_max": "0.308472272776",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2025-09-02",
@@ -2877,7 +3322,12 @@
     "first_back_max": "8.0",
     "first_chigire_max": "0.4878",
     "first_p1_max": "0.268685632515",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2025-09-03",
@@ -2909,7 +3359,12 @@
     "first_back_max": "16.0",
     "first_chigire_max": "0.368",
     "first_p1_max": "0.301739821343",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2025-09-03",
@@ -2941,7 +3396,12 @@
     "first_back_max": "12.0",
     "first_chigire_max": "0.4445",
     "first_p1_max": "0.335235563371",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2025-09-03",
@@ -2973,7 +3433,12 @@
     "first_back_max": "16.0",
     "first_chigire_max": "0.5262",
     "first_p1_max": "0.294916391539",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2025-09-04",
@@ -3005,7 +3470,12 @@
     "first_back_max": "12.0",
     "first_chigire_max": "0.5123",
     "first_p1_max": "0.293916555893",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2025-09-04",
@@ -3037,7 +3507,12 @@
     "first_back_max": "15.0",
     "first_chigire_max": "0.3715",
     "first_p1_max": "0.298145208503",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2025-09-05",
@@ -3069,7 +3544,12 @@
     "first_back_max": "8.0",
     "first_chigire_max": "0.3768",
     "first_p1_max": "0.272169737269",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2025-09-05",
@@ -3101,7 +3581,12 @@
     "first_back_max": "16.0",
     "first_chigire_max": "0.3907",
     "first_p1_max": "0.303553501124",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2025-09-06",
@@ -3133,7 +3618,12 @@
     "first_back_max": "12.0",
     "first_chigire_max": "0.417",
     "first_p1_max": "0.275259944465",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2025-09-06",
@@ -3165,7 +3655,12 @@
     "first_back_max": "17.0",
     "first_chigire_max": "0.3453",
     "first_p1_max": "0.287550818704",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2025-09-06",
@@ -3197,7 +3692,12 @@
     "first_back_max": "8.0",
     "first_chigire_max": "0.3177",
     "first_p1_max": "0.316899336759",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2025-09-08",
@@ -3229,7 +3729,12 @@
     "first_back_max": "12.0",
     "first_chigire_max": "0.455",
     "first_p1_max": "0.262523536043",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2025-09-09",
@@ -3261,7 +3766,12 @@
     "first_back_max": "10.0",
     "first_chigire_max": "0.5595",
     "first_p1_max": "0.312586457965",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2025-09-10",
@@ -3293,7 +3803,12 @@
     "first_back_max": "10.0",
     "first_chigire_max": "0.3645",
     "first_p1_max": "0.305211667116",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2025-09-10",
@@ -3325,7 +3840,12 @@
     "first_back_max": "14.0",
     "first_chigire_max": "0.3768",
     "first_p1_max": "0.341782950123",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2025-09-10",
@@ -3357,7 +3877,12 @@
     "first_back_max": "15.0",
     "first_chigire_max": "0.4615",
     "first_p1_max": "0.306688000483",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2025-09-11",
@@ -3389,7 +3914,12 @@
     "first_back_max": "9.0",
     "first_chigire_max": "0.6162",
     "first_p1_max": "0.344343942064",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2025-09-12",
@@ -3421,7 +3951,12 @@
     "first_back_max": "17.0",
     "first_chigire_max": "0.3838",
     "first_p1_max": "0.297509784748",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2025-09-13",
@@ -3453,7 +3988,12 @@
     "first_back_max": "15.0",
     "first_chigire_max": "0.3593",
     "first_p1_max": "0.361953625521",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2025-09-13",
@@ -3485,7 +4025,12 @@
     "first_back_max": "15.0",
     "first_chigire_max": "0.4795",
     "first_p1_max": "0.35623392591",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2025-09-14",
@@ -3517,7 +4062,12 @@
     "first_back_max": "15.0",
     "first_chigire_max": "0.6185",
     "first_p1_max": "0.291799287303",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2025-09-15",
@@ -3549,7 +4099,12 @@
     "first_back_max": "10.0",
     "first_chigire_max": "0.3195",
     "first_p1_max": "0.294979031163",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2025-09-15",
@@ -3581,7 +4136,12 @@
     "first_back_max": "8.0",
     "first_chigire_max": "0.3925",
     "first_p1_max": "0.29359450515",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2025-09-15",
@@ -3613,7 +4173,12 @@
     "first_back_max": "8.0",
     "first_chigire_max": "0.6022",
     "first_p1_max": "0.319516555962",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2025-09-16",
@@ -3645,7 +4210,12 @@
     "first_back_max": "19.0",
     "first_chigire_max": "0.4235",
     "first_p1_max": "0.260002942211",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2025-09-16",
@@ -3677,7 +4247,12 @@
     "first_back_max": "15.0",
     "first_chigire_max": "0.316",
     "first_p1_max": "0.285244535063",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2025-09-17",
@@ -3709,7 +4284,12 @@
     "first_back_max": "19.0",
     "first_chigire_max": "0.5088",
     "first_p1_max": "0.308856432008",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2025-09-20",
@@ -3741,7 +4321,12 @@
     "first_back_max": "18.0",
     "first_chigire_max": "0.559",
     "first_p1_max": "0.257378445163",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2025-09-20",
@@ -3773,7 +4358,12 @@
     "first_back_max": "17.0",
     "first_chigire_max": "0.4305",
     "first_p1_max": "0.309939993261",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2025-09-20",
@@ -3805,7 +4395,12 @@
     "first_back_max": "10.0",
     "first_chigire_max": "0.507",
     "first_p1_max": "0.261986451006",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2025-09-20",
@@ -3837,7 +4432,12 @@
     "first_back_max": "21.0",
     "first_chigire_max": "0.601",
     "first_p1_max": "0.298381886308",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2025-09-23",
@@ -3869,7 +4469,12 @@
     "first_back_max": "15.0",
     "first_chigire_max": "0.2863",
     "first_p1_max": "0.297657555673",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2025-09-24",
@@ -3901,7 +4506,12 @@
     "first_back_max": "13.0",
     "first_chigire_max": "0.4445",
     "first_p1_max": "0.293912476071",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2025-09-25",
@@ -3933,7 +4543,12 @@
     "first_back_max": "14.0",
     "first_chigire_max": "0.5105",
     "first_p1_max": "0.310580295156",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2025-09-27",
@@ -3965,7 +4580,12 @@
     "first_back_max": "14.0",
     "first_chigire_max": "0.4253",
     "first_p1_max": "0.29271457109",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2025-09-27",
@@ -3997,7 +4617,12 @@
     "first_back_max": "16.0",
     "first_chigire_max": "0.4878",
     "first_p1_max": "0.337809622849",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2025-09-28",
@@ -4029,7 +4654,12 @@
     "first_back_max": "19.0",
     "first_chigire_max": "0.4012",
     "first_p1_max": "0.298135996081",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2025-09-28",
@@ -4061,7 +4691,12 @@
     "first_back_max": "9.0",
     "first_chigire_max": "0.5175",
     "first_p1_max": "0.299361847831",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2025-09-28",
@@ -4093,7 +4728,12 @@
     "first_back_max": "16.0",
     "first_chigire_max": "0.4882",
     "first_p1_max": "0.313961587925",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2025-09-28",
@@ -4125,7 +4765,12 @@
     "first_back_max": "9.0",
     "first_chigire_max": "0.3453",
     "first_p1_max": "0.251367591844",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2025-09-29",
@@ -4157,7 +4802,12 @@
     "first_back_max": "13.0",
     "first_chigire_max": "0.4462",
     "first_p1_max": "0.283076820865",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2025-09-29",
@@ -4189,7 +4839,12 @@
     "first_back_max": "17.0",
     "first_chigire_max": "0.4637",
     "first_p1_max": "0.319227581494",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2025-09-29",
@@ -4221,7 +4876,12 @@
     "first_back_max": "9.0",
     "first_chigire_max": "0.5503",
     "first_p1_max": "0.283597203506",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2025-09-29",
@@ -4253,7 +4913,12 @@
     "first_back_max": "15.0",
     "first_chigire_max": "0.3435",
     "first_p1_max": "0.338755109987",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2025-10-02",
@@ -4285,7 +4950,12 @@
     "first_back_max": "8.0",
     "first_chigire_max": "0.5",
     "first_p1_max": "0.265402495603",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2025-10-03",
@@ -4317,7 +4987,12 @@
     "first_back_max": "12.0",
     "first_chigire_max": "0.2658",
     "first_p1_max": "0.262300205987",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2025-10-05",
@@ -4349,7 +5024,12 @@
     "first_back_max": "13.0",
     "first_chigire_max": "0.5315",
     "first_p1_max": "0.267704037545",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2025-10-05",
@@ -4381,7 +5061,12 @@
     "first_back_max": "9.0",
     "first_chigire_max": "0.566",
     "first_p1_max": "0.314452523252",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2025-10-05",
@@ -4413,7 +5098,12 @@
     "first_back_max": "9.0",
     "first_chigire_max": "0.33",
     "first_p1_max": "0.305005083844",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2025-10-06",
@@ -4445,7 +5135,12 @@
     "first_back_max": "13.0",
     "first_chigire_max": "0.476",
     "first_p1_max": "0.313234970045",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2025-10-07",
@@ -4477,7 +5172,12 @@
     "first_back_max": "12.0",
     "first_chigire_max": "0.3107",
     "first_p1_max": "0.289231603361",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2025-10-07",
@@ -4509,7 +5209,12 @@
     "first_back_max": "9.0",
     "first_chigire_max": "0.33",
     "first_p1_max": "0.297347903419",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2025-10-08",
@@ -4541,7 +5246,12 @@
     "first_back_max": "13.0",
     "first_chigire_max": "0.5887",
     "first_p1_max": "0.258998177808",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2025-10-09",
@@ -4573,7 +5283,12 @@
     "first_back_max": "15.0",
     "first_chigire_max": "0.497",
     "first_p1_max": "0.2951138276",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2025-10-09",
@@ -4605,7 +5320,12 @@
     "first_back_max": "8.0",
     "first_chigire_max": "0.5",
     "first_p1_max": "0.326763959839",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2025-10-10",
@@ -4637,7 +5357,12 @@
     "first_back_max": "19.0",
     "first_chigire_max": "0.3785",
     "first_p1_max": "0.274411901864",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2025-10-14",
@@ -4669,7 +5394,12 @@
     "first_back_max": "15.0",
     "first_chigire_max": "0.382",
     "first_p1_max": "0.319488311081",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2025-10-14",
@@ -4701,7 +5431,12 @@
     "first_back_max": "15.0",
     "first_chigire_max": "0.4148",
     "first_p1_max": "0.375968011751",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2025-10-15",
@@ -4733,7 +5468,12 @@
     "first_back_max": "9.0",
     "first_chigire_max": "0.4755",
     "first_p1_max": "0.322503200746",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2025-10-15",
@@ -4765,7 +5505,12 @@
     "first_back_max": "9.0",
     "first_chigire_max": "0.5075",
     "first_p1_max": "0.259030574393",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2025-10-16",
@@ -4797,7 +5542,12 @@
     "first_back_max": "8.0",
     "first_chigire_max": "0.646",
     "first_p1_max": "0.255883843575",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2025-10-17",
@@ -4829,7 +5579,12 @@
     "first_back_max": "13.0",
     "first_chigire_max": "0.323",
     "first_p1_max": "0.391058215544",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2025-10-20",
@@ -4861,7 +5616,12 @@
     "first_back_max": "15.0",
     "first_chigire_max": "0.4773",
     "first_p1_max": "0.375078772704",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2025-10-22",
@@ -4893,7 +5653,12 @@
     "first_back_max": "18.0",
     "first_chigire_max": "0.4948",
     "first_p1_max": "0.294300509283",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2025-10-25",
@@ -4925,7 +5690,12 @@
     "first_back_max": "10.0",
     "first_chigire_max": "0.5415",
     "first_p1_max": "0.281956267356",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2025-10-26",
@@ -4957,7 +5727,12 @@
     "first_back_max": "13.0",
     "first_chigire_max": "0.5192",
     "first_p1_max": "0.301209481474",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2025-10-26",
@@ -4989,7 +5764,12 @@
     "first_back_max": "13.0",
     "first_chigire_max": "0.4113",
     "first_p1_max": "0.271247745644",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2025-10-26",
@@ -5021,7 +5801,12 @@
     "first_back_max": "10.0",
     "first_chigire_max": "0.3645",
     "first_p1_max": "0.307990427017",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2025-10-27",
@@ -5053,7 +5838,12 @@
     "first_back_max": "12.0",
     "first_chigire_max": "0.4532",
     "first_p1_max": "0.343124965428",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2025-10-27",
@@ -5085,7 +5875,12 @@
     "first_back_max": "18.0",
     "first_chigire_max": "0.5368",
     "first_p1_max": "0.269226655071",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2025-10-28",
@@ -5117,7 +5912,12 @@
     "first_back_max": "17.0",
     "first_chigire_max": "0.5368",
     "first_p1_max": "0.330549210504",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2025-10-28",
@@ -5149,7 +5949,12 @@
     "first_back_max": "18.0",
     "first_chigire_max": "0.3698",
     "first_p1_max": "0.269673093647",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2025-10-28",
@@ -5181,7 +5986,12 @@
     "first_back_max": "9.0",
     "first_chigire_max": "0.375",
     "first_p1_max": "0.324615210131",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2025-10-28",
@@ -5213,7 +6023,12 @@
     "first_back_max": "10.0",
     "first_chigire_max": "0.3645",
     "first_p1_max": "0.327453387248",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2025-10-29",
@@ -5245,7 +6060,12 @@
     "first_back_max": "13.0",
     "first_chigire_max": "0.4323",
     "first_p1_max": "0.286784213542",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2025-10-29",
@@ -5277,7 +6097,12 @@
     "first_back_max": "13.0",
     "first_chigire_max": "0.3107",
     "first_p1_max": "0.275243055924",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2025-10-29",
@@ -5309,7 +6134,12 @@
     "first_back_max": "17.0",
     "first_chigire_max": "0.361",
     "first_p1_max": "0.342930587221",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2025-10-30",
@@ -5341,7 +6171,12 @@
     "first_back_max": "18.0",
     "first_chigire_max": "0.3125",
     "first_p1_max": "0.265841811451",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2025-10-30",
@@ -5373,7 +6208,12 @@
     "first_back_max": "16.0",
     "first_chigire_max": "0.4948",
     "first_p1_max": "0.251114731063",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2025-10-30",
@@ -5405,7 +6245,12 @@
     "first_back_max": "11.0",
     "first_chigire_max": "0.4708",
     "first_p1_max": "0.273461586223",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2025-10-31",
@@ -5437,7 +6282,12 @@
     "first_back_max": "11.0",
     "first_chigire_max": "0.4637",
     "first_p1_max": "0.332844166594",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2025-12-02",
@@ -5469,7 +6319,12 @@
     "first_back_max": "13.0",
     "first_chigire_max": "0.3663",
     "first_p1_max": "0.33111517207",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2025-12-02",
@@ -5501,7 +6356,12 @@
     "first_back_max": "12.0",
     "first_chigire_max": "0.4615",
     "first_p1_max": "0.32402806058",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2025-12-04",
@@ -5533,7 +6393,12 @@
     "first_back_max": "8.0",
     "first_chigire_max": "0.375",
     "first_p1_max": "0.269700214869",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2025-12-05",
@@ -5565,7 +6430,12 @@
     "first_back_max": "16.0",
     "first_chigire_max": "0.4118",
     "first_p1_max": "0.270635730977",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2025-12-07",
@@ -5597,7 +6467,12 @@
     "first_back_max": "11.0",
     "first_chigire_max": "0.4895",
     "first_p1_max": "0.286090814097",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2025-12-07",
@@ -5629,7 +6504,12 @@
     "first_back_max": "11.0",
     "first_chigire_max": "0.316",
     "first_p1_max": "0.312722104614",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2025-12-07",
@@ -5661,7 +6541,12 @@
     "first_back_max": "14.0",
     "first_chigire_max": "0.3628",
     "first_p1_max": "0.267267056925",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2025-12-08",
@@ -5693,7 +6578,12 @@
     "first_back_max": "12.0",
     "first_chigire_max": "0.33",
     "first_p1_max": "0.271357851133",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2025-12-09",
@@ -5725,7 +6615,12 @@
     "first_back_max": "9.0",
     "first_chigire_max": "0.5175",
     "first_p1_max": "0.315124743033",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2025-12-10",
@@ -5757,7 +6652,12 @@
     "first_back_max": "8.0",
     "first_chigire_max": "0.4895",
     "first_p1_max": "0.307119186438",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2025-12-13",
@@ -5789,7 +6689,12 @@
     "first_back_max": "15.0",
     "first_chigire_max": "0.5035",
     "first_p1_max": "0.267189396314",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2025-12-14",
@@ -5821,7 +6726,12 @@
     "first_back_max": "10.0",
     "first_chigire_max": "0.4637",
     "first_p1_max": "0.277337329641",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2025-12-15",
@@ -5853,7 +6763,12 @@
     "first_back_max": "17.0",
     "first_chigire_max": "0.4685",
     "first_p1_max": "0.283217288446",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2025-12-16",
@@ -5885,7 +6800,12 @@
     "first_back_max": "12.0",
     "first_chigire_max": "0.4532",
     "first_p1_max": "0.296103443063",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2025-12-17",
@@ -5917,7 +6837,12 @@
     "first_back_max": "13.0",
     "first_chigire_max": "0.5298",
     "first_p1_max": "0.282187822303",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2025-12-17",
@@ -5949,7 +6874,12 @@
     "first_back_max": "10.0",
     "first_chigire_max": "0.2483",
     "first_p1_max": "0.264199428573",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2025-12-17",
@@ -5981,7 +6911,12 @@
     "first_back_max": "16.0",
     "first_chigire_max": "0.5298",
     "first_p1_max": "0.296099442349",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2025-12-18",
@@ -6013,7 +6948,12 @@
     "first_back_max": "10.0",
     "first_chigire_max": "0.2985",
     "first_p1_max": "0.269869309392",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2025-12-19",
@@ -6045,7 +6985,12 @@
     "first_back_max": "13.0",
     "first_chigire_max": "0.5275",
     "first_p1_max": "0.373064370936",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2025-12-19",
@@ -6077,7 +7022,12 @@
     "first_back_max": "17.0",
     "first_chigire_max": "0.514",
     "first_p1_max": "0.300007872261",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2025-12-19",
@@ -6109,7 +7059,12 @@
     "first_back_max": "15.0",
     "first_chigire_max": "0.5158",
     "first_p1_max": "0.375108854185",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2025-12-20",
@@ -6141,7 +7096,12 @@
     "first_back_max": "8.0",
     "first_chigire_max": "0.3995",
     "first_p1_max": "0.272484897438",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2025-12-22",
@@ -6173,7 +7133,12 @@
     "first_back_max": "10.0",
     "first_chigire_max": "0.3733",
     "first_p1_max": "0.275087417205",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2025-12-23",
@@ -6205,7 +7170,12 @@
     "first_back_max": "13.0",
     "first_chigire_max": "0.5695",
     "first_p1_max": "0.284763335481",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2025-12-24",
@@ -6237,7 +7207,12 @@
     "first_back_max": "19.0",
     "first_chigire_max": "0.5105",
     "first_p1_max": "0.265870766068",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2025-12-24",
@@ -6269,7 +7244,12 @@
     "first_back_max": "14.0",
     "first_chigire_max": "0.3698",
     "first_p1_max": "0.277310688642",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2025-12-24",
@@ -6301,7 +7281,12 @@
     "first_back_max": "13.0",
     "first_chigire_max": "0.6355",
     "first_p1_max": "0.305464500199",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2025-12-25",
@@ -6333,7 +7318,12 @@
     "first_back_max": "9.0",
     "first_chigire_max": "0.3995",
     "first_p1_max": "0.286746971574",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2025-12-25",
@@ -6365,7 +7355,12 @@
     "first_back_max": "16.0",
     "first_chigire_max": "0.3925",
     "first_p1_max": "0.360456895332",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2025-12-27",
@@ -6397,7 +7392,12 @@
     "first_back_max": "17.0",
     "first_chigire_max": "0.3785",
     "first_p1_max": "0.298145271642",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2025-12-30",
@@ -6429,7 +7429,12 @@
     "first_back_max": "9.0",
     "first_chigire_max": "0.4913",
     "first_p1_max": "0.270588080727",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2025-12-31",
@@ -6461,7 +7466,12 @@
     "first_back_max": "9.0",
     "first_chigire_max": "0.5923",
     "first_p1_max": "0.26340249172",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2026-02-03",
@@ -6493,7 +7503,12 @@
     "first_back_max": "15.0",
     "first_chigire_max": "0.3785",
     "first_p1_max": "0.27836488563",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2026-02-03",
@@ -6525,7 +7540,12 @@
     "first_back_max": "8.0",
     "first_chigire_max": "0.2775",
     "first_p1_max": "0.279658076334",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2026-02-03",
@@ -6557,7 +7577,12 @@
     "first_back_max": "10.0",
     "first_chigire_max": "0.4708",
     "first_p1_max": "0.26001982625",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2026-02-04",
@@ -6589,7 +7614,12 @@
     "first_back_max": "8.0",
     "first_chigire_max": "0.33",
     "first_p1_max": "0.250599743468",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2026-02-05",
@@ -6621,7 +7651,12 @@
     "first_back_max": "16.0",
     "first_chigire_max": "0.4515",
     "first_p1_max": "0.309503464874",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2026-02-09",
@@ -6653,7 +7688,12 @@
     "first_back_max": "11.0",
     "first_chigire_max": "0.361",
     "first_p1_max": "0.266534181074",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2026-02-09",
@@ -6685,7 +7725,12 @@
     "first_back_max": "11.0",
     "first_chigire_max": "0.4913",
     "first_p1_max": "0.260436227525",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2026-02-09",
@@ -6717,7 +7762,12 @@
     "first_back_max": "9.0",
     "first_chigire_max": "0.5018",
     "first_p1_max": "0.299399241398",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2026-02-09",
@@ -6749,7 +7799,12 @@
     "first_back_max": "13.0",
     "first_chigire_max": "0.2255",
     "first_p1_max": "0.299421697319",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2026-02-11",
@@ -6781,7 +7836,12 @@
     "first_back_max": "15.0",
     "first_chigire_max": "0.229",
     "first_p1_max": "0.291695657476",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2026-02-15",
@@ -6813,7 +7873,12 @@
     "first_back_max": "11.0",
     "first_chigire_max": "0.34",
     "first_p1_max": "0.344839653263",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2026-02-15",
@@ -6845,7 +7910,12 @@
     "first_back_max": "9.0",
     "first_chigire_max": "0.4755",
     "first_p1_max": "0.297732473545",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2026-02-16",
@@ -6877,7 +7947,12 @@
     "first_back_max": "15.0",
     "first_chigire_max": "0.3715",
     "first_p1_max": "0.32234309584",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2026-02-16",
@@ -6909,7 +7984,12 @@
     "first_back_max": "9.0",
     "first_chigire_max": "0.538",
     "first_p1_max": "0.279817023516",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2026-02-17",
@@ -6941,7 +8021,12 @@
     "first_back_max": "20.0",
     "first_chigire_max": "0.4778",
     "first_p1_max": "0.290605659093",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2026-02-20",
@@ -6973,7 +8058,12 @@
     "first_back_max": "19.0",
     "first_chigire_max": "0.448",
     "first_p1_max": "0.277545362348",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2026-02-21",
@@ -7005,7 +8095,12 @@
     "first_back_max": "12.0",
     "first_chigire_max": "0.521",
     "first_p1_max": "0.293272984217",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2026-02-22",
@@ -7037,7 +8132,12 @@
     "first_back_max": "9.0",
     "first_chigire_max": "0.4948",
     "first_p1_max": "0.250553707683",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2026-02-24",
@@ -7069,7 +8169,12 @@
     "first_back_max": "13.0",
     "first_chigire_max": "0.5677",
     "first_p1_max": "0.292486031534",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2026-02-25",
@@ -7101,7 +8206,12 @@
     "first_back_max": "17.0",
     "first_chigire_max": "0.309",
     "first_p1_max": "0.306819779053",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2026-02-25",
@@ -7133,7 +8243,12 @@
     "first_back_max": "17.0",
     "first_chigire_max": "0.2203",
     "first_p1_max": "0.302961303596",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2026-02-26",
@@ -7165,7 +8280,12 @@
     "first_back_max": "11.0",
     "first_chigire_max": "0.5105",
     "first_p1_max": "0.26085291823",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2026-02-26",
@@ -7197,7 +8317,12 @@
     "first_back_max": "15.0",
     "first_chigire_max": "0.5455",
     "first_p1_max": "0.276922670628",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2026-02-27",
@@ -7229,7 +8354,12 @@
     "first_back_max": "11.0",
     "first_chigire_max": "0.587",
     "first_p1_max": "0.267898520378",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2026-02-27",
@@ -7261,7 +8391,12 @@
     "first_back_max": "9.0",
     "first_chigire_max": "0.4253",
     "first_p1_max": "0.258016501007",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2026-02-27",
@@ -7293,7 +8428,12 @@
     "first_back_max": "10.0",
     "first_chigire_max": "0.4287",
     "first_p1_max": "0.287266375816",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2026-02-27",
@@ -7325,7 +8465,12 @@
     "first_back_max": "15.0",
     "first_chigire_max": "0.4183",
     "first_p1_max": "0.300146007513",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2026-03-01",
@@ -7357,7 +8502,12 @@
     "first_back_max": "16.0",
     "first_chigire_max": "0.3663",
     "first_p1_max": "0.262486571061",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2026-03-02",
@@ -7389,7 +8539,12 @@
     "first_back_max": "14.0",
     "first_chigire_max": "0.441",
     "first_p1_max": "0.383721024723",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2026-03-03",
@@ -7421,7 +8576,12 @@
     "first_back_max": "14.0",
     "first_chigire_max": "0.3872",
     "first_p1_max": "0.28733688175",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2026-03-05",
@@ -7453,7 +8613,12 @@
     "first_back_max": "8.0",
     "first_chigire_max": "0.514",
     "first_p1_max": "0.313162650428",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2026-03-07",
@@ -7485,7 +8650,12 @@
     "first_back_max": "11.0",
     "first_chigire_max": "0.3995",
     "first_p1_max": "0.282677587858",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2026-03-09",
@@ -7517,7 +8687,12 @@
     "first_back_max": "18.0",
     "first_chigire_max": "0.4725",
     "first_p1_max": "0.303377113478",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2026-03-09",
@@ -7549,7 +8724,12 @@
     "first_back_max": "13.0",
     "first_chigire_max": "0.361",
     "first_p1_max": "0.28431201425",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2026-03-10",
@@ -7581,7 +8761,12 @@
     "first_back_max": "13.0",
     "first_chigire_max": "0.2968",
     "first_p1_max": "0.270857253248",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2026-03-11",
@@ -7613,7 +8798,12 @@
     "first_back_max": "19.0",
     "first_chigire_max": "0.5368",
     "first_p1_max": "0.322841165533",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2026-03-14",
@@ -7645,7 +8835,12 @@
     "first_back_max": "10.0",
     "first_chigire_max": "0.5035",
     "first_p1_max": "0.29051060528",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2026-03-16",
@@ -7677,7 +8872,12 @@
     "first_back_max": "14.0",
     "first_chigire_max": "0.4042",
     "first_p1_max": "0.294484009504",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2026-03-16",
@@ -7709,7 +8909,12 @@
     "first_back_max": "18.0",
     "first_chigire_max": "0.4183",
     "first_p1_max": "0.299570673557",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2026-03-16",
@@ -7741,7 +8946,12 @@
     "first_back_max": "11.0",
     "first_chigire_max": "0.4808",
     "first_p1_max": "0.319191871543",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2026-03-17",
@@ -7773,7 +8983,12 @@
     "first_back_max": "8.0",
     "first_chigire_max": "0.4738",
     "first_p1_max": "0.319466181804",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2026-03-17",
@@ -7805,7 +9020,12 @@
     "first_back_max": "8.0",
     "first_chigire_max": "0.5368",
     "first_p1_max": "0.272881869797",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2026-03-17",
@@ -7837,7 +9057,12 @@
     "first_back_max": "9.0",
     "first_chigire_max": "0.4113",
     "first_p1_max": "0.255090644916",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2026-03-20",
@@ -7869,7 +9094,12 @@
     "first_back_max": "15.0",
     "first_chigire_max": "0.3768",
     "first_p1_max": "0.326028451625",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2026-03-23",
@@ -7901,7 +9131,12 @@
     "first_back_max": "9.0",
     "first_chigire_max": "0.4357",
     "first_p1_max": "0.261251502355",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2026-03-23",
@@ -7933,7 +9168,12 @@
     "first_back_max": "13.0",
     "first_chigire_max": "0.563",
     "first_p1_max": "0.289115778688",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2026-03-24",
@@ -7965,7 +9205,12 @@
     "first_back_max": "9.0",
     "first_chigire_max": "0.5298",
     "first_p1_max": "0.337722733065",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2026-03-24",
@@ -7997,7 +9242,12 @@
     "first_back_max": "20.0",
     "first_chigire_max": "0.4808",
     "first_p1_max": "0.33796393076",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2026-03-24",
@@ -8029,7 +9279,12 @@
     "first_back_max": "21.0",
     "first_chigire_max": "0.5333",
     "first_p1_max": "0.300311753562",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2026-03-25",
@@ -8061,7 +9316,12 @@
     "first_back_max": "10.0",
     "first_chigire_max": "0.6653",
     "first_p1_max": "0.27138300261",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2026-03-25",
@@ -8093,7 +9353,12 @@
     "first_back_max": "10.0",
     "first_chigire_max": "0.3785",
     "first_p1_max": "0.300700144821",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2026-03-25",
@@ -8125,7 +9390,12 @@
     "first_back_max": "16.0",
     "first_chigire_max": "0.507",
     "first_p1_max": "0.331803647447",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2026-03-31",
@@ -8157,7 +9427,12 @@
     "first_back_max": "14.0",
     "first_chigire_max": "0.5228",
     "first_p1_max": "0.285997025792",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2026-03-31",
@@ -8189,7 +9464,12 @@
     "first_back_max": "18.0",
     "first_chigire_max": "0.6005",
     "first_p1_max": "0.311516414201",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2026-03-31",
@@ -8221,7 +9501,12 @@
     "first_back_max": "17.0",
     "first_chigire_max": "0.4965",
     "first_p1_max": "0.265211287566",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2026-04-01",
@@ -8253,7 +9538,12 @@
     "first_back_max": "12.0",
     "first_chigire_max": "0.5975",
     "first_p1_max": "0.252202384993",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2026-04-02",
@@ -8285,7 +9575,12 @@
     "first_back_max": "12.0",
     "first_chigire_max": "0.3143",
     "first_p1_max": "0.288414580848",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2026-04-05",
@@ -8317,7 +9612,12 @@
     "first_back_max": "9.0",
     "first_chigire_max": "0.3177",
     "first_p1_max": "0.295972378791",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2026-04-06",
@@ -8349,7 +9649,12 @@
     "first_back_max": "18.0",
     "first_chigire_max": "0.3593",
     "first_p1_max": "0.272122289271",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2026-04-08",
@@ -8381,7 +9686,12 @@
     "first_back_max": "10.0",
     "first_chigire_max": "0.4685",
     "first_p1_max": "0.338380017779",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2026-04-09",
@@ -8413,7 +9723,12 @@
     "first_back_max": "11.0",
     "first_chigire_max": "0.3937",
     "first_p1_max": "0.281103753141",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2026-04-09",
@@ -8445,7 +9760,12 @@
     "first_back_max": "9.0",
     "first_chigire_max": "0.448",
     "first_p1_max": "0.261348593241",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2026-04-10",
@@ -8477,7 +9797,12 @@
     "first_back_max": "12.0",
     "first_chigire_max": "0.4948",
     "first_p1_max": "0.381333973245",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2026-04-10",
@@ -8509,7 +9834,12 @@
     "first_back_max": "14.0",
     "first_chigire_max": "0.5403",
     "first_p1_max": "0.282351770378",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2026-04-11",
@@ -8541,7 +9871,12 @@
     "first_back_max": "10.0",
     "first_chigire_max": "0.566",
     "first_p1_max": "0.33247838522",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2026-04-12",
@@ -8573,7 +9908,12 @@
     "first_back_max": "20.0",
     "first_chigire_max": "0.5643",
     "first_p1_max": "0.269954738449",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2026-04-12",
@@ -8605,7 +9945,12 @@
     "first_back_max": "11.0",
     "first_chigire_max": "0.5677",
     "first_p1_max": "0.335269918589",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2026-04-12",
@@ -8637,7 +9982,12 @@
     "first_back_max": "9.0",
     "first_chigire_max": "0.493",
     "first_p1_max": "0.280446609926",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2026-04-13",
@@ -8669,7 +10019,12 @@
     "first_back_max": "9.0",
     "first_chigire_max": "0.5433",
     "first_p1_max": "0.30550603485",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2026-04-13",
@@ -8701,7 +10056,12 @@
     "first_back_max": "17.0",
     "first_chigire_max": "0.2863",
     "first_p1_max": "0.342495594172",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2026-04-14",
@@ -8733,7 +10093,12 @@
     "first_back_max": "8.0",
     "first_chigire_max": "0.4708",
     "first_p1_max": "0.253664391398",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2026-04-14",
@@ -8765,7 +10130,12 @@
     "first_back_max": "11.0",
     "first_chigire_max": "0.3942",
     "first_p1_max": "0.252571951103",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2026-04-14",
@@ -8797,7 +10167,12 @@
     "first_back_max": "12.0",
     "first_chigire_max": "0.5052",
     "first_p1_max": "0.305128811532",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2026-04-14",
@@ -8829,7 +10204,12 @@
     "first_back_max": "10.0",
     "first_chigire_max": "0.2308",
     "first_p1_max": "0.262641699459",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2026-04-15",
@@ -8861,7 +10241,12 @@
     "first_back_max": "13.0",
     "first_chigire_max": "0.5088",
     "first_p1_max": "0.293915453819",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2026-04-15",
@@ -8893,7 +10278,12 @@
     "first_back_max": "10.0",
     "first_chigire_max": "0.2863",
     "first_p1_max": "0.268456900166",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2026-04-16",
@@ -8925,7 +10315,12 @@
     "first_back_max": "16.0",
     "first_chigire_max": "0.4532",
     "first_p1_max": "0.270704374494",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2026-04-17",
@@ -8957,7 +10352,12 @@
     "first_back_max": "12.0",
     "first_chigire_max": "0.5262",
     "first_p1_max": "0.347490564413",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2026-04-17",
@@ -8989,7 +10389,12 @@
     "first_back_max": "13.0",
     "first_chigire_max": "0.2343",
     "first_p1_max": "0.284488480439",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2026-04-18",
@@ -9021,7 +10426,12 @@
     "first_back_max": "9.0",
     "first_chigire_max": "0.5052",
     "first_p1_max": "0.304975375174",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2026-04-18",
@@ -9053,7 +10463,12 @@
     "first_back_max": "13.0",
     "first_chigire_max": "0.5298",
     "first_p1_max": "0.289731502396",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2026-04-19",
@@ -9085,7 +10500,12 @@
     "first_back_max": "17.0",
     "first_chigire_max": "0.4497",
     "first_p1_max": "0.279417856455",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2026-04-19",
@@ -9117,7 +10537,12 @@
     "first_back_max": "11.0",
     "first_chigire_max": "0.4095",
     "first_p1_max": "0.302595671036",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2026-04-19",
@@ -9149,7 +10574,12 @@
     "first_back_max": "16.0",
     "first_chigire_max": "0.3785",
     "first_p1_max": "0.253827989513",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2026-04-20",
@@ -9181,7 +10611,12 @@
     "first_back_max": "11.0",
     "first_chigire_max": "0.4427",
     "first_p1_max": "0.286227448181",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2026-04-20",
@@ -9213,7 +10648,12 @@
     "first_back_max": "16.0",
     "first_chigire_max": "0.521",
     "first_p1_max": "0.283204143266",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2026-04-22",
@@ -9245,7 +10685,12 @@
     "first_back_max": "14.0",
     "first_chigire_max": "0.3558",
     "first_p1_max": "0.284834675657",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2026-04-22",
@@ -9277,7 +10722,12 @@
     "first_back_max": "23.0",
     "first_chigire_max": "0.4567",
     "first_p1_max": "0.309342625619",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2026-04-22",
@@ -9309,7 +10759,12 @@
     "first_back_max": "11.0",
     "first_chigire_max": "0.3523",
     "first_p1_max": "0.3585244154",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2026-04-23",
@@ -9341,7 +10796,12 @@
     "first_back_max": "23.0",
     "first_chigire_max": "0.5123",
     "first_p1_max": "0.340393759761",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2026-04-23",
@@ -9373,7 +10833,12 @@
     "first_back_max": "17.0",
     "first_chigire_max": "0.4427",
     "first_p1_max": "0.269387856507",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2026-04-26",
@@ -9405,7 +10870,12 @@
     "first_back_max": "16.0",
     "first_chigire_max": "0.521",
     "first_p1_max": "0.313827597528",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2026-04-27",
@@ -9437,7 +10907,12 @@
     "first_back_max": "15.0",
     "first_chigire_max": "0.4497",
     "first_p1_max": "0.291202543495",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2026-04-27",
@@ -9469,7 +10944,12 @@
     "first_back_max": "15.0",
     "first_chigire_max": "0.3907",
     "first_p1_max": "0.296426581278",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2026-04-28",
@@ -9501,7 +10981,12 @@
     "first_back_max": "12.0",
     "first_chigire_max": "0.4825",
     "first_p1_max": "0.263938857024",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2026-04-28",
@@ -9533,7 +11018,12 @@
     "first_back_max": "13.0",
     "first_chigire_max": "0.4825",
     "first_p1_max": "0.330194087791",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2026-04-29",
@@ -9565,7 +11055,12 @@
     "first_back_max": "20.0",
     "first_chigire_max": "0.399",
     "first_p1_max": "0.388262928941",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2026-04-29",
@@ -9597,7 +11092,12 @@
     "first_back_max": "8.0",
     "first_chigire_max": "0.3937",
     "first_p1_max": "0.377766865096",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2026-04-30",
@@ -9629,7 +11129,12 @@
     "first_back_max": "15.0",
     "first_chigire_max": "0.4148",
     "first_p1_max": "0.368093154346",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2026-04-30",
@@ -9661,7 +11166,12 @@
     "first_back_max": "13.0",
     "first_chigire_max": "0.4253",
     "first_p1_max": "0.361684481433",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2026-05-01",
@@ -9693,7 +11203,12 @@
     "first_back_max": "8.0",
     "first_chigire_max": "0.4965",
     "first_p1_max": "0.300858807868",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2026-05-01",
@@ -9725,7 +11240,12 @@
     "first_back_max": "12.0",
     "first_chigire_max": "0.4795",
     "first_p1_max": "0.335905026289",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2026-05-01",
@@ -9757,7 +11277,12 @@
     "first_back_max": "12.0",
     "first_chigire_max": "0.441",
     "first_p1_max": "0.342531566646",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2026-05-04",
@@ -9789,7 +11314,12 @@
     "first_back_max": "15.0",
     "first_chigire_max": "0.4825",
     "first_p1_max": "0.332756194043",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2026-05-05",
@@ -9821,7 +11351,12 @@
     "first_back_max": "10.0",
     "first_chigire_max": "0.4078",
     "first_p1_max": "0.265262066693",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2026-05-05",
@@ -9853,7 +11388,12 @@
     "first_back_max": "18.0",
     "first_chigire_max": "0.281",
     "first_p1_max": "0.263626336144",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2026-05-05",
@@ -9885,7 +11425,12 @@
     "first_back_max": "12.0",
     "first_chigire_max": "0.5175",
     "first_p1_max": "0.295100067084",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2026-05-06",
@@ -9917,7 +11462,12 @@
     "first_back_max": "12.0",
     "first_chigire_max": "0.4825",
     "first_p1_max": "0.268250754851",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2026-05-06",
@@ -9949,7 +11499,12 @@
     "first_back_max": "14.0",
     "first_chigire_max": "0.4047",
     "first_p1_max": "0.305564115485",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2026-05-06",
@@ -9981,7 +11536,12 @@
     "first_back_max": "14.0",
     "first_chigire_max": "0.3628",
     "first_p1_max": "0.261852714615",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2026-05-07",
@@ -10013,7 +11573,12 @@
     "first_back_max": "12.0",
     "first_chigire_max": "0.5315",
     "first_p1_max": "0.347158583114",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2026-05-07",
@@ -10045,7 +11610,12 @@
     "first_back_max": "14.0",
     "first_chigire_max": "0.4083",
     "first_p1_max": "0.320848121296",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2026-05-07",
@@ -10077,7 +11647,12 @@
     "first_back_max": "11.0",
     "first_chigire_max": "0.4183",
     "first_p1_max": "0.389659899415",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2026-05-08",
@@ -10109,7 +11684,12 @@
     "first_back_max": "15.0",
     "first_chigire_max": "0.3523",
     "first_p1_max": "0.368576777316",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2026-05-08",
@@ -10141,7 +11721,12 @@
     "first_back_max": "8.0",
     "first_chigire_max": "0.469",
     "first_p1_max": "0.275497978315",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2026-05-09",
@@ -10173,7 +11758,12 @@
     "first_back_max": "8.0",
     "first_chigire_max": "0.5298",
     "first_p1_max": "0.290449790708",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2026-05-09",
@@ -10205,7 +11795,12 @@
     "first_back_max": "14.0",
     "first_chigire_max": "0.3907",
     "first_p1_max": "0.292893451848",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2026-05-10",
@@ -10237,7 +11832,12 @@
     "first_back_max": "14.0",
     "first_chigire_max": "0.4725",
     "first_p1_max": "0.272823784428",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2026-05-11",
@@ -10269,7 +11869,12 @@
     "first_back_max": "15.0",
     "first_chigire_max": "0.302",
     "first_p1_max": "0.3123057766",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   },
   {
     "date": "2026-05-12",
@@ -10301,6 +11906,11 @@
     "first_back_max": "15.0",
     "first_chigire_max": "0.2448",
     "first_p1_max": "0.301041226375",
-    "race_class_scope": "s"
+    "race_class_scope": "s",
+    "ticket_type": "trifecta",
+    "selection_role": "challenger",
+    "sales_evidence_allowed": false,
+    "research_only_reason": "s_class_line_break_gate_requires_forward_evidence",
+    "candidate_selection_scope": "fixed_research_gate"
   }
 ]
