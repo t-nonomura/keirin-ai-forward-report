@@ -1,6 +1,6 @@
 {
   "command": "render-actions-forward-site",
-  "generated_at": "2026-06-01T14:05:55+09:00",
+  "generated_at": "2026-06-01T23:55:27+09:00",
   "state_dir": "tmp\\backtest-s-class-report-state-20260531",
   "output_dir": "tmp\\keirin-ai-forward-report-working\\backtest",
   "day_count": 180,
@@ -45,6 +45,22 @@
   },
   "total": {
     "period": "total",
+    "race_count": 322,
+    "settled_race_count": 0,
+    "pending_count": 0,
+    "void_count": 0,
+    "no_result_count": 0,
+    "invalid_selection_count": 322,
+    "late_generated_count": 0,
+    "hit_count": 0,
+    "hit_rate": 0.0,
+    "invested_units": 0,
+    "returned_units": 0,
+    "profit_units": 0,
+    "roi": 0.0
+  },
+  "research_total": {
+    "period": "research_total",
     "race_count": 322,
     "settled_race_count": 0,
     "pending_count": 0,

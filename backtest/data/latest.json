@@ -5,6 +5,46 @@
   "logic_id": "formation_hit0138_3x2x4_incremental_s_line_break_backtest",
   "logic_label": "S????????? / 3x2x4 incremental / formation_estimated_hit_rate >= 0.138 / line-break back-chigire gate",
   "prediction_gate_profile": "line_break_back_chigire_s",
+  "summary": {
+    "command": "settle-actions-formation-forward",
+    "target_date": "2026-05-12",
+    "generated_at": "2026-05-31T00:00:00+09:00",
+    "prediction_hash": "",
+    "races_json_path": "",
+    "race_count": 1,
+    "settled_race_count": 0,
+    "pending_count": 0,
+    "void_count": 0,
+    "no_result_count": 0,
+    "late_generated_count": 0,
+    "hit_count": 0,
+    "hit_rate": 0.0,
+    "invested_units": 0,
+    "returned_units": 0,
+    "profit_units": 0,
+    "roi": 0.0,
+    "settlement_closed": true,
+    "status_counts": {
+      "invalid_selection": 1
+    },
+    "invalid_selection_count": 1,
+    "research_summary": {
+      "period": "research_total",
+      "race_count": 1,
+      "settled_race_count": 0,
+      "pending_count": 0,
+      "void_count": 0,
+      "no_result_count": 0,
+      "invalid_selection_count": 1,
+      "late_generated_count": 0,
+      "hit_count": 0,
+      "hit_rate": 0.0,
+      "invested_units": 0,
+      "returned_units": 0,
+      "profit_units": 0,
+      "roi": 0.0
+    }
+  },
   "predictions": [
     {
       "date": "2026-05-12",
@@ -46,28 +86,37 @@
       "selection_integrity_status": "missing_selected_tickets"
     }
   ],
-  "summary": {
-    "command": "settle-actions-formation-forward",
-    "target_date": "2026-05-12",
-    "generated_at": "2026-05-31T00:00:00+09:00",
-    "prediction_hash": "",
-    "races_json_path": "",
-    "race_count": 1,
-    "settled_race_count": 1,
-    "pending_count": 0,
-    "void_count": 0,
-    "no_result_count": 0,
-    "late_generated_count": 0,
-    "hit_count": 1,
-    "hit_rate": 1.0,
-    "invested_units": 8.0,
-    "returned_units": 144.6,
-    "profit_units": 136.6,
-    "roi": 18.075,
-    "settlement_closed": true,
-    "status_counts": {
-      "hit": 1,
-      "miss": 0
-    }
+  "evidence_policy": {
+    "sales_evidence_allowed": false,
+    "sales_evidence_allowed_counts": {
+      "false": 1
+    },
+    "sales_evidence_blocked_count": 1,
+    "missing_selected_tickets_count": 1,
+    "research_only_count": 1,
+    "research_only_reason_counts": {
+      "s_class_line_break_gate_requires_forward_evidence": 1
+    },
+    "candidate_selection_scope_counts": {
+      "fixed_research_gate": 1
+    },
+    "ticket_type_counts": {
+      "trifecta": 1
+    },
+    "selection_role_counts": {
+      "challenger": 1
+    },
+    "race_class_scope_counts": {
+      "s": 1
+    },
+    "month_exclusion_counts": {
+      "1|11": 1
+    },
+    "warnings": [
+      "research_only_rows_present",
+      "sales_evidence_blocked",
+      "posthoc_month_exclusion_1_11_present",
+      "missing_selected_tickets"
+    ]
   }
 }
