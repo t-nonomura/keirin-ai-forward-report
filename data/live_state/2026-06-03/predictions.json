@@ -2,73 +2,24 @@
   "command": "run-actions-formation-forward",
   "target_date": "2026-06-03",
   "generated_at": "2026-06-03T10:46:50+09:00",
-  "prediction_hash": "ccd3b02fc5bf69fdc7f5e1846b9aebad3a9962cba71ab3a9a462aec74c35e939",
   "logic_id": "manual_hofu_tenkai_20260603",
   "logic_label": "manual Hofu 2026-06-03 trifecta tenkai forecast",
   "prediction_gate_profile": "manual_hofu_tenkai_20260603",
-  "summary": {
-    "command": "run-actions-formation-forward",
-    "target_date": "2026-06-03",
-    "generated_at": "2026-06-03T10:46:50+09:00",
-    "logic_id": "manual_hofu_tenkai_20260603",
-    "logic_label": "manual Hofu 2026-06-03 trifecta tenkai forecast",
-    "min_estimated_hit_rate": 0.0,
-    "formation_role_score_method": "manual",
-    "formation_first_count": "",
-    "formation_second_count": "",
-    "formation_third_count": "",
-    "prediction_gate_profile": "manual_hofu_tenkai_20260603",
-    "ticket_type": "trifecta",
-    "selection_role": "manual_forward",
-    "sales_evidence_allowed": false,
-    "research_only_reason": "manual_hofu_forecast_requires_forward_evidence",
-    "candidate_selection_scope": "manual_hofu_tenkai",
-    "raw_race_count": 12,
-    "dataset_row_count": 0,
-    "formation_row_count": 94,
-    "selected_race_count": 12,
-    "selected_ticket_count": 94,
-    "late_generated_count": 0,
-    "source_path": "D:\\keirin-ai\\data\\raw\\official\\2026-06-03\\races.json",
-    "dataset_csv_path": "",
-    "scored_csv_path": "",
-    "formations_csv_path": "",
-    "score_summary": {},
-    "package_manifest_hash": "",
-    "prediction_hash": "ccd3b02fc5bf69fdc7f5e1846b9aebad3a9962cba71ab3a9a462aec74c35e939",
-    "race_count": 12,
-    "settled_race_count": 0,
-    "pending_count": 12,
-    "void_count": 0,
-    "no_result_count": 0,
-    "invalid_selection_count": 0,
-    "hit_count": 0,
-    "hit_rate": 0.0,
-    "invested_units": 0,
-    "returned_units": 0,
-    "profit_units": 0,
-    "roi": 0.0,
-    "research_summary": {
-      "period": "research_total",
-      "race_count": 12,
-      "settled_race_count": 0,
-      "pending_count": 12,
-      "void_count": 0,
-      "no_result_count": 0,
-      "invalid_selection_count": 0,
-      "late_generated_count": 0,
-      "hit_count": 0,
-      "hit_rate": 0.0,
-      "invested_units": 0,
-      "returned_units": 0,
-      "profit_units": 0,
-      "roi": 0.0
-    },
-    "settlement_closed": false,
-    "status_counts": {
-      "pending": 12
-    }
+  "ticket_type": "trifecta",
+  "selection_role": "manual_forward",
+  "sales_evidence_allowed": false,
+  "research_only_reason": "manual_hofu_forecast_requires_forward_evidence",
+  "candidate_selection_scope": "manual_hofu_tenkai",
+  "prediction_hash": "ccd3b02fc5bf69fdc7f5e1846b9aebad3a9962cba71ab3a9a462aec74c35e939",
+  "package_manifest_hash": "",
+  "package_manifest": {
+    "package_kind": "manual_forward_forecast",
+    "generated_by": "Codex manual tenkai forecast",
+    "source_races_json": "D:\\keirin-ai\\data\\raw\\official\\2026-06-03\\races.json",
+    "odds_fetched_at": "2026-06-03T10:46:50",
+    "logic": "manual Hofu 2026-06-03 trifecta tenkai forecast"
   },
+  "ticket_changes_allowed": false,
   "predictions": [
     {
       "date": "2026-06-03",
@@ -551,34 +502,35 @@
       "odds_fetched_at": "2026-06-03T10:46:50"
     }
   ],
-  "evidence_policy": {
+  "summary": {
+    "command": "run-actions-formation-forward",
+    "target_date": "2026-06-03",
+    "generated_at": "2026-06-03T10:46:50+09:00",
+    "logic_id": "manual_hofu_tenkai_20260603",
+    "logic_label": "manual Hofu 2026-06-03 trifecta tenkai forecast",
+    "min_estimated_hit_rate": 0.0,
+    "formation_role_score_method": "manual",
+    "formation_first_count": "",
+    "formation_second_count": "",
+    "formation_third_count": "",
+    "prediction_gate_profile": "manual_hofu_tenkai_20260603",
+    "ticket_type": "trifecta",
+    "selection_role": "manual_forward",
     "sales_evidence_allowed": false,
-    "sales_evidence_allowed_counts": {
-      "false": 12
-    },
-    "sales_evidence_blocked_count": 12,
-    "missing_selected_tickets_count": 0,
-    "research_only_count": 12,
-    "research_only_reason_counts": {
-      "manual_hofu_forecast_requires_forward_evidence": 12
-    },
-    "candidate_selection_scope_counts": {
-      "manual_hofu_tenkai": 12
-    },
-    "ticket_type_counts": {
-      "trifecta": 12
-    },
-    "selection_role_counts": {
-      "manual_forward": 12
-    },
-    "race_class_scope_counts": {
-      "": 10,
-      "l": 2
-    },
-    "month_exclusion_counts": {},
-    "warnings": [
-      "research_only_rows_present",
-      "sales_evidence_blocked"
-    ]
+    "research_only_reason": "manual_hofu_forecast_requires_forward_evidence",
+    "candidate_selection_scope": "manual_hofu_tenkai",
+    "raw_race_count": 12,
+    "dataset_row_count": 0,
+    "formation_row_count": 94,
+    "selected_race_count": 12,
+    "selected_ticket_count": 94,
+    "late_generated_count": 0,
+    "source_path": "D:\\keirin-ai\\data\\raw\\official\\2026-06-03\\races.json",
+    "dataset_csv_path": "",
+    "scored_csv_path": "",
+    "formations_csv_path": "",
+    "score_summary": {},
+    "package_manifest_hash": "",
+    "prediction_hash": "ccd3b02fc5bf69fdc7f5e1846b9aebad3a9962cba71ab3a9a462aec74c35e939"
   }
 }

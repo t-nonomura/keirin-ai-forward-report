@@ -1,36 +1,42 @@
 {
   "command": "render-actions-forward-site",
-  "generated_at": "2026-06-02T00:34:08+09:00",
-  "state_dir": "report/data/live_state",
-  "output_dir": "report",
-  "day_count": 7,
-  "prediction_count": 22,
-  "latest_date": "2026-06-01",
-  "logic_label": "3x2x4 incremental / formation_estimated_hit_rate >= 0.138 / gate=line_break_back_chigire_s (S-class challenger, ticket<=10, first_back>=8, first_chigire>=0.20, first_p1>=0.25, month_not_in=1|11)",
+  "generated_at": "2026-06-03T10:49:08+09:00",
+  "state_dir": "D:\\keirin-ai\\tmp\\hofu-forward-report-deploy\\data\\live_state",
+  "output_dir": "D:\\keirin-ai\\tmp\\hofu-forward-report-deploy",
+  "day_count": 8,
+  "prediction_count": 34,
+  "latest_date": "2026-06-03",
+  "logic_label": "3x2x4 incremental / formation_estimated_hit_rate >= 0.138 / mixed gates: gate=line_break_back_chigire_s (S-class challenger, ticket<=10, first_back>=8, first_chigire>=0.20, first_p1>=0.25, month_not_in=1|11); gate=manual_hofu_tenkai_20260603",
   "prediction_gate_profile_counts": {
-    "line_break_back_chigire_s": 22
+    "line_break_back_chigire_s": 22,
+    "manual_hofu_tenkai_20260603": 12
   },
   "evidence_policy": {
     "sales_evidence_allowed": false,
     "sales_evidence_allowed_counts": {
-      "false": 22
+      "false": 34
     },
-    "sales_evidence_blocked_count": 22,
+    "sales_evidence_blocked_count": 34,
     "missing_selected_tickets_count": 0,
-    "research_only_count": 22,
+    "research_only_count": 34,
     "research_only_reason_counts": {
+      "manual_hofu_forecast_requires_forward_evidence": 12,
       "s_class_line_break_gate_requires_forward_evidence": 22
     },
     "candidate_selection_scope_counts": {
-      "fixed_research_gate": 22
+      "fixed_research_gate": 22,
+      "manual_hofu_tenkai": 12
     },
     "ticket_type_counts": {
-      "trifecta": 22
+      "trifecta": 34
     },
     "selection_role_counts": {
-      "challenger": 22
+      "challenger": 22,
+      "manual_forward": 12
     },
     "race_class_scope_counts": {
+      "": 10,
+      "l": 2,
       "s": 22
     },
     "month_exclusion_counts": {
@@ -44,9 +50,9 @@
   },
   "total": {
     "period": "total",
-    "race_count": 22,
+    "race_count": 34,
     "settled_race_count": 0,
-    "pending_count": 0,
+    "pending_count": 12,
     "void_count": 0,
     "no_result_count": 0,
     "invalid_selection_count": 0,
@@ -60,9 +66,9 @@
   },
   "research_total": {
     "period": "research_total",
-    "race_count": 22,
+    "race_count": 34,
     "settled_race_count": 22,
-    "pending_count": 0,
+    "pending_count": 12,
     "void_count": 0,
     "no_result_count": 0,
     "invalid_selection_count": 0,
@@ -170,6 +176,22 @@
       "returned_units": 0,
       "profit_units": 0,
       "roi": 0.0
+    },
+    {
+      "period": "2026-06-03",
+      "race_count": 12,
+      "settled_race_count": 0,
+      "pending_count": 12,
+      "void_count": 0,
+      "no_result_count": 0,
+      "invalid_selection_count": 0,
+      "late_generated_count": 0,
+      "hit_count": 0,
+      "hit_rate": 0.0,
+      "invested_units": 0,
+      "returned_units": 0,
+      "profit_units": 0,
+      "roi": 0.0
     }
   ],
   "weekly": [
@@ -191,9 +213,9 @@
     },
     {
       "period": "2026-06-01",
-      "race_count": 2,
+      "race_count": 14,
       "settled_race_count": 0,
-      "pending_count": 0,
+      "pending_count": 12,
       "void_count": 0,
       "no_result_count": 0,
       "invalid_selection_count": 0,
@@ -225,9 +247,9 @@
     },
     {
       "period": "2026-06-01",
-      "race_count": 2,
+      "race_count": 14,
       "settled_race_count": 0,
-      "pending_count": 0,
+      "pending_count": 12,
       "void_count": 0,
       "no_result_count": 0,
       "invalid_selection_count": 0,
@@ -410,6 +432,23 @@
       "profit_units": 0,
       "roi": 0.0,
       "venue": "名古屋"
+    },
+    {
+      "period": "2026-06-03",
+      "race_count": 12,
+      "settled_race_count": 0,
+      "pending_count": 12,
+      "void_count": 0,
+      "no_result_count": 0,
+      "invalid_selection_count": 0,
+      "late_generated_count": 0,
+      "hit_count": 0,
+      "hit_rate": 0.0,
+      "invested_units": 0,
+      "returned_units": 0,
+      "profit_units": 0,
+      "roi": 0.0,
+      "venue": "防府"
     }
   ],
   "venue_weekly": [
@@ -514,6 +553,23 @@
       "profit_units": 0,
       "roi": 0.0,
       "venue": "名古屋"
+    },
+    {
+      "period": "2026-06-01",
+      "race_count": 12,
+      "settled_race_count": 0,
+      "pending_count": 12,
+      "void_count": 0,
+      "no_result_count": 0,
+      "invalid_selection_count": 0,
+      "late_generated_count": 0,
+      "hit_count": 0,
+      "hit_rate": 0.0,
+      "invested_units": 0,
+      "returned_units": 0,
+      "profit_units": 0,
+      "roi": 0.0,
+      "venue": "防府"
     }
   ],
   "venue_monthly": [
@@ -618,6 +674,23 @@
       "profit_units": 0,
       "roi": 0.0,
       "venue": "名古屋"
+    },
+    {
+      "period": "2026-06-01",
+      "race_count": 12,
+      "settled_race_count": 0,
+      "pending_count": 12,
+      "void_count": 0,
+      "no_result_count": 0,
+      "invalid_selection_count": 0,
+      "late_generated_count": 0,
+      "hit_count": 0,
+      "hit_rate": 0.0,
+      "invested_units": 0,
+      "returned_units": 0,
+      "profit_units": 0,
+      "roi": 0.0,
+      "venue": "防府"
     }
   ]
 }
