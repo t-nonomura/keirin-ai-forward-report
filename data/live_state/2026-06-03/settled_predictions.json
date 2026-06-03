@@ -2,54 +2,42 @@
   "command": "settle-actions-formation-forward",
   "target_date": "2026-06-03",
   "generated_at": "2026-06-03T11:15:15+09:00",
-  "settled_at": "2026-06-03T14:16:27+09:00",
-  "prediction_hash": "24256e60cce8892cb65957d25723b9f68b092cf511a34898eaa5fb1ad088aea1",
-  "races_json_path": "data/raw/official/2026-06-03/races.json",
   "logic_id": "allvenue_hofu_manual_2x2x4_20260603",
   "logic_label": "manual Hofu + all venue 2x2x4 incremental trifecta forecast 2026-06-03",
   "prediction_gate_profile": "mixed_manual_hofu_allvenue_2x2x4_20260603",
-  "summary": {
-    "command": "settle-actions-formation-forward",
-    "target_date": "2026-06-03",
-    "generated_at": "2026-06-03T14:16:27+09:00",
-    "prediction_hash": "24256e60cce8892cb65957d25723b9f68b092cf511a34898eaa5fb1ad088aea1",
-    "races_json_path": "data/raw/official/2026-06-03/races.json",
-    "race_count": 81,
-    "settled_race_count": 0,
-    "pending_count": 53,
-    "void_count": 0,
-    "no_result_count": 0,
-    "invalid_selection_count": 0,
-    "late_generated_count": 10,
-    "hit_count": 0,
-    "hit_rate": 0.0,
-    "invested_units": 0,
-    "returned_units": 0,
-    "profit_units": 0,
-    "roi": 0.0,
-    "research_summary": {
-      "period": "research_total",
-      "race_count": 81,
-      "settled_race_count": 28,
-      "pending_count": 53,
-      "void_count": 0,
-      "no_result_count": 0,
-      "invalid_selection_count": 0,
-      "late_generated_count": 10,
-      "hit_count": 9,
-      "hit_rate": 0.321429,
-      "invested_units": 155.0,
-      "returned_units": 97.9,
-      "profit_units": -57.1,
-      "roi": 0.631613
-    },
-    "settlement_closed": false,
-    "status_counts": {
-      "hit": 9,
-      "miss": 19,
-      "pending": 53
-    }
+  "ticket_type": "trifecta",
+  "selection_role": "mixed_manual_model_forward",
+  "sales_evidence_allowed": false,
+  "research_only_reason": "all_venue_forecast_requires_forward_evidence",
+  "candidate_selection_scope": "all_venue_today_manual_and_model",
+  "prediction_hash": "24256e60cce8892cb65957d25723b9f68b092cf511a34898eaa5fb1ad088aea1",
+  "package_manifest_hash": "54fbcb3ad8badb5f1cc2d85f4abaf6daf97adcb9599adb6f22b353bc06d5363b",
+  "package_manifest": {
+    "command": "export-actions-forward-package",
+    "package_version": "actions_forward_package_v1",
+    "generated_at": "2026-05-31T07:51:18+09:00",
+    "logic_id": "formation_hit0138_3x2x4_incremental_s_line_break",
+    "logic_label": "3x2x4 incremental / formation_estimated_hit_rate >= 0.138 / S-class / line-break back-chigire gate",
+    "min_estimated_hit_rate": 0.138,
+    "formation_role_score_method": "incremental",
+    "formation_first_count": 3,
+    "formation_second_count": 2,
+    "formation_third_count": 4,
+    "class_scope": "all",
+    "include_research_only": false,
+    "recent_snapshots_per_rider": 12,
+    "db_path": "data\\keirin_ai.sqlite",
+    "db_sha256": "4613d68c571703317c3ede3a5a9d9b0897ccd819467a7078ea6f84b9252c4825",
+    "model_source_dir": "tmp\\preodds-safe-feature-backtest-1y-hit0138-fixed-20250527-20260526\\model",
+    "model_dir": "actions_package\\formation_hit0138\\model",
+    "model_sha256": "8f9c446a08002d52f1baf925c0dc224d7bd31b8c91a2626bd8e3ffc485e632b7",
+    "metadata_sha256": "9fce388fd21bca736fb855b792b9f77834941186be112dafec04cee83c6da358",
+    "snapshot_csv_path": "actions_package\\formation_hit0138\\latest_rider_feature_snapshots.csv",
+    "snapshot_row_count": 29846,
+    "snapshot_csv_sha256": "ab9b30ce0d00faf2c3b92268d7a977d68cf6eea803a522415a430e10a5f20d22",
+    "manifest_sha256": "54fbcb3ad8badb5f1cc2d85f4abaf6daf97adcb9599adb6f22b353bc06d5363b"
   },
+  "ticket_changes_allowed": false,
   "predictions": [
     {
       "date": "2026-06-03",
@@ -3373,39 +3361,48 @@
       "selection_integrity_status": ""
     }
   ],
-  "evidence_policy": {
-    "sales_evidence_allowed": false,
-    "sales_evidence_allowed_counts": {
-      "false": 81
+  "summary": {
+    "command": "settle-actions-formation-forward",
+    "target_date": "2026-06-03",
+    "generated_at": "2026-06-03T14:16:27+09:00",
+    "prediction_hash": "24256e60cce8892cb65957d25723b9f68b092cf511a34898eaa5fb1ad088aea1",
+    "races_json_path": "data/raw/official/2026-06-03/races.json",
+    "race_count": 81,
+    "settled_race_count": 0,
+    "pending_count": 53,
+    "void_count": 0,
+    "no_result_count": 0,
+    "invalid_selection_count": 0,
+    "late_generated_count": 10,
+    "hit_count": 0,
+    "hit_rate": 0.0,
+    "invested_units": 0,
+    "returned_units": 0,
+    "profit_units": 0,
+    "roi": 0.0,
+    "research_summary": {
+      "period": "research_total",
+      "race_count": 81,
+      "settled_race_count": 28,
+      "pending_count": 53,
+      "void_count": 0,
+      "no_result_count": 0,
+      "invalid_selection_count": 0,
+      "late_generated_count": 10,
+      "hit_count": 9,
+      "hit_rate": 0.321429,
+      "invested_units": 155.0,
+      "returned_units": 97.9,
+      "profit_units": -57.1,
+      "roi": 0.631613
     },
-    "sales_evidence_blocked_count": 81,
-    "missing_selected_tickets_count": 0,
-    "research_only_count": 81,
-    "research_only_reason_counts": {
-      "all_venue_forecast_requires_forward_evidence": 69,
-      "manual_hofu_forecast_requires_forward_evidence": 12
-    },
-    "candidate_selection_scope_counts": {
-      "all_venue_2x2x4_incremental": 69,
-      "manual_hofu_tenkai": 12
-    },
-    "ticket_type_counts": {
-      "trifecta": 81
-    },
-    "selection_role_counts": {
-      "manual_forward": 12,
-      "model_forward": 69
-    },
-    "race_class_scope_counts": {
-      "": 10,
-      "l": 2,
-      "non_s": 56,
-      "s": 13
-    },
-    "month_exclusion_counts": {},
-    "warnings": [
-      "research_only_rows_present",
-      "sales_evidence_blocked"
-    ]
-  }
+    "settlement_closed": false,
+    "status_counts": {
+      "hit": 9,
+      "miss": 19,
+      "pending": 53
+    }
+  },
+  "settled_at": "2026-06-03T14:16:27+09:00",
+  "races_json_path": "data/raw/official/2026-06-03/races.json"
 }

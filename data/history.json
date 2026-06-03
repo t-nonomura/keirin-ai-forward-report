@@ -840,13 +840,13 @@
     "estimated_hit_rate_pct": 19.56,
     "selected_tickets": "3-4-1|3-4-2|4-3-1|4-3-2",
     "combined_odds": 1.051512711864,
-    "status": "pending",
+    "status": "hit",
     "late_generated": true,
-    "actual_ticket": "",
-    "actual_payout_units": "",
-    "invested_units": 4,
-    "returned_units": 0.0,
-    "profit_units": -4.0,
+    "actual_ticket": "4-3-2",
+    "actual_payout_units": 2.7,
+    "invested_units": 4.0,
+    "returned_units": 2.7,
+    "profit_units": -1.3,
     "prediction_gate_profile": "allvenue_2x2x4_incremental_20260603",
     "ticket_type": "trifecta",
     "selection_role": "model_forward",
@@ -859,7 +859,8 @@
     "odds_fetched_at": "2026-06-03T11:14:35",
     "first_back_max": 16.0,
     "first_chigire_max": 0.3762,
-    "first_p1_max": 0.346693847413
+    "first_p1_max": 0.346693847413,
+    "selection_integrity_status": ""
   },
   {
     "date": "2026-06-03",
@@ -880,11 +881,11 @@
     "estimated_hit_rate_pct": 6.8,
     "selected_tickets": "2-4-3|2-4-5|4-2-3|4-2-5",
     "combined_odds": 3.685902778224,
-    "status": "pending",
+    "status": "miss",
     "late_generated": true,
-    "actual_ticket": "",
-    "actual_payout_units": "",
-    "invested_units": 4,
+    "actual_ticket": "4-2-6",
+    "actual_payout_units": 4.0,
+    "invested_units": 4.0,
     "returned_units": 0.0,
     "profit_units": -4.0,
     "prediction_gate_profile": "allvenue_2x2x4_incremental_20260603",
@@ -899,7 +900,8 @@
     "odds_fetched_at": "2026-06-03T11:14:35",
     "first_back_max": 2.0,
     "first_chigire_max": 0.417,
-    "first_p1_max": 0.290218141782
+    "first_p1_max": 0.290218141782,
+    "selection_integrity_status": ""
   },
   {
     "date": "2026-06-03",
@@ -920,11 +922,11 @@
     "estimated_hit_rate_pct": 9.28,
     "selected_tickets": "1-3-2|1-3-4|1-4-2|1-4-3|3-4-1|3-4-2",
     "combined_odds": 4.364556300606,
-    "status": "pending",
+    "status": "miss",
     "late_generated": true,
-    "actual_ticket": "",
-    "actual_payout_units": "",
-    "invested_units": 6,
+    "actual_ticket": "4-1-2",
+    "actual_payout_units": 49.5,
+    "invested_units": 6.0,
     "returned_units": 0.0,
     "profit_units": -6.0,
     "prediction_gate_profile": "allvenue_2x2x4_incremental_20260603",
@@ -939,7 +941,8 @@
     "odds_fetched_at": "2026-06-03T11:14:35",
     "first_back_max": 7.0,
     "first_chigire_max": 0.4083,
-    "first_p1_max": 0.266848435159
+    "first_p1_max": 0.266848435159,
+    "selection_integrity_status": ""
   },
   {
     "date": "2026-06-03",
@@ -960,11 +963,11 @@
     "estimated_hit_rate_pct": 5.99,
     "selected_tickets": "2-7-3|2-7-4|7-2-3|7-2-4",
     "combined_odds": 9.456512152235,
-    "status": "pending",
+    "status": "miss",
     "late_generated": true,
-    "actual_ticket": "",
-    "actual_payout_units": "",
-    "invested_units": 4,
+    "actual_ticket": "5-3-2",
+    "actual_payout_units": 47.2,
+    "invested_units": 4.0,
     "returned_units": 0.0,
     "profit_units": -4.0,
     "prediction_gate_profile": "allvenue_2x2x4_incremental_20260603",
@@ -979,7 +982,8 @@
     "odds_fetched_at": "2026-06-03T11:14:35",
     "first_back_max": 11.0,
     "first_chigire_max": 0.208,
-    "first_p1_max": 0.302624357602
+    "first_p1_max": 0.302624357602,
+    "selection_integrity_status": ""
   },
   {
     "date": "2026-06-03",
@@ -1000,11 +1004,11 @@
     "estimated_hit_rate_pct": 11.0,
     "selected_tickets": "1-4-2|1-4-5|1-5-2|1-5-4|5-4-1|5-4-2",
     "combined_odds": 13.643503023814,
-    "status": "pending",
+    "status": "miss",
     "late_generated": true,
-    "actual_ticket": "",
-    "actual_payout_units": "",
-    "invested_units": 6,
+    "actual_ticket": "5-2-4",
+    "actual_payout_units": 3.4,
+    "invested_units": 6.0,
     "returned_units": 0.0,
     "profit_units": -6.0,
     "prediction_gate_profile": "allvenue_2x2x4_incremental_20260603",
@@ -1019,7 +1023,8 @@
     "odds_fetched_at": "2026-06-03T11:14:35",
     "first_back_max": 10.0,
     "first_chigire_max": 0.2448,
-    "first_p1_max": 0.334706539432
+    "first_p1_max": 0.334706539432,
+    "selection_integrity_status": ""
   },
   {
     "date": "2026-06-03",
@@ -1040,11 +1045,11 @@
     "estimated_hit_rate_pct": 8.37,
     "selected_tickets": "3-4-1|3-4-5|4-3-1|4-3-5",
     "combined_odds": 7.844021329804,
-    "status": "pending",
+    "status": "miss",
     "late_generated": true,
-    "actual_ticket": "",
-    "actual_payout_units": "",
-    "invested_units": 4,
+    "actual_ticket": "4-7-1",
+    "actual_payout_units": 57.8,
+    "invested_units": 4.0,
     "returned_units": 0.0,
     "profit_units": -4.0,
     "prediction_gate_profile": "allvenue_2x2x4_incremental_20260603",
@@ -1059,7 +1064,8 @@
     "odds_fetched_at": "2026-06-03T11:14:35",
     "first_back_max": 18.0,
     "first_chigire_max": 0.25,
-    "first_p1_max": 0.330841631064
+    "first_p1_max": 0.330841631064,
+    "selection_integrity_status": ""
   },
   {
     "date": "2026-06-03",
@@ -1080,11 +1086,11 @@
     "estimated_hit_rate_pct": 7.86,
     "selected_tickets": "1-3-4|1-3-5|3-1-4|3-1-5",
     "combined_odds": 13.313171299331,
-    "status": "pending",
+    "status": "miss",
     "late_generated": true,
-    "actual_ticket": "",
-    "actual_payout_units": "",
-    "invested_units": 4,
+    "actual_ticket": "1-4-6",
+    "actual_payout_units": 310.4,
+    "invested_units": 4.0,
     "returned_units": 0.0,
     "profit_units": -4.0,
     "prediction_gate_profile": "allvenue_2x2x4_incremental_20260603",
@@ -1099,7 +1105,8 @@
     "odds_fetched_at": "2026-06-03T11:14:35",
     "first_back_max": 14.0,
     "first_chigire_max": 0.1875,
-    "first_p1_max": 0.350492377346
+    "first_p1_max": 0.350492377346,
+    "selection_integrity_status": ""
   },
   {
     "date": "2026-06-03",
@@ -1120,11 +1127,11 @@
     "estimated_hit_rate": 0.138,
     "estimated_hit_rate_pct": 13.8,
     "selected_tickets": "7-2-1|7-2-3|7-2-5|7-5-1|7-5-2|2-7-1|2-7-5|1-7-2|3-5-2|3-5-6|5-3-2|5-3-7",
-    "status": "pending",
+    "status": "miss",
     "late_generated": true,
-    "actual_ticket": "",
-    "actual_payout_units": "",
-    "invested_units": 12,
+    "actual_ticket": "1-3-2",
+    "actual_payout_units": 144.9,
+    "invested_units": 12.0,
     "returned_units": 0.0,
     "profit_units": -12.0,
     "prediction_gate_profile": "manual_hofu_tenkai_20260603",
@@ -1139,7 +1146,8 @@
     "race_class_scope": "",
     "manual_rationale": "356/72/14??????????????????????????????",
     "odds_source": "official_keirin_jp_current_trifecta_odds",
-    "odds_fetched_at": "2026-06-03T11:14:35"
+    "odds_fetched_at": "2026-06-03T11:14:35",
+    "selection_integrity_status": ""
   },
   {
     "date": "2026-06-03",
@@ -1160,11 +1168,11 @@
     "estimated_hit_rate_pct": 10.56,
     "selected_tickets": "2-4-1|2-4-3|4-2-1|4-2-3",
     "combined_odds": 1.804100284311,
-    "status": "pending",
+    "status": "miss",
     "late_generated": true,
-    "actual_ticket": "",
-    "actual_payout_units": "",
-    "invested_units": 4,
+    "actual_ticket": "1-3-4",
+    "actual_payout_units": 235.5,
+    "invested_units": 4.0,
     "returned_units": 0.0,
     "profit_units": -4.0,
     "prediction_gate_profile": "allvenue_2x2x4_incremental_20260603",
@@ -1179,7 +1187,8 @@
     "odds_fetched_at": "2026-06-03T11:14:35",
     "first_back_max": 13.0,
     "first_chigire_max": 0.2378,
-    "first_p1_max": 0.275715370146
+    "first_p1_max": 0.275715370146,
+    "selection_integrity_status": ""
   },
   {
     "date": "2026-06-03",
@@ -1200,13 +1209,13 @@
     "estimated_hit_rate": 0.138,
     "estimated_hit_rate_pct": 13.8,
     "selected_tickets": "7-3-1|7-3-5|3-7-1|3-7-5|3-5-1|3-5-7|7-1-3|7-1-4",
-    "status": "pending",
+    "status": "hit",
     "late_generated": true,
-    "actual_ticket": "",
-    "actual_payout_units": "",
-    "invested_units": 8,
-    "returned_units": 0.0,
-    "profit_units": -8.0,
+    "actual_ticket": "7-1-4",
+    "actual_payout_units": 11.9,
+    "invested_units": 8.0,
+    "returned_units": 11.9,
+    "profit_units": 3.9,
     "prediction_gate_profile": "manual_hofu_tenkai_20260603",
     "ticket_type": "trifecta",
     "selection_role": "manual_forward",
@@ -1219,7 +1228,8 @@
     "race_class_scope": "",
     "manual_rationale": "352/714???3????????????????????3??????",
     "odds_source": "official_keirin_jp_current_trifecta_odds",
-    "odds_fetched_at": "2026-06-03T11:14:35"
+    "odds_fetched_at": "2026-06-03T11:14:35",
+    "selection_integrity_status": ""
   },
   {
     "date": "2026-06-03",
@@ -1240,11 +1250,11 @@
     "estimated_hit_rate_pct": 8.38,
     "selected_tickets": "1-3-4|1-3-7|7-1-3|7-1-4|7-3-1|7-3-4",
     "combined_odds": 3.964157249162,
-    "status": "pending",
+    "status": "miss",
     "late_generated": false,
-    "actual_ticket": "",
-    "actual_payout_units": "",
-    "invested_units": 6,
+    "actual_ticket": "1-3-5",
+    "actual_payout_units": 4.7,
+    "invested_units": 6.0,
     "returned_units": 0.0,
     "profit_units": -6.0,
     "prediction_gate_profile": "allvenue_2x2x4_incremental_20260603",
@@ -1259,7 +1269,8 @@
     "odds_fetched_at": "2026-06-03T11:14:35",
     "first_back_max": 4.0,
     "first_chigire_max": 0.462,
-    "first_p1_max": 0.242654082462
+    "first_p1_max": 0.242654082462,
+    "selection_integrity_status": ""
   },
   {
     "date": "2026-06-03",
@@ -1280,11 +1291,11 @@
     "estimated_hit_rate_pct": 11.36,
     "selected_tickets": "2-4-3|2-4-5|2-5-3|2-5-4|4-5-2|4-5-3",
     "combined_odds": 2.650744342183,
-    "status": "pending",
+    "status": "miss",
     "late_generated": false,
-    "actual_ticket": "",
-    "actual_payout_units": "",
-    "invested_units": 6,
+    "actual_ticket": "6-2-3",
+    "actual_payout_units": 52.7,
+    "invested_units": 6.0,
     "returned_units": 0.0,
     "profit_units": -6.0,
     "prediction_gate_profile": "allvenue_2x2x4_incremental_20260603",
@@ -1299,7 +1310,8 @@
     "odds_fetched_at": "2026-06-03T11:14:35",
     "first_back_max": 4.0,
     "first_chigire_max": 0.4773,
-    "first_p1_max": 0.261191991814
+    "first_p1_max": 0.261191991814,
+    "selection_integrity_status": ""
   },
   {
     "date": "2026-06-03",
@@ -1320,11 +1332,11 @@
     "estimated_hit_rate": 0.138,
     "estimated_hit_rate_pct": 13.8,
     "selected_tickets": "3-7-1|3-7-2|3-7-4|3-7-5|3-7-6|3-4-1|3-4-7|4-1-2|4-1-3|5-2-3|5-2-7",
-    "status": "pending",
+    "status": "miss",
     "late_generated": false,
-    "actual_ticket": "",
-    "actual_payout_units": "",
-    "invested_units": 11,
+    "actual_ticket": "7-3-6",
+    "actual_payout_units": 49.9,
+    "invested_units": 11.0,
     "returned_units": 0.0,
     "profit_units": -11.0,
     "prediction_gate_profile": "manual_hofu_tenkai_20260603",
@@ -1339,7 +1351,8 @@
     "race_class_scope": "",
     "manual_rationale": "????????????????????4-1?5-2?????",
     "odds_source": "official_keirin_jp_current_trifecta_odds",
-    "odds_fetched_at": "2026-06-03T11:14:35"
+    "odds_fetched_at": "2026-06-03T11:14:35",
+    "selection_integrity_status": ""
   },
   {
     "date": "2026-06-03",
@@ -1360,11 +1373,11 @@
     "estimated_hit_rate_pct": 5.64,
     "selected_tickets": "1-4-3|1-4-5|4-1-3|4-1-5",
     "combined_odds": 7.247376325441,
-    "status": "pending",
+    "status": "miss",
     "late_generated": false,
-    "actual_ticket": "",
-    "actual_payout_units": "",
-    "invested_units": 4,
+    "actual_ticket": "4-1-2",
+    "actual_payout_units": 44.1,
+    "invested_units": 4.0,
     "returned_units": 0.0,
     "profit_units": -4.0,
     "prediction_gate_profile": "allvenue_2x2x4_incremental_20260603",
@@ -1379,7 +1392,8 @@
     "odds_fetched_at": "2026-06-03T11:14:35",
     "first_back_max": 2.0,
     "first_chigire_max": 0.507,
-    "first_p1_max": 0.267814322154
+    "first_p1_max": 0.267814322154,
+    "selection_integrity_status": ""
   },
   {
     "date": "2026-06-03",
@@ -1400,11 +1414,11 @@
     "estimated_hit_rate_pct": 8.48,
     "selected_tickets": "2-1-3|2-1-5|2-1-7|2-3-1|2-3-5|2-3-7|3-1-5|3-1-7",
     "combined_odds": 22.109275581902,
-    "status": "pending",
+    "status": "miss",
     "late_generated": false,
-    "actual_ticket": "",
-    "actual_payout_units": "",
-    "invested_units": 8,
+    "actual_ticket": "7-2-5",
+    "actual_payout_units": 304.9,
+    "invested_units": 8.0,
     "returned_units": 0.0,
     "profit_units": -8.0,
     "prediction_gate_profile": "allvenue_2x2x4_incremental_20260603",
@@ -1419,7 +1433,8 @@
     "odds_fetched_at": "2026-06-03T11:14:35",
     "first_back_max": 9.0,
     "first_chigire_max": 0.375,
-    "first_p1_max": 0.265923038147
+    "first_p1_max": 0.265923038147,
+    "selection_integrity_status": ""
   },
   {
     "date": "2026-06-03",
@@ -1440,13 +1455,13 @@
     "estimated_hit_rate": 0.138,
     "estimated_hit_rate_pct": 13.8,
     "selected_tickets": "1-5-7|1-5-4|5-1-7|1-4-5",
-    "status": "pending",
+    "status": "hit",
     "late_generated": false,
-    "actual_ticket": "",
-    "actual_payout_units": "",
-    "invested_units": 4,
-    "returned_units": 0.0,
-    "profit_units": -4.0,
+    "actual_ticket": "1-5-7",
+    "actual_payout_units": 1.9,
+    "invested_units": 4.0,
+    "returned_units": 1.9,
+    "profit_units": -2.1,
     "prediction_gate_profile": "manual_hofu_tenkai_20260603",
     "ticket_type": "trifecta",
     "selection_role": "manual_forward",
@@ -1459,7 +1474,8 @@
     "race_class_scope": "",
     "manual_rationale": "??????????????????????????",
     "odds_source": "official_keirin_jp_current_trifecta_odds",
-    "odds_fetched_at": "2026-06-03T11:14:35"
+    "odds_fetched_at": "2026-06-03T11:14:35",
+    "selection_integrity_status": ""
   },
   {
     "date": "2026-06-03",
@@ -1480,11 +1496,11 @@
     "estimated_hit_rate_pct": 7.25,
     "selected_tickets": "1-2-3|1-2-7|2-1-3|2-1-7",
     "combined_odds": 13.04794502821,
-    "status": "pending",
+    "status": "miss",
     "late_generated": false,
-    "actual_ticket": "",
-    "actual_payout_units": "",
-    "invested_units": 4,
+    "actual_ticket": "1-3-5",
+    "actual_payout_units": 159.4,
+    "invested_units": 4.0,
     "returned_units": 0.0,
     "profit_units": -4.0,
     "prediction_gate_profile": "allvenue_2x2x4_incremental_20260603",
@@ -1499,7 +1515,8 @@
     "odds_fetched_at": "2026-06-03T11:14:35",
     "first_back_max": 10.0,
     "first_chigire_max": 0.302,
-    "first_p1_max": 0.303721031596
+    "first_p1_max": 0.303721031596,
+    "selection_integrity_status": ""
   },
   {
     "date": "2026-06-03",
@@ -1520,13 +1537,13 @@
     "estimated_hit_rate_pct": 11.86,
     "selected_tickets": "2-3-1|2-3-5|3-2-1|3-2-5",
     "combined_odds": 5.066846896729,
-    "status": "pending",
+    "status": "hit",
     "late_generated": false,
-    "actual_ticket": "",
-    "actual_payout_units": "",
-    "invested_units": 4,
-    "returned_units": 0.0,
-    "profit_units": -4.0,
+    "actual_ticket": "2-3-1",
+    "actual_payout_units": 8.3,
+    "invested_units": 4.0,
+    "returned_units": 8.3,
+    "profit_units": 4.3,
     "prediction_gate_profile": "allvenue_2x2x4_incremental_20260603",
     "ticket_type": "trifecta",
     "selection_role": "model_forward",
@@ -1539,7 +1556,8 @@
     "odds_fetched_at": "2026-06-03T11:14:35",
     "first_back_max": 12.0,
     "first_chigire_max": 0.0625,
-    "first_p1_max": 0.396902602916
+    "first_p1_max": 0.396902602916,
+    "selection_integrity_status": ""
   },
   {
     "date": "2026-06-03",
@@ -1560,11 +1578,11 @@
     "estimated_hit_rate": 0.138,
     "estimated_hit_rate_pct": 13.8,
     "selected_tickets": "7-1-2|7-1-3|7-1-4|7-1-5|1-7-2|1-7-3|1-7-4|1-7-5",
-    "status": "pending",
+    "status": "miss",
     "late_generated": false,
-    "actual_ticket": "",
-    "actual_payout_units": "",
-    "invested_units": 8,
+    "actual_ticket": "6-5-7",
+    "actual_payout_units": 396.4,
+    "invested_units": 8.0,
     "returned_units": 0.0,
     "profit_units": -8.0,
     "prediction_gate_profile": "manual_hofu_tenkai_20260603",
@@ -1579,7 +1597,8 @@
     "race_class_scope": "",
     "manual_rationale": "??-????????????????????",
     "odds_source": "official_keirin_jp_current_trifecta_odds",
-    "odds_fetched_at": "2026-06-03T11:14:35"
+    "odds_fetched_at": "2026-06-03T11:14:35",
+    "selection_integrity_status": ""
   },
   {
     "date": "2026-06-03",
@@ -1600,11 +1619,11 @@
     "estimated_hit_rate_pct": 4.77,
     "selected_tickets": "1-3-2|1-3-7|3-1-2|3-1-7",
     "combined_odds": 21.583947098433,
-    "status": "pending",
+    "status": "miss",
     "late_generated": false,
-    "actual_ticket": "",
-    "actual_payout_units": "",
-    "invested_units": 4,
+    "actual_ticket": "5-4-6",
+    "actual_payout_units": 603.9,
+    "invested_units": 4.0,
     "returned_units": 0.0,
     "profit_units": -4.0,
     "prediction_gate_profile": "allvenue_2x2x4_incremental_20260603",
@@ -1619,7 +1638,8 @@
     "odds_fetched_at": "2026-06-03T11:14:35",
     "first_back_max": 14.0,
     "first_chigire_max": 0.4427,
-    "first_p1_max": 0.264446697811
+    "first_p1_max": 0.264446697811,
+    "selection_integrity_status": ""
   },
   {
     "date": "2026-06-03",
@@ -1640,13 +1660,13 @@
     "estimated_hit_rate_pct": 10.84,
     "selected_tickets": "2-6-3|2-6-5|6-2-3|6-2-5",
     "combined_odds": 3.048327562318,
-    "status": "pending",
+    "status": "hit",
     "late_generated": false,
-    "actual_ticket": "",
-    "actual_payout_units": "",
-    "invested_units": 4,
-    "returned_units": 0.0,
-    "profit_units": -4.0,
+    "actual_ticket": "2-6-5",
+    "actual_payout_units": 6.2,
+    "invested_units": 4.0,
+    "returned_units": 6.2,
+    "profit_units": 2.2,
     "prediction_gate_profile": "allvenue_2x2x4_incremental_20260603",
     "ticket_type": "trifecta",
     "selection_role": "model_forward",
@@ -1659,7 +1679,8 @@
     "odds_fetched_at": "2026-06-03T11:14:35",
     "first_back_max": 9.0,
     "first_chigire_max": 0.354,
-    "first_p1_max": 0.454154349037
+    "first_p1_max": 0.454154349037,
+    "selection_integrity_status": ""
   },
   {
     "date": "2026-06-03",
@@ -1680,13 +1701,13 @@
     "estimated_hit_rate": 0.138,
     "estimated_hit_rate_pct": 13.8,
     "selected_tickets": "5-3-4|5-3-6|5-3-7|5-6-3|5-6-4|5-6-7",
-    "status": "pending",
+    "status": "hit",
     "late_generated": false,
-    "actual_ticket": "",
-    "actual_payout_units": "",
-    "invested_units": 6,
-    "returned_units": 0.0,
-    "profit_units": -6.0,
+    "actual_ticket": "5-3-6",
+    "actual_payout_units": 5.1,
+    "invested_units": 6.0,
+    "returned_units": 5.1,
+    "profit_units": -0.9,
     "prediction_gate_profile": "manual_hofu_tenkai_20260603",
     "ticket_type": "trifecta",
     "selection_role": "manual_forward",
@@ -1699,7 +1720,8 @@
     "race_class_scope": "l",
     "manual_rationale": "????????????????????3????",
     "odds_source": "official_keirin_jp_current_trifecta_odds",
-    "odds_fetched_at": "2026-06-03T11:14:35"
+    "odds_fetched_at": "2026-06-03T11:14:35",
+    "selection_integrity_status": ""
   },
   {
     "date": "2026-06-03",
@@ -1720,11 +1742,11 @@
     "estimated_hit_rate_pct": 13.63,
     "selected_tickets": "4-5-1|4-5-2|5-4-1|5-4-2",
     "combined_odds": 4.220972870803,
-    "status": "pending",
+    "status": "miss",
     "late_generated": false,
-    "actual_ticket": "",
-    "actual_payout_units": "",
-    "invested_units": 4,
+    "actual_ticket": "5-1-2",
+    "actual_payout_units": 66.2,
+    "invested_units": 4.0,
     "returned_units": 0.0,
     "profit_units": -4.0,
     "prediction_gate_profile": "allvenue_2x2x4_incremental_20260603",
@@ -1739,7 +1761,8 @@
     "odds_fetched_at": "2026-06-03T11:14:35",
     "first_back_max": 3.0,
     "first_chigire_max": 0.4042,
-    "first_p1_max": 0.314908631416
+    "first_p1_max": 0.314908631416,
+    "selection_integrity_status": ""
   },
   {
     "date": "2026-06-03",
@@ -1760,11 +1783,11 @@
     "estimated_hit_rate_pct": 16.66,
     "selected_tickets": "1-6-4|1-6-7|6-1-4|6-1-7",
     "combined_odds": 1.643490580889,
-    "status": "pending",
+    "status": "miss",
     "late_generated": false,
-    "actual_ticket": "",
-    "actual_payout_units": "",
-    "invested_units": 4,
+    "actual_ticket": "6-1-2",
+    "actual_payout_units": 35.2,
+    "invested_units": 4.0,
     "returned_units": 0.0,
     "profit_units": -4.0,
     "prediction_gate_profile": "allvenue_2x2x4_incremental_20260603",
@@ -1779,7 +1802,8 @@
     "odds_fetched_at": "2026-06-03T11:14:35",
     "first_back_max": 11.0,
     "first_chigire_max": 0.0625,
-    "first_p1_max": 0.383835486155
+    "first_p1_max": 0.383835486155,
+    "selection_integrity_status": ""
   },
   {
     "date": "2026-06-03",
@@ -1800,13 +1824,13 @@
     "estimated_hit_rate": 0.138,
     "estimated_hit_rate_pct": 13.8,
     "selected_tickets": "4-2-7|4-2-3|4-2-5|2-4-7|2-4-3|4-7-2",
-    "status": "pending",
+    "status": "hit",
     "late_generated": false,
-    "actual_ticket": "",
-    "actual_payout_units": "",
-    "invested_units": 6,
-    "returned_units": 0.0,
-    "profit_units": -6.0,
+    "actual_ticket": "4-7-2",
+    "actual_payout_units": 30.0,
+    "invested_units": 6.0,
+    "returned_units": 30.0,
+    "profit_units": 24.0,
     "prediction_gate_profile": "manual_hofu_tenkai_20260603",
     "ticket_type": "trifecta",
     "selection_role": "manual_forward",
@@ -1819,7 +1843,8 @@
     "race_class_scope": "l",
     "manual_rationale": "????????????????????2??????",
     "odds_source": "official_keirin_jp_current_trifecta_odds",
-    "odds_fetched_at": "2026-06-03T11:14:35"
+    "odds_fetched_at": "2026-06-03T11:14:35",
+    "selection_integrity_status": ""
   },
   {
     "date": "2026-06-03",
@@ -1840,13 +1865,13 @@
     "estimated_hit_rate_pct": 7.87,
     "selected_tickets": "5-6-2|5-6-4|6-5-2|6-5-4",
     "combined_odds": 6.504892597798,
-    "status": "pending",
+    "status": "hit",
     "late_generated": false,
-    "actual_ticket": "",
-    "actual_payout_units": "",
-    "invested_units": 4,
-    "returned_units": 0.0,
-    "profit_units": -4.0,
+    "actual_ticket": "6-5-2",
+    "actual_payout_units": 25.3,
+    "invested_units": 4.0,
+    "returned_units": 25.3,
+    "profit_units": 21.3,
     "prediction_gate_profile": "allvenue_2x2x4_incremental_20260603",
     "ticket_type": "trifecta",
     "selection_role": "model_forward",
@@ -1859,7 +1884,8 @@
     "odds_fetched_at": "2026-06-03T11:14:35",
     "first_back_max": 8.0,
     "first_chigire_max": 0.3352,
-    "first_p1_max": 0.278260246413
+    "first_p1_max": 0.278260246413,
+    "selection_integrity_status": ""
   },
   {
     "date": "2026-06-03",
@@ -1880,11 +1906,11 @@
     "estimated_hit_rate_pct": 9.0,
     "selected_tickets": "1-7-3|1-7-5|5-1-3|5-1-7|5-7-1|5-7-3",
     "combined_odds": 9.789076742933,
-    "status": "pending",
+    "status": "miss",
     "late_generated": false,
-    "actual_ticket": "",
-    "actual_payout_units": "",
-    "invested_units": 6,
+    "actual_ticket": "6-2-1",
+    "actual_payout_units": 51.3,
+    "invested_units": 6.0,
     "returned_units": 0.0,
     "profit_units": -6.0,
     "prediction_gate_profile": "allvenue_2x2x4_incremental_20260603",
@@ -1899,7 +1925,8 @@
     "odds_fetched_at": "2026-06-03T11:14:35",
     "first_back_max": 0.0,
     "first_chigire_max": 0.347,
-    "first_p1_max": 0.345277291818
+    "first_p1_max": 0.345277291818,
+    "selection_integrity_status": ""
   },
   {
     "date": "2026-06-03",
@@ -1920,13 +1947,13 @@
     "estimated_hit_rate": 0.138,
     "estimated_hit_rate_pct": 13.8,
     "selected_tickets": "4-3-1|4-3-2|4-3-5|4-5-1|4-5-3|4-1-5",
-    "status": "pending",
+    "status": "hit",
     "late_generated": false,
-    "actual_ticket": "",
-    "actual_payout_units": "",
-    "invested_units": 6,
-    "returned_units": 0.0,
-    "profit_units": -6.0,
+    "actual_ticket": "4-3-5",
+    "actual_payout_units": 6.5,
+    "invested_units": 6.0,
+    "returned_units": 6.5,
+    "profit_units": 0.5,
     "prediction_gate_profile": "manual_hofu_tenkai_20260603",
     "ticket_type": "trifecta",
     "selection_role": "manual_forward",
@@ -1939,7 +1966,8 @@
     "race_class_scope": "",
     "manual_rationale": "?????????????????????2???",
     "odds_source": "official_keirin_jp_current_trifecta_odds",
-    "odds_fetched_at": "2026-06-03T11:14:35"
+    "odds_fetched_at": "2026-06-03T11:14:35",
+    "selection_integrity_status": ""
   },
   {
     "date": "2026-06-03",
@@ -1964,9 +1992,9 @@
     "late_generated": false,
     "actual_ticket": "",
     "actual_payout_units": "",
-    "invested_units": 4,
+    "invested_units": 4.0,
     "returned_units": 0.0,
-    "profit_units": -4.0,
+    "profit_units": 0.0,
     "prediction_gate_profile": "allvenue_2x2x4_incremental_20260603",
     "ticket_type": "trifecta",
     "selection_role": "model_forward",
@@ -1979,7 +2007,8 @@
     "odds_fetched_at": "2026-06-03T11:14:35",
     "first_back_max": 8.0,
     "first_chigire_max": 0.1753,
-    "first_p1_max": 0.261270137801
+    "first_p1_max": 0.261270137801,
+    "selection_integrity_status": ""
   },
   {
     "date": "2026-06-03",
@@ -2004,9 +2033,9 @@
     "late_generated": false,
     "actual_ticket": "",
     "actual_payout_units": "",
-    "invested_units": 4,
+    "invested_units": 4.0,
     "returned_units": 0.0,
-    "profit_units": -4.0,
+    "profit_units": 0.0,
     "prediction_gate_profile": "allvenue_2x2x4_incremental_20260603",
     "ticket_type": "trifecta",
     "selection_role": "model_forward",
@@ -2019,7 +2048,8 @@
     "odds_fetched_at": "2026-06-03T11:14:35",
     "first_back_max": 0.0,
     "first_chigire_max": 0.3768,
-    "first_p1_max": 0.232383176606
+    "first_p1_max": 0.232383176606,
+    "selection_integrity_status": ""
   },
   {
     "date": "2026-06-03",
@@ -2044,9 +2074,9 @@
     "late_generated": false,
     "actual_ticket": "",
     "actual_payout_units": "",
-    "invested_units": 8,
+    "invested_units": 8.0,
     "returned_units": 0.0,
-    "profit_units": -8.0,
+    "profit_units": 0.0,
     "prediction_gate_profile": "manual_hofu_tenkai_20260603",
     "ticket_type": "trifecta",
     "selection_role": "manual_forward",
@@ -2059,7 +2089,8 @@
     "race_class_scope": "",
     "manual_rationale": "???????????????????2????????",
     "odds_source": "official_keirin_jp_current_trifecta_odds",
-    "odds_fetched_at": "2026-06-03T11:14:35"
+    "odds_fetched_at": "2026-06-03T11:14:35",
+    "selection_integrity_status": ""
   },
   {
     "date": "2026-06-03",
@@ -2084,9 +2115,9 @@
     "late_generated": false,
     "actual_ticket": "",
     "actual_payout_units": "",
-    "invested_units": 4,
+    "invested_units": 4.0,
     "returned_units": 0.0,
-    "profit_units": -4.0,
+    "profit_units": 0.0,
     "prediction_gate_profile": "allvenue_2x2x4_incremental_20260603",
     "ticket_type": "trifecta",
     "selection_role": "model_forward",
@@ -2099,7 +2130,8 @@
     "odds_fetched_at": "2026-06-03T11:14:35",
     "first_back_max": 12.0,
     "first_chigire_max": 0.4515,
-    "first_p1_max": 0.240113801825
+    "first_p1_max": 0.240113801825,
+    "selection_integrity_status": ""
   },
   {
     "date": "2026-06-03",
@@ -2124,9 +2156,9 @@
     "late_generated": false,
     "actual_ticket": "",
     "actual_payout_units": "",
-    "invested_units": 6,
+    "invested_units": 6.0,
     "returned_units": 0.0,
-    "profit_units": -6.0,
+    "profit_units": 0.0,
     "prediction_gate_profile": "allvenue_2x2x4_incremental_20260603",
     "ticket_type": "trifecta",
     "selection_role": "model_forward",
@@ -2139,7 +2171,8 @@
     "odds_fetched_at": "2026-06-03T11:14:35",
     "first_back_max": 13.0,
     "first_chigire_max": 0.2985,
-    "first_p1_max": 0.229038948638
+    "first_p1_max": 0.229038948638,
+    "selection_integrity_status": ""
   },
   {
     "date": "2026-06-03",
@@ -2164,9 +2197,9 @@
     "late_generated": false,
     "actual_ticket": "",
     "actual_payout_units": "",
-    "invested_units": 10,
+    "invested_units": 10.0,
     "returned_units": 0.0,
-    "profit_units": -10.0,
+    "profit_units": 0.0,
     "prediction_gate_profile": "manual_hofu_tenkai_20260603",
     "ticket_type": "trifecta",
     "selection_role": "manual_forward",
@@ -2179,7 +2212,8 @@
     "race_class_scope": "",
     "manual_rationale": "????????-????????????????????????",
     "odds_source": "official_keirin_jp_current_trifecta_odds",
-    "odds_fetched_at": "2026-06-03T11:14:35"
+    "odds_fetched_at": "2026-06-03T11:14:35",
+    "selection_integrity_status": ""
   },
   {
     "date": "2026-06-03",
@@ -2204,9 +2238,9 @@
     "late_generated": false,
     "actual_ticket": "",
     "actual_payout_units": "",
-    "invested_units": 6,
+    "invested_units": 6.0,
     "returned_units": 0.0,
-    "profit_units": -6.0,
+    "profit_units": 0.0,
     "prediction_gate_profile": "allvenue_2x2x4_incremental_20260603",
     "ticket_type": "trifecta",
     "selection_role": "model_forward",
@@ -2219,7 +2253,8 @@
     "odds_fetched_at": "2026-06-03T11:14:35",
     "first_back_max": 17.0,
     "first_chigire_max": 0.4153,
-    "first_p1_max": 0.352738191722
+    "first_p1_max": 0.352738191722,
+    "selection_integrity_status": ""
   },
   {
     "date": "2026-06-03",
@@ -2244,9 +2279,9 @@
     "late_generated": false,
     "actual_ticket": "",
     "actual_payout_units": "",
-    "invested_units": 4,
+    "invested_units": 4.0,
     "returned_units": 0.0,
-    "profit_units": -4.0,
+    "profit_units": 0.0,
     "prediction_gate_profile": "allvenue_2x2x4_incremental_20260603",
     "ticket_type": "trifecta",
     "selection_role": "model_forward",
@@ -2259,7 +2294,8 @@
     "odds_fetched_at": "2026-06-03T11:14:35",
     "first_back_max": 17.0,
     "first_chigire_max": 0.4095,
-    "first_p1_max": 0.256211125513
+    "first_p1_max": 0.256211125513,
+    "selection_integrity_status": ""
   },
   {
     "date": "2026-06-03",
@@ -2284,9 +2320,9 @@
     "late_generated": false,
     "actual_ticket": "",
     "actual_payout_units": "",
-    "invested_units": 6,
+    "invested_units": 6.0,
     "returned_units": 0.0,
-    "profit_units": -6.0,
+    "profit_units": 0.0,
     "prediction_gate_profile": "manual_hofu_tenkai_20260603",
     "ticket_type": "trifecta",
     "selection_role": "manual_forward",
@@ -2299,7 +2335,8 @@
     "race_class_scope": "",
     "manual_rationale": "?????????????????????????????",
     "odds_source": "official_keirin_jp_current_trifecta_odds",
-    "odds_fetched_at": "2026-06-03T11:14:35"
+    "odds_fetched_at": "2026-06-03T11:14:35",
+    "selection_integrity_status": ""
   },
   {
     "date": "2026-06-03",
@@ -2324,9 +2361,9 @@
     "late_generated": false,
     "actual_ticket": "",
     "actual_payout_units": "",
-    "invested_units": 8,
+    "invested_units": 8.0,
     "returned_units": 0.0,
-    "profit_units": -8.0,
+    "profit_units": 0.0,
     "prediction_gate_profile": "allvenue_2x2x4_incremental_20260603",
     "ticket_type": "trifecta",
     "selection_role": "model_forward",
@@ -2339,7 +2376,8 @@
     "odds_fetched_at": "2026-06-03T11:14:35",
     "first_back_max": 1.0,
     "first_chigire_max": 0.1753,
-    "first_p1_max": 0.268232231054
+    "first_p1_max": 0.268232231054,
+    "selection_integrity_status": ""
   },
   {
     "date": "2026-06-03",
@@ -2364,9 +2402,9 @@
     "late_generated": false,
     "actual_ticket": "",
     "actual_payout_units": "",
-    "invested_units": 4,
+    "invested_units": 4.0,
     "returned_units": 0.0,
-    "profit_units": -4.0,
+    "profit_units": 0.0,
     "prediction_gate_profile": "allvenue_2x2x4_incremental_20260603",
     "ticket_type": "trifecta",
     "selection_role": "model_forward",
@@ -2379,7 +2417,8 @@
     "odds_fetched_at": "2026-06-03T11:14:35",
     "first_back_max": 16.0,
     "first_chigire_max": 0.0625,
-    "first_p1_max": 0.210141265294
+    "first_p1_max": 0.210141265294,
+    "selection_integrity_status": ""
   },
   {
     "date": "2026-06-03",
@@ -2404,9 +2443,9 @@
     "late_generated": false,
     "actual_ticket": "",
     "actual_payout_units": "",
-    "invested_units": 4,
+    "invested_units": 4.0,
     "returned_units": 0.0,
-    "profit_units": -4.0,
+    "profit_units": 0.0,
     "prediction_gate_profile": "allvenue_2x2x4_incremental_20260603",
     "ticket_type": "trifecta",
     "selection_role": "model_forward",
@@ -2419,7 +2458,8 @@
     "odds_fetched_at": "2026-06-03T11:14:35",
     "first_back_max": 4.0,
     "first_chigire_max": 0.3902,
-    "first_p1_max": 0.316142595254
+    "first_p1_max": 0.316142595254,
+    "selection_integrity_status": ""
   },
   {
     "date": "2026-06-03",
@@ -2444,9 +2484,9 @@
     "late_generated": false,
     "actual_ticket": "",
     "actual_payout_units": "",
-    "invested_units": 9,
+    "invested_units": 9.0,
     "returned_units": 0.0,
-    "profit_units": -9.0,
+    "profit_units": 0.0,
     "prediction_gate_profile": "manual_hofu_tenkai_20260603",
     "ticket_type": "trifecta",
     "selection_role": "manual_forward",
@@ -2459,7 +2499,8 @@
     "race_class_scope": "",
     "manual_rationale": "????????????????????????????????",
     "odds_source": "official_keirin_jp_current_trifecta_odds",
-    "odds_fetched_at": "2026-06-03T11:14:35"
+    "odds_fetched_at": "2026-06-03T11:14:35",
+    "selection_integrity_status": ""
   },
   {
     "date": "2026-06-03",
@@ -2484,9 +2525,9 @@
     "late_generated": false,
     "actual_ticket": "",
     "actual_payout_units": "",
-    "invested_units": 6,
+    "invested_units": 6.0,
     "returned_units": 0.0,
-    "profit_units": -6.0,
+    "profit_units": 0.0,
     "prediction_gate_profile": "allvenue_2x2x4_incremental_20260603",
     "ticket_type": "trifecta",
     "selection_role": "model_forward",
@@ -2499,7 +2540,8 @@
     "odds_fetched_at": "2026-06-03T11:14:35",
     "first_back_max": 12.0,
     "first_chigire_max": 0.3317,
-    "first_p1_max": 0.231650095426
+    "first_p1_max": 0.231650095426,
+    "selection_integrity_status": ""
   },
   {
     "date": "2026-06-03",
@@ -2524,9 +2566,9 @@
     "late_generated": false,
     "actual_ticket": "",
     "actual_payout_units": "",
-    "invested_units": 4,
+    "invested_units": 4.0,
     "returned_units": 0.0,
-    "profit_units": -4.0,
+    "profit_units": 0.0,
     "prediction_gate_profile": "allvenue_2x2x4_incremental_20260603",
     "ticket_type": "trifecta",
     "selection_role": "model_forward",
@@ -2539,7 +2581,8 @@
     "odds_fetched_at": "2026-06-03T11:14:35",
     "first_back_max": 4.0,
     "first_chigire_max": 0.2238,
-    "first_p1_max": 0.292054683309
+    "first_p1_max": 0.292054683309,
+    "selection_integrity_status": ""
   },
   {
     "date": "2026-06-03",
@@ -2564,9 +2607,9 @@
     "late_generated": false,
     "actual_ticket": "",
     "actual_payout_units": "",
-    "invested_units": 8,
+    "invested_units": 8.0,
     "returned_units": 0.0,
-    "profit_units": -8.0,
+    "profit_units": 0.0,
     "prediction_gate_profile": "allvenue_2x2x4_incremental_20260603",
     "ticket_type": "trifecta",
     "selection_role": "model_forward",
@@ -2579,7 +2622,8 @@
     "odds_fetched_at": "2026-06-03T11:14:35",
     "first_back_max": 7.0,
     "first_chigire_max": 0.2168,
-    "first_p1_max": 0.256574332448
+    "first_p1_max": 0.256574332448,
+    "selection_integrity_status": ""
   },
   {
     "date": "2026-06-03",
@@ -2604,9 +2648,9 @@
     "late_generated": false,
     "actual_ticket": "",
     "actual_payout_units": "",
-    "invested_units": 8,
+    "invested_units": 8.0,
     "returned_units": 0.0,
-    "profit_units": -8.0,
+    "profit_units": 0.0,
     "prediction_gate_profile": "allvenue_2x2x4_incremental_20260603",
     "ticket_type": "trifecta",
     "selection_role": "model_forward",
@@ -2619,7 +2663,8 @@
     "odds_fetched_at": "2026-06-03T11:14:35",
     "first_back_max": 19.0,
     "first_chigire_max": 0.1543,
-    "first_p1_max": 0.341092674415
+    "first_p1_max": 0.341092674415,
+    "selection_integrity_status": ""
   },
   {
     "date": "2026-06-03",
@@ -2644,9 +2689,9 @@
     "late_generated": false,
     "actual_ticket": "",
     "actual_payout_units": "",
-    "invested_units": 4,
+    "invested_units": 4.0,
     "returned_units": 0.0,
-    "profit_units": -4.0,
+    "profit_units": 0.0,
     "prediction_gate_profile": "allvenue_2x2x4_incremental_20260603",
     "ticket_type": "trifecta",
     "selection_role": "model_forward",
@@ -2659,7 +2704,8 @@
     "odds_fetched_at": "2026-06-03T11:14:35",
     "first_back_max": 15.0,
     "first_chigire_max": 0.1127,
-    "first_p1_max": 0.271077241518
+    "first_p1_max": 0.271077241518,
+    "selection_integrity_status": ""
   },
   {
     "date": "2026-06-03",
@@ -2684,9 +2730,9 @@
     "late_generated": false,
     "actual_ticket": "",
     "actual_payout_units": "",
-    "invested_units": 4,
+    "invested_units": 4.0,
     "returned_units": 0.0,
-    "profit_units": -4.0,
+    "profit_units": 0.0,
     "prediction_gate_profile": "allvenue_2x2x4_incremental_20260603",
     "ticket_type": "trifecta",
     "selection_role": "model_forward",
@@ -2699,7 +2745,8 @@
     "odds_fetched_at": "2026-06-03T11:14:35",
     "first_back_max": 7.0,
     "first_chigire_max": 0.4165,
-    "first_p1_max": 0.271304559513
+    "first_p1_max": 0.271304559513,
+    "selection_integrity_status": ""
   },
   {
     "date": "2026-06-03",
@@ -2724,9 +2771,9 @@
     "late_generated": false,
     "actual_ticket": "",
     "actual_payout_units": "",
-    "invested_units": 4,
+    "invested_units": 4.0,
     "returned_units": 0.0,
-    "profit_units": -4.0,
+    "profit_units": 0.0,
     "prediction_gate_profile": "allvenue_2x2x4_incremental_20260603",
     "ticket_type": "trifecta",
     "selection_role": "model_forward",
@@ -2739,7 +2786,8 @@
     "odds_fetched_at": "2026-06-03T11:14:35",
     "first_back_max": 9.0,
     "first_chigire_max": 0.375,
-    "first_p1_max": 0.237890741362
+    "first_p1_max": 0.237890741362,
+    "selection_integrity_status": ""
   },
   {
     "date": "2026-06-03",
@@ -2764,9 +2812,9 @@
     "late_generated": false,
     "actual_ticket": "",
     "actual_payout_units": "",
-    "invested_units": 8,
+    "invested_units": 8.0,
     "returned_units": 0.0,
-    "profit_units": -8.0,
+    "profit_units": 0.0,
     "prediction_gate_profile": "allvenue_2x2x4_incremental_20260603",
     "ticket_type": "trifecta",
     "selection_role": "model_forward",
@@ -2779,7 +2827,8 @@
     "odds_fetched_at": "2026-06-03T11:14:35",
     "first_back_max": 10.0,
     "first_chigire_max": 0.5315,
-    "first_p1_max": 0.291227022855
+    "first_p1_max": 0.291227022855,
+    "selection_integrity_status": ""
   },
   {
     "date": "2026-06-03",
@@ -2804,9 +2853,9 @@
     "late_generated": false,
     "actual_ticket": "",
     "actual_payout_units": "",
-    "invested_units": 4,
+    "invested_units": 4.0,
     "returned_units": 0.0,
-    "profit_units": -4.0,
+    "profit_units": 0.0,
     "prediction_gate_profile": "allvenue_2x2x4_incremental_20260603",
     "ticket_type": "trifecta",
     "selection_role": "model_forward",
@@ -2819,7 +2868,8 @@
     "odds_fetched_at": "2026-06-03T11:14:35",
     "first_back_max": 7.0,
     "first_chigire_max": 0.2792,
-    "first_p1_max": 0.313133039641
+    "first_p1_max": 0.313133039641,
+    "selection_integrity_status": ""
   },
   {
     "date": "2026-06-03",
@@ -2844,9 +2894,9 @@
     "late_generated": false,
     "actual_ticket": "",
     "actual_payout_units": "",
-    "invested_units": 8,
+    "invested_units": 8.0,
     "returned_units": 0.0,
-    "profit_units": -8.0,
+    "profit_units": 0.0,
     "prediction_gate_profile": "allvenue_2x2x4_incremental_20260603",
     "ticket_type": "trifecta",
     "selection_role": "model_forward",
@@ -2859,7 +2909,8 @@
     "odds_fetched_at": "2026-06-03T11:14:35",
     "first_back_max": 10.0,
     "first_chigire_max": 0.3265,
-    "first_p1_max": 0.221077102851
+    "first_p1_max": 0.221077102851,
+    "selection_integrity_status": ""
   },
   {
     "date": "2026-06-03",
@@ -2884,9 +2935,9 @@
     "late_generated": false,
     "actual_ticket": "",
     "actual_payout_units": "",
-    "invested_units": 6,
+    "invested_units": 6.0,
     "returned_units": 0.0,
-    "profit_units": -6.0,
+    "profit_units": 0.0,
     "prediction_gate_profile": "allvenue_2x2x4_incremental_20260603",
     "ticket_type": "trifecta",
     "selection_role": "model_forward",
@@ -2899,7 +2950,8 @@
     "odds_fetched_at": "2026-06-03T11:14:35",
     "first_back_max": 5.0,
     "first_chigire_max": 0.3265,
-    "first_p1_max": 0.280244909111
+    "first_p1_max": 0.280244909111,
+    "selection_integrity_status": ""
   },
   {
     "date": "2026-06-03",
@@ -2924,9 +2976,9 @@
     "late_generated": false,
     "actual_ticket": "",
     "actual_payout_units": "",
-    "invested_units": 8,
+    "invested_units": 8.0,
     "returned_units": 0.0,
-    "profit_units": -8.0,
+    "profit_units": 0.0,
     "prediction_gate_profile": "allvenue_2x2x4_incremental_20260603",
     "ticket_type": "trifecta",
     "selection_role": "model_forward",
@@ -2939,7 +2991,8 @@
     "odds_fetched_at": "2026-06-03T11:14:35",
     "first_back_max": 1.0,
     "first_chigire_max": 0.316,
-    "first_p1_max": 0.26288870347
+    "first_p1_max": 0.26288870347,
+    "selection_integrity_status": ""
   },
   {
     "date": "2026-06-03",
@@ -2964,9 +3017,9 @@
     "late_generated": false,
     "actual_ticket": "",
     "actual_payout_units": "",
-    "invested_units": 4,
+    "invested_units": 4.0,
     "returned_units": 0.0,
-    "profit_units": -4.0,
+    "profit_units": 0.0,
     "prediction_gate_profile": "allvenue_2x2x4_incremental_20260603",
     "ticket_type": "trifecta",
     "selection_role": "model_forward",
@@ -2979,7 +3032,8 @@
     "odds_fetched_at": "2026-06-03T11:14:35",
     "first_back_max": 2.0,
     "first_chigire_max": 0.552,
-    "first_p1_max": 0.257165638282
+    "first_p1_max": 0.257165638282,
+    "selection_integrity_status": ""
   },
   {
     "date": "2026-06-03",
@@ -3004,9 +3058,9 @@
     "late_generated": false,
     "actual_ticket": "",
     "actual_payout_units": "",
-    "invested_units": 6,
+    "invested_units": 6.0,
     "returned_units": 0.0,
-    "profit_units": -6.0,
+    "profit_units": 0.0,
     "prediction_gate_profile": "allvenue_2x2x4_incremental_20260603",
     "ticket_type": "trifecta",
     "selection_role": "model_forward",
@@ -3019,7 +3073,8 @@
     "odds_fetched_at": "2026-06-03T11:14:35",
     "first_back_max": 5.0,
     "first_chigire_max": 0.455,
-    "first_p1_max": 0.271481978241
+    "first_p1_max": 0.271481978241,
+    "selection_integrity_status": ""
   },
   {
     "date": "2026-06-03",
@@ -3044,9 +3099,9 @@
     "late_generated": false,
     "actual_ticket": "",
     "actual_payout_units": "",
-    "invested_units": 4,
+    "invested_units": 4.0,
     "returned_units": 0.0,
-    "profit_units": -4.0,
+    "profit_units": 0.0,
     "prediction_gate_profile": "allvenue_2x2x4_incremental_20260603",
     "ticket_type": "trifecta",
     "selection_role": "model_forward",
@@ -3059,7 +3114,8 @@
     "odds_fetched_at": "2026-06-03T11:14:35",
     "first_back_max": 3.0,
     "first_chigire_max": 0.0625,
-    "first_p1_max": 0.333681792287
+    "first_p1_max": 0.333681792287,
+    "selection_integrity_status": ""
   },
   {
     "date": "2026-06-03",
@@ -3084,9 +3140,9 @@
     "late_generated": false,
     "actual_ticket": "",
     "actual_payout_units": "",
-    "invested_units": 6,
+    "invested_units": 6.0,
     "returned_units": 0.0,
-    "profit_units": -6.0,
+    "profit_units": 0.0,
     "prediction_gate_profile": "allvenue_2x2x4_incremental_20260603",
     "ticket_type": "trifecta",
     "selection_role": "model_forward",
@@ -3099,7 +3155,8 @@
     "odds_fetched_at": "2026-06-03T11:14:35",
     "first_back_max": 12.0,
     "first_chigire_max": 0.4113,
-    "first_p1_max": 0.259580727226
+    "first_p1_max": 0.259580727226,
+    "selection_integrity_status": ""
   },
   {
     "date": "2026-06-03",
@@ -3124,9 +3181,9 @@
     "late_generated": false,
     "actual_ticket": "",
     "actual_payout_units": "",
-    "invested_units": 4,
+    "invested_units": 4.0,
     "returned_units": 0.0,
-    "profit_units": -4.0,
+    "profit_units": 0.0,
     "prediction_gate_profile": "allvenue_2x2x4_incremental_20260603",
     "ticket_type": "trifecta",
     "selection_role": "model_forward",
@@ -3139,7 +3196,8 @@
     "odds_fetched_at": "2026-06-03T11:14:35",
     "first_back_max": 11.0,
     "first_chigire_max": 0.427,
-    "first_p1_max": 0.296093859419
+    "first_p1_max": 0.296093859419,
+    "selection_integrity_status": ""
   },
   {
     "date": "2026-06-03",
@@ -3164,9 +3222,9 @@
     "late_generated": false,
     "actual_ticket": "",
     "actual_payout_units": "",
-    "invested_units": 4,
+    "invested_units": 4.0,
     "returned_units": 0.0,
-    "profit_units": -4.0,
+    "profit_units": 0.0,
     "prediction_gate_profile": "allvenue_2x2x4_incremental_20260603",
     "ticket_type": "trifecta",
     "selection_role": "model_forward",
@@ -3179,7 +3237,8 @@
     "odds_fetched_at": "2026-06-03T11:14:35",
     "first_back_max": 13.0,
     "first_chigire_max": 0.2863,
-    "first_p1_max": 0.286483150257
+    "first_p1_max": 0.286483150257,
+    "selection_integrity_status": ""
   },
   {
     "date": "2026-06-03",
@@ -3204,9 +3263,9 @@
     "late_generated": false,
     "actual_ticket": "",
     "actual_payout_units": "",
-    "invested_units": 4,
+    "invested_units": 4.0,
     "returned_units": 0.0,
-    "profit_units": -4.0,
+    "profit_units": 0.0,
     "prediction_gate_profile": "allvenue_2x2x4_incremental_20260603",
     "ticket_type": "trifecta",
     "selection_role": "model_forward",
@@ -3219,7 +3278,8 @@
     "odds_fetched_at": "2026-06-03T11:14:35",
     "first_back_max": 8.0,
     "first_chigire_max": 0.1753,
-    "first_p1_max": 0.379033004542
+    "first_p1_max": 0.379033004542,
+    "selection_integrity_status": ""
   },
   {
     "date": "2026-06-03",
@@ -3244,9 +3304,9 @@
     "late_generated": false,
     "actual_ticket": "",
     "actual_payout_units": "",
-    "invested_units": 4,
+    "invested_units": 4.0,
     "returned_units": 0.0,
-    "profit_units": -4.0,
+    "profit_units": 0.0,
     "prediction_gate_profile": "allvenue_2x2x4_incremental_20260603",
     "ticket_type": "trifecta",
     "selection_role": "model_forward",
@@ -3259,7 +3319,8 @@
     "odds_fetched_at": "2026-06-03T11:14:35",
     "first_back_max": 10.0,
     "first_chigire_max": 0.455,
-    "first_p1_max": 0.239897045406
+    "first_p1_max": 0.239897045406,
+    "selection_integrity_status": ""
   },
   {
     "date": "2026-06-03",
@@ -3284,9 +3345,9 @@
     "late_generated": false,
     "actual_ticket": "",
     "actual_payout_units": "",
-    "invested_units": 4,
+    "invested_units": 4.0,
     "returned_units": 0.0,
-    "profit_units": -4.0,
+    "profit_units": 0.0,
     "prediction_gate_profile": "allvenue_2x2x4_incremental_20260603",
     "ticket_type": "trifecta",
     "selection_role": "model_forward",
@@ -3299,7 +3360,8 @@
     "odds_fetched_at": "2026-06-03T11:14:35",
     "first_back_max": 17.0,
     "first_chigire_max": 0.462,
-    "first_p1_max": 0.330379985553
+    "first_p1_max": 0.330379985553,
+    "selection_integrity_status": ""
   },
   {
     "date": "2026-06-03",
@@ -3324,9 +3386,9 @@
     "late_generated": false,
     "actual_ticket": "",
     "actual_payout_units": "",
-    "invested_units": 4,
+    "invested_units": 4.0,
     "returned_units": 0.0,
-    "profit_units": -4.0,
+    "profit_units": 0.0,
     "prediction_gate_profile": "allvenue_2x2x4_incremental_20260603",
     "ticket_type": "trifecta",
     "selection_role": "model_forward",
@@ -3339,7 +3401,8 @@
     "odds_fetched_at": "2026-06-03T11:14:35",
     "first_back_max": 13.0,
     "first_chigire_max": 0.3003,
-    "first_p1_max": 0.383184525162
+    "first_p1_max": 0.383184525162,
+    "selection_integrity_status": ""
   },
   {
     "date": "2026-06-03",
@@ -3364,9 +3427,9 @@
     "late_generated": false,
     "actual_ticket": "",
     "actual_payout_units": "",
-    "invested_units": 6,
+    "invested_units": 6.0,
     "returned_units": 0.0,
-    "profit_units": -6.0,
+    "profit_units": 0.0,
     "prediction_gate_profile": "allvenue_2x2x4_incremental_20260603",
     "ticket_type": "trifecta",
     "selection_role": "model_forward",
@@ -3379,7 +3442,8 @@
     "odds_fetched_at": "2026-06-03T11:14:35",
     "first_back_max": 8.0,
     "first_chigire_max": 0.271,
-    "first_p1_max": 0.37846109617
+    "first_p1_max": 0.37846109617,
+    "selection_integrity_status": ""
   },
   {
     "date": "2026-06-03",
@@ -3404,9 +3468,9 @@
     "late_generated": false,
     "actual_ticket": "",
     "actual_payout_units": "",
-    "invested_units": 4,
+    "invested_units": 4.0,
     "returned_units": 0.0,
-    "profit_units": -4.0,
+    "profit_units": 0.0,
     "prediction_gate_profile": "allvenue_2x2x4_incremental_20260603",
     "ticket_type": "trifecta",
     "selection_role": "model_forward",
@@ -3419,7 +3483,8 @@
     "odds_fetched_at": "2026-06-03T11:14:35",
     "first_back_max": 9.0,
     "first_chigire_max": 0.4305,
-    "first_p1_max": 0.263506466017
+    "first_p1_max": 0.263506466017,
+    "selection_integrity_status": ""
   },
   {
     "date": "2026-06-03",
@@ -3444,9 +3509,9 @@
     "late_generated": false,
     "actual_ticket": "",
     "actual_payout_units": "",
-    "invested_units": 4,
+    "invested_units": 4.0,
     "returned_units": 0.0,
-    "profit_units": -4.0,
+    "profit_units": 0.0,
     "prediction_gate_profile": "allvenue_2x2x4_incremental_20260603",
     "ticket_type": "trifecta",
     "selection_role": "model_forward",
@@ -3459,7 +3524,8 @@
     "odds_fetched_at": "2026-06-03T11:14:35",
     "first_back_max": 8.0,
     "first_chigire_max": 0.33,
-    "first_p1_max": 0.332598266857
+    "first_p1_max": 0.332598266857,
+    "selection_integrity_status": ""
   },
   {
     "date": "2026-06-03",
@@ -3484,9 +3550,9 @@
     "late_generated": false,
     "actual_ticket": "",
     "actual_payout_units": "",
-    "invested_units": 4,
+    "invested_units": 4.0,
     "returned_units": 0.0,
-    "profit_units": -4.0,
+    "profit_units": 0.0,
     "prediction_gate_profile": "allvenue_2x2x4_incremental_20260603",
     "ticket_type": "trifecta",
     "selection_role": "model_forward",
@@ -3499,7 +3565,8 @@
     "odds_fetched_at": "2026-06-03T11:14:35",
     "first_back_max": 5.0,
     "first_chigire_max": 0.3838,
-    "first_p1_max": 0.258563409411
+    "first_p1_max": 0.258563409411,
+    "selection_integrity_status": ""
   },
   {
     "date": "2026-06-03",
@@ -3524,9 +3591,9 @@
     "late_generated": false,
     "actual_ticket": "",
     "actual_payout_units": "",
-    "invested_units": 8,
+    "invested_units": 8.0,
     "returned_units": 0.0,
-    "profit_units": -8.0,
+    "profit_units": 0.0,
     "prediction_gate_profile": "allvenue_2x2x4_incremental_20260603",
     "ticket_type": "trifecta",
     "selection_role": "model_forward",
@@ -3539,7 +3606,8 @@
     "odds_fetched_at": "2026-06-03T11:14:35",
     "first_back_max": 7.0,
     "first_chigire_max": 0.389,
-    "first_p1_max": 0.278441317566
+    "first_p1_max": 0.278441317566,
+    "selection_integrity_status": ""
   },
   {
     "date": "2026-06-03",
@@ -3564,9 +3632,9 @@
     "late_generated": false,
     "actual_ticket": "",
     "actual_payout_units": "",
-    "invested_units": 4,
+    "invested_units": 4.0,
     "returned_units": 0.0,
-    "profit_units": -4.0,
+    "profit_units": 0.0,
     "prediction_gate_profile": "allvenue_2x2x4_incremental_20260603",
     "ticket_type": "trifecta",
     "selection_role": "model_forward",
@@ -3579,7 +3647,8 @@
     "odds_fetched_at": "2026-06-03T11:14:35",
     "first_back_max": 10.0,
     "first_chigire_max": 0.3277,
-    "first_p1_max": 0.284733499588
+    "first_p1_max": 0.284733499588,
+    "selection_integrity_status": ""
   },
   {
     "date": "2026-06-03",
@@ -3604,9 +3673,9 @@
     "late_generated": false,
     "actual_ticket": "",
     "actual_payout_units": "",
-    "invested_units": 6,
+    "invested_units": 6.0,
     "returned_units": 0.0,
-    "profit_units": -6.0,
+    "profit_units": 0.0,
     "prediction_gate_profile": "allvenue_2x2x4_incremental_20260603",
     "ticket_type": "trifecta",
     "selection_role": "model_forward",
@@ -3619,7 +3688,8 @@
     "odds_fetched_at": "2026-06-03T11:14:35",
     "first_back_max": 12.0,
     "first_chigire_max": 0.3925,
-    "first_p1_max": 0.315405066723
+    "first_p1_max": 0.315405066723,
+    "selection_integrity_status": ""
   },
   {
     "date": "2026-06-03",
@@ -3644,9 +3714,9 @@
     "late_generated": false,
     "actual_ticket": "",
     "actual_payout_units": "",
-    "invested_units": 4,
+    "invested_units": 4.0,
     "returned_units": 0.0,
-    "profit_units": -4.0,
+    "profit_units": 0.0,
     "prediction_gate_profile": "allvenue_2x2x4_incremental_20260603",
     "ticket_type": "trifecta",
     "selection_role": "model_forward",
@@ -3659,7 +3729,8 @@
     "odds_fetched_at": "2026-06-03T11:14:35",
     "first_back_max": 2.0,
     "first_chigire_max": 0.2133,
-    "first_p1_max": 0.293614198439
+    "first_p1_max": 0.293614198439,
+    "selection_integrity_status": ""
   },
   {
     "date": "2026-06-03",
@@ -3684,9 +3755,9 @@
     "late_generated": false,
     "actual_ticket": "",
     "actual_payout_units": "",
-    "invested_units": 6,
+    "invested_units": 6.0,
     "returned_units": 0.0,
-    "profit_units": -6.0,
+    "profit_units": 0.0,
     "prediction_gate_profile": "allvenue_2x2x4_incremental_20260603",
     "ticket_type": "trifecta",
     "selection_role": "model_forward",
@@ -3699,7 +3770,8 @@
     "odds_fetched_at": "2026-06-03T11:14:35",
     "first_back_max": 9.0,
     "first_chigire_max": 0.2308,
-    "first_p1_max": 0.346096771527
+    "first_p1_max": 0.346096771527,
+    "selection_integrity_status": ""
   },
   {
     "date": "2026-06-03",
@@ -3724,9 +3796,9 @@
     "late_generated": false,
     "actual_ticket": "",
     "actual_payout_units": "",
-    "invested_units": 4,
+    "invested_units": 4.0,
     "returned_units": 0.0,
-    "profit_units": -4.0,
+    "profit_units": 0.0,
     "prediction_gate_profile": "allvenue_2x2x4_incremental_20260603",
     "ticket_type": "trifecta",
     "selection_role": "model_forward",
@@ -3739,7 +3811,8 @@
     "odds_fetched_at": "2026-06-03T11:14:35",
     "first_back_max": 10.0,
     "first_chigire_max": 0.368,
-    "first_p1_max": 0.332203197255
+    "first_p1_max": 0.332203197255,
+    "selection_integrity_status": ""
   },
   {
     "date": "2026-06-03",
@@ -3764,9 +3837,9 @@
     "late_generated": false,
     "actual_ticket": "",
     "actual_payout_units": "",
-    "invested_units": 4,
+    "invested_units": 4.0,
     "returned_units": 0.0,
-    "profit_units": -4.0,
+    "profit_units": 0.0,
     "prediction_gate_profile": "allvenue_2x2x4_incremental_20260603",
     "ticket_type": "trifecta",
     "selection_role": "model_forward",
@@ -3779,7 +3852,8 @@
     "odds_fetched_at": "2026-06-03T11:14:35",
     "first_back_max": 13.0,
     "first_chigire_max": 0.0625,
-    "first_p1_max": 0.345810402613
+    "first_p1_max": 0.345810402613,
+    "selection_integrity_status": ""
   },
   {
     "date": "2026-06-03",
@@ -3804,9 +3878,9 @@
     "late_generated": false,
     "actual_ticket": "",
     "actual_payout_units": "",
-    "invested_units": 4,
+    "invested_units": 4.0,
     "returned_units": 0.0,
-    "profit_units": -4.0,
+    "profit_units": 0.0,
     "prediction_gate_profile": "allvenue_2x2x4_incremental_20260603",
     "ticket_type": "trifecta",
     "selection_role": "model_forward",
@@ -3819,7 +3893,8 @@
     "odds_fetched_at": "2026-06-03T11:14:35",
     "first_back_max": 14.0,
     "first_chigire_max": 0.4305,
-    "first_p1_max": 0.37580960889
+    "first_p1_max": 0.37580960889,
+    "selection_integrity_status": ""
   },
   {
     "date": "2026-06-03",
@@ -3844,9 +3919,9 @@
     "late_generated": false,
     "actual_ticket": "",
     "actual_payout_units": "",
-    "invested_units": 6,
+    "invested_units": 6.0,
     "returned_units": 0.0,
-    "profit_units": -6.0,
+    "profit_units": 0.0,
     "prediction_gate_profile": "allvenue_2x2x4_incremental_20260603",
     "ticket_type": "trifecta",
     "selection_role": "model_forward",
@@ -3859,7 +3934,8 @@
     "odds_fetched_at": "2026-06-03T11:14:35",
     "first_back_max": 10.0,
     "first_chigire_max": 0.3282,
-    "first_p1_max": 0.457666153272
+    "first_p1_max": 0.457666153272,
+    "selection_integrity_status": ""
   },
   {
     "date": "2026-06-03",
@@ -3884,9 +3960,9 @@
     "late_generated": false,
     "actual_ticket": "",
     "actual_payout_units": "",
-    "invested_units": 6,
+    "invested_units": 6.0,
     "returned_units": 0.0,
-    "profit_units": -6.0,
+    "profit_units": 0.0,
     "prediction_gate_profile": "allvenue_2x2x4_incremental_20260603",
     "ticket_type": "trifecta",
     "selection_role": "model_forward",
@@ -3899,7 +3975,8 @@
     "odds_fetched_at": "2026-06-03T11:14:35",
     "first_back_max": 16.0,
     "first_chigire_max": 0.4305,
-    "first_p1_max": 0.445427732903
+    "first_p1_max": 0.445427732903,
+    "selection_integrity_status": ""
   },
   {
     "date": "2026-06-03",
@@ -3924,9 +4001,9 @@
     "late_generated": false,
     "actual_ticket": "",
     "actual_payout_units": "",
-    "invested_units": 4,
+    "invested_units": 4.0,
     "returned_units": 0.0,
-    "profit_units": -4.0,
+    "profit_units": 0.0,
     "prediction_gate_profile": "allvenue_2x2x4_incremental_20260603",
     "ticket_type": "trifecta",
     "selection_role": "model_forward",
@@ -3939,7 +4016,8 @@
     "odds_fetched_at": "2026-06-03T11:14:35",
     "first_back_max": 20.0,
     "first_chigire_max": 0.0625,
-    "first_p1_max": 0.369206992367
+    "first_p1_max": 0.369206992367,
+    "selection_integrity_status": ""
   },
   {
     "date": "2026-06-03",
@@ -3964,9 +4042,9 @@
     "late_generated": false,
     "actual_ticket": "",
     "actual_payout_units": "",
-    "invested_units": 8,
+    "invested_units": 8.0,
     "returned_units": 0.0,
-    "profit_units": -8.0,
+    "profit_units": 0.0,
     "prediction_gate_profile": "allvenue_2x2x4_incremental_20260603",
     "ticket_type": "trifecta",
     "selection_role": "model_forward",
@@ -3979,7 +4057,8 @@
     "odds_fetched_at": "2026-06-03T11:14:35",
     "first_back_max": 10.0,
     "first_chigire_max": 0.243,
-    "first_p1_max": 0.24443624334
+    "first_p1_max": 0.24443624334,
+    "selection_integrity_status": ""
   },
   {
     "date": "2026-06-03",
@@ -4004,9 +4083,9 @@
     "late_generated": false,
     "actual_ticket": "",
     "actual_payout_units": "",
-    "invested_units": 8,
+    "invested_units": 8.0,
     "returned_units": 0.0,
-    "profit_units": -8.0,
+    "profit_units": 0.0,
     "prediction_gate_profile": "allvenue_2x2x4_incremental_20260603",
     "ticket_type": "trifecta",
     "selection_role": "model_forward",
@@ -4019,7 +4098,8 @@
     "odds_fetched_at": "2026-06-03T11:14:35",
     "first_back_max": 18.0,
     "first_chigire_max": 0.163,
-    "first_p1_max": 0.530918960528
+    "first_p1_max": 0.530918960528,
+    "selection_integrity_status": ""
   },
   {
     "date": "2026-06-03",
@@ -4044,9 +4124,9 @@
     "late_generated": false,
     "actual_ticket": "",
     "actual_payout_units": "",
-    "invested_units": 4,
+    "invested_units": 4.0,
     "returned_units": 0.0,
-    "profit_units": -4.0,
+    "profit_units": 0.0,
     "prediction_gate_profile": "allvenue_2x2x4_incremental_20260603",
     "ticket_type": "trifecta",
     "selection_role": "model_forward",
@@ -4059,6 +4139,7 @@
     "odds_fetched_at": "2026-06-03T11:14:35",
     "first_back_max": 10.0,
     "first_chigire_max": 0.1875,
-    "first_p1_max": 0.237685768371
+    "first_p1_max": 0.237685768371,
+    "selection_integrity_status": ""
   }
 ]
