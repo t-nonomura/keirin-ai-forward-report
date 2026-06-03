@@ -1,12 +1,12 @@
 {
   "command": "settle-actions-formation-forward",
   "target_date": "2026-06-03",
-  "generated_at": "2026-06-03T20:23:13+09:00",
+  "generated_at": "2026-06-03T23:06:30+09:00",
   "prediction_hash": "24256e60cce8892cb65957d25723b9f68b092cf511a34898eaa5fb1ad088aea1",
   "races_json_path": "data/raw/official/2026-06-03/races.json",
   "race_count": 81,
   "settled_race_count": 0,
-  "pending_count": 29,
+  "pending_count": 4,
   "void_count": 0,
   "no_result_count": 0,
   "invalid_selection_count": 0,
@@ -20,23 +20,23 @@
   "research_summary": {
     "period": "research_total",
     "race_count": 81,
-    "settled_race_count": 52,
-    "pending_count": 29,
+    "settled_race_count": 77,
+    "pending_count": 4,
     "void_count": 0,
     "no_result_count": 0,
     "invalid_selection_count": 0,
     "late_generated_count": 10,
-    "hit_count": 16,
-    "hit_rate": 0.307692,
-    "invested_units": 296.0,
-    "returned_units": 198.1,
-    "profit_units": -97.9,
-    "roi": 0.669257
+    "hit_count": 21,
+    "hit_rate": 0.272727,
+    "invested_units": 418.0,
+    "returned_units": 219.1,
+    "profit_units": -198.9,
+    "roi": 0.524163
   },
   "settlement_closed": false,
   "status_counts": {
-    "hit": 16,
-    "miss": 36,
-    "pending": 29
+    "hit": 21,
+    "miss": 56,
+    "pending": 4
   }
 }
