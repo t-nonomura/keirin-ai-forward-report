@@ -1,0 +1,222 @@
+{
+  "generated_at": "2026-06-10T11:25:30+09:00",
+  "period": "2026-03-09 to 2026-06-08",
+  "odds_basis": "latest_snapshot research odds; not promotion-safe pre-deadline evidence",
+  "strategy": "A1/A3 + semifinal + 400m + positive>=0.25 + third chigire<=0.499 + second risk>=0.001 + exclude odds 80-200",
+  "highlight_case": "stable_cap_500",
+  "cases": {
+    "offensive_no_500_cap": {
+      "label": "500??????",
+      "summary": {
+        "race_count": 353,
+        "ticket_count": 2719,
+        "average_ticket_count": 7.7025495750708215,
+        "hit_race_count": 109,
+        "hit_rate": 0.3087818696883853,
+        "stake_units": 2719,
+        "return_units": 6201.199999999999,
+        "profit_units": 3482.199999999999,
+        "roi": 2.2806914306730413,
+        "roi_without_top1": 1.8849209268113272,
+        "roi_without_top3": 1.3218830452372192,
+        "roi_without_top5": 1.0002206693637363,
+        "top3_return_share": 0.42040250274140495,
+        "months": [
+          {
+            "month": "2026-03",
+            "race_count": 91,
+            "ticket_count": 696,
+            "hit_rate": 0.32967032967032966,
+            "roi": 1.3020114942528738,
+            "profit_units": 210.20000000000016
+          },
+          {
+            "month": "2026-04",
+            "race_count": 126,
+            "ticket_count": 978,
+            "hit_rate": 0.29365079365079366,
+            "roi": 1.7443762781186092,
+            "profit_units": 727.9999999999998
+          },
+          {
+            "month": "2026-05",
+            "race_count": 128,
+            "ticket_count": 982,
+            "hit_rate": 0.3203125,
+            "roi": 3.6494908350305506,
+            "profit_units": 2601.8000000000006
+          },
+          {
+            "month": "2026-06",
+            "race_count": 8,
+            "ticket_count": 63,
+            "hit_rate": 0.125,
+            "roi": 0.08253968253968254,
+            "profit_units": -57.8
+          }
+        ]
+      }
+    },
+    "stable_cap_500": {
+      "label": "500??????",
+      "summary": {
+        "race_count": 313,
+        "ticket_count": 2326,
+        "average_ticket_count": 7.431309904153355,
+        "hit_race_count": 99,
+        "hit_rate": 0.31629392971246006,
+        "stake_units": 2326,
+        "return_units": 3532.1999999999994,
+        "profit_units": 1206.1999999999994,
+        "roi": 1.518572656921754,
+        "roi_without_top1": 1.328546861564918,
+        "roi_without_top3": 1.002235597592433,
+        "roi_without_top5": 0.7774290627687013,
+        "top3_return_share": 0.34001472170318786,
+        "months": [
+          {
+            "month": "2026-03",
+            "race_count": 82,
+            "ticket_count": 606,
+            "hit_rate": 0.35365853658536583,
+            "roi": 1.4778877887788782,
+            "profit_units": 289.60000000000014
+          },
+          {
+            "month": "2026-04",
+            "race_count": 110,
+            "ticket_count": 820,
+            "hit_rate": 0.3,
+            "roi": 2.0449999999999995,
+            "profit_units": 856.8999999999996
+          },
+          {
+            "month": "2026-05",
+            "race_count": 113,
+            "ticket_count": 841,
+            "hit_rate": 0.3185840707964602,
+            "roi": 1.134958382877527,
+            "profit_units": 113.50000000000011
+          },
+          {
+            "month": "2026-06",
+            "race_count": 8,
+            "ticket_count": 59,
+            "hit_rate": 0.125,
+            "roi": 0.08813559322033898,
+            "profit_units": -53.8
+          }
+        ]
+      }
+    },
+    "stable_cap_300": {
+      "label": "300??????",
+      "summary": {
+        "race_count": 268,
+        "ticket_count": 1925,
+        "average_ticket_count": 7.182835820895522,
+        "hit_race_count": 91,
+        "hit_rate": 0.33955223880597013,
+        "stake_units": 1925,
+        "return_units": 2211.999999999999,
+        "profit_units": 286.9999999999991,
+        "roi": 1.1490909090909087,
+        "roi_without_top1": 1.0060259740259736,
+        "roi_without_top3": 0.836415584415584,
+        "roi_without_top5": 0.7608831168831164,
+        "top3_return_share": 0.27210669077757693,
+        "months": [
+          {
+            "month": "2026-03",
+            "race_count": 68,
+            "ticket_count": 486,
+            "hit_rate": 0.38235294117647056,
+            "roi": 1.0786008230452673,
+            "profit_units": 38.19999999999993
+          },
+          {
+            "month": "2026-04",
+            "race_count": 98,
+            "ticket_count": 697,
+            "hit_rate": 0.3163265306122449,
+            "roi": 1.7110473457675752,
+            "profit_units": 495.5999999999999
+          },
+          {
+            "month": "2026-05",
+            "race_count": 96,
+            "ticket_count": 697,
+            "hit_rate": 0.34375,
+            "roi": 0.703012912482066,
+            "profit_units": -207.0
+          },
+          {
+            "month": "2026-06",
+            "race_count": 6,
+            "ticket_count": 45,
+            "hit_rate": 0.16666666666666666,
+            "roi": 0.11555555555555556,
+            "profit_units": -39.8
+          }
+        ]
+      }
+    },
+    "stable_cap_200": {
+      "label": "200??????",
+      "summary": {
+        "race_count": 195,
+        "ticket_count": 1361,
+        "average_ticket_count": 6.97948717948718,
+        "hit_race_count": 76,
+        "hit_rate": 0.38974358974358975,
+        "stake_units": 1361,
+        "return_units": 1479.5000000000002,
+        "profit_units": 118.50000000000023,
+        "roi": 1.0870683321087438,
+        "roi_without_top1": 1.0290227773695813,
+        "roi_without_top3": 0.9221895664952242,
+        "roi_without_top5": 0.8360764144011759,
+        "top3_return_share": 0.1516728624535316,
+        "months": [
+          {
+            "month": "2026-03",
+            "race_count": 48,
+            "ticket_count": 330,
+            "hit_rate": 0.4583333333333333,
+            "roi": 1.3203030303030303,
+            "profit_units": 105.69999999999999
+          },
+          {
+            "month": "2026-04",
+            "race_count": 68,
+            "ticket_count": 478,
+            "hit_rate": 0.38235294117647056,
+            "roi": 1.293723849372385,
+            "profit_units": 140.4000000000001
+          },
+          {
+            "month": "2026-05",
+            "race_count": 74,
+            "ticket_count": 517,
+            "hit_rate": 0.36486486486486486,
+            "roi": 0.8127659574468086,
+            "profit_units": -96.79999999999995
+          },
+          {
+            "month": "2026-06",
+            "race_count": 5,
+            "ticket_count": 36,
+            "hit_rate": 0.2,
+            "roi": 0.14444444444444446,
+            "profit_units": -30.8
+          }
+        ]
+      }
+    }
+  },
+  "notes": [
+    "500??????????????????????????",
+    "latest_snapshot??????????????????T-5/T-10 forward????????",
+    "???1?=100??????"
+  ]
+}
