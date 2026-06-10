@@ -6,7 +6,7 @@
   "highlight_case": "stable_cap_500",
   "cases": {
     "offensive_no_500_cap": {
-      "label": "500??????",
+      "label": "500倍超除外なし",
       "summary": {
         "race_count": 353,
         "ticket_count": 2719,
@@ -58,7 +58,7 @@
       }
     },
     "stable_cap_500": {
-      "label": "500??????",
+      "label": "500倍超除外あり",
       "summary": {
         "race_count": 313,
         "ticket_count": 2326,
@@ -110,7 +110,7 @@
       }
     },
     "stable_cap_300": {
-      "label": "300??????",
+      "label": "300倍超除外あり",
       "summary": {
         "race_count": 268,
         "ticket_count": 1925,
@@ -162,7 +162,7 @@
       }
     },
     "stable_cap_200": {
-      "label": "200??????",
+      "label": "200倍超除外あり",
       "summary": {
         "race_count": 195,
         "ticket_count": 1361,
@@ -215,8 +215,8 @@
     }
   },
   "notes": [
-    "500??????????????????????????",
-    "latest_snapshot??????????????????T-5/T-10 forward????????",
-    "???1?=100??????"
+    "500倍超除外ケースを安定候補として強調表示しています。",
+    "latest_snapshotの研究用オッズでの検証であり、T-5/T-10 forwardの厳密証跡ではありません。",
+    "金額は1点=100円換算で表示しています。"
   ]
 }
