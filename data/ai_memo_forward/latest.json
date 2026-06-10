@@ -68,7 +68,12 @@
         "returned_units": 299.09999999999997,
         "profit_units": -85.90000000000003,
         "roi": 0.7768831168831168,
-        "summary_scope": "settled_visible_predictions"
+        "summary_scope": "settled_visible_predictions",
+        "dutch_invested_units": 48.0,
+        "dutch_returned_units": 46.025771,
+        "dutch_profit_units": -1.974229,
+        "dutch_roi": 0.95887,
+        "average_combined_odds": 4.985844
       }
     },
     "stable_cap_500": {
@@ -135,7 +140,12 @@
         "returned_units": 299.09999999999997,
         "profit_units": -48.900000000000034,
         "roi": 0.8594827586206896,
-        "summary_scope": "settled_visible_predictions"
+        "summary_scope": "settled_visible_predictions",
+        "dutch_invested_units": 48.0,
+        "dutch_returned_units": 46.134738,
+        "dutch_profit_units": -1.865262,
+        "dutch_roi": 0.96114,
+        "average_combined_odds": 5.083734
       }
     }
   },
@@ -172,7 +182,14 @@
       "actual_payout_units": 6.0,
       "invested_units": 6,
       "returned_units": 6.0,
-      "profit_units": 0.0
+      "profit_units": 0.0,
+      "combined_odds": 2.194041,
+      "combined_odds_complete": true,
+      "dutch_invested_units": 1.0,
+      "dutch_returned_units": 2.194041,
+      "dutch_profit_units": 1.194041,
+      "final_odds_min": 6.0,
+      "final_odds_max": 59.2
     },
     {
       "race_id": "20260610-12-01",
@@ -200,7 +217,14 @@
       "actual_payout_units": 37.2,
       "invested_units": 7,
       "returned_units": 0.0,
-      "profit_units": -7.0
+      "profit_units": -7.0,
+      "combined_odds": 1.302158,
+      "combined_odds_complete": true,
+      "dutch_invested_units": 1.0,
+      "dutch_returned_units": 0.0,
+      "dutch_profit_units": -1.0,
+      "final_odds_min": 2.4,
+      "final_odds_max": 310.5
     },
     {
       "race_id": "20260610-44-02",
@@ -228,7 +252,14 @@
       "actual_payout_units": 12.1,
       "invested_units": 8,
       "returned_units": 12.1,
-      "profit_units": 4.1
+      "profit_units": 4.1,
+      "combined_odds": 2.07847,
+      "combined_odds_complete": true,
+      "dutch_invested_units": 1.0,
+      "dutch_returned_units": 2.07847,
+      "dutch_profit_units": 1.07847,
+      "final_odds_min": 5.8,
+      "final_odds_max": 274.2
     },
     {
       "race_id": "20260610-12-02",
@@ -256,7 +287,14 @@
       "actual_payout_units": 1747.4,
       "invested_units": 8,
       "returned_units": 0.0,
-      "profit_units": -8.0
+      "profit_units": -8.0,
+      "combined_odds": 2.523062,
+      "combined_odds_complete": true,
+      "dutch_invested_units": 1.0,
+      "dutch_returned_units": 0.0,
+      "dutch_profit_units": -1.0,
+      "final_odds_min": 5.7,
+      "final_odds_max": 655.2
     },
     {
       "race_id": "20260610-44-03",
@@ -284,7 +322,14 @@
       "actual_payout_units": 10.4,
       "invested_units": 10,
       "returned_units": 10.4,
-      "profit_units": 0.4
+      "profit_units": 0.4,
+      "combined_odds": 1.261357,
+      "combined_odds_complete": true,
+      "dutch_invested_units": 1.0,
+      "dutch_returned_units": 1.261357,
+      "dutch_profit_units": 0.261357,
+      "final_odds_min": 5.2,
+      "final_odds_max": 36.6
     },
     {
       "race_id": "20260610-12-03",
@@ -312,7 +357,14 @@
       "actual_payout_units": 12.0,
       "invested_units": 8,
       "returned_units": 0.0,
-      "profit_units": -8.0
+      "profit_units": -8.0,
+      "combined_odds": 11.953888,
+      "combined_odds_complete": true,
+      "dutch_invested_units": 1.0,
+      "dutch_returned_units": 0.0,
+      "dutch_profit_units": -1.0,
+      "final_odds_min": 48.4,
+      "final_odds_max": 2096.3
     },
     {
       "race_id": "20260610-44-04",
@@ -340,7 +392,14 @@
       "actual_payout_units": 28.4,
       "invested_units": 10,
       "returned_units": 0.0,
-      "profit_units": -10.0
+      "profit_units": -10.0,
+      "combined_odds": 8.276167,
+      "combined_odds_complete": true,
+      "dutch_invested_units": 1.0,
+      "dutch_returned_units": 0.0,
+      "dutch_profit_units": -1.0,
+      "final_odds_min": 18.7,
+      "final_odds_max": 781.0
     },
     {
       "race_id": "20260610-12-04",
@@ -368,7 +427,14 @@
       "actual_payout_units": 182.8,
       "invested_units": 7,
       "returned_units": 0.0,
-      "profit_units": -7.0
+      "profit_units": -7.0,
+      "combined_odds": 1.242861,
+      "combined_odds_complete": true,
+      "dutch_invested_units": 1.0,
+      "dutch_returned_units": 0.0,
+      "dutch_profit_units": -1.0,
+      "final_odds_min": 1.9,
+      "final_odds_max": 75.4
     },
     {
       "race_id": "20260610-44-05",
@@ -396,7 +462,14 @@
       "actual_payout_units": 4.4,
       "invested_units": 4,
       "returned_units": 0.0,
-      "profit_units": -4.0
+      "profit_units": -4.0,
+      "combined_odds": 15.870839,
+      "combined_odds_complete": true,
+      "dutch_invested_units": 1.0,
+      "dutch_returned_units": 0.0,
+      "dutch_profit_units": -1.0,
+      "final_odds_min": 34.8,
+      "final_odds_max": 334.2
     },
     {
       "race_id": "20260610-12-05",
@@ -424,7 +497,14 @@
       "actual_payout_units": 14.9,
       "invested_units": 8,
       "returned_units": 14.9,
-      "profit_units": 6.9
+      "profit_units": 6.9,
+      "combined_odds": 3.109527,
+      "combined_odds_complete": true,
+      "dutch_invested_units": 1.0,
+      "dutch_returned_units": 3.109527,
+      "dutch_profit_units": 2.109527,
+      "final_odds_min": 14.1,
+      "final_odds_max": 74.8
     },
     {
       "race_id": "20260610-44-06",
@@ -452,7 +532,14 @@
       "actual_payout_units": 591.4,
       "invested_units": 14,
       "returned_units": 0.0,
-      "profit_units": -14.0
+      "profit_units": -14.0,
+      "combined_odds": 1.430071,
+      "combined_odds_complete": true,
+      "dutch_invested_units": 1.0,
+      "dutch_returned_units": 0.0,
+      "dutch_profit_units": -1.0,
+      "final_odds_min": 3.1,
+      "final_odds_max": 706.4
     },
     {
       "race_id": "20260610-12-06",
@@ -480,7 +567,14 @@
       "actual_payout_units": 1.5,
       "invested_units": 8,
       "returned_units": 1.5,
-      "profit_units": -6.5
+      "profit_units": -6.5,
+      "combined_odds": 1.060184,
+      "combined_odds_complete": true,
+      "dutch_invested_units": 1.0,
+      "dutch_returned_units": 1.060184,
+      "dutch_profit_units": 0.060184,
+      "final_odds_min": 1.5,
+      "final_odds_max": 228.5
     },
     {
       "race_id": "20260610-44-07",
@@ -508,7 +602,14 @@
       "actual_payout_units": 201.5,
       "invested_units": 8,
       "returned_units": 0.0,
-      "profit_units": -8.0
+      "profit_units": -8.0,
+      "combined_odds": 19.7835,
+      "combined_odds_complete": true,
+      "dutch_invested_units": 1.0,
+      "dutch_returned_units": 0.0,
+      "dutch_profit_units": -1.0,
+      "final_odds_min": 50.7,
+      "final_odds_max": 1755.1
     },
     {
       "race_id": "20260610-12-07",
@@ -536,7 +637,14 @@
       "actual_payout_units": 7.6,
       "invested_units": 9,
       "returned_units": 7.6,
-      "profit_units": -1.4
+      "profit_units": -1.4,
+      "combined_odds": 1.513852,
+      "combined_odds_complete": true,
+      "dutch_invested_units": 1.0,
+      "dutch_returned_units": 1.513852,
+      "dutch_profit_units": 0.513852,
+      "final_odds_min": 4.9,
+      "final_odds_max": 75.5
     },
     {
       "race_id": "20260610-22-01",
@@ -564,7 +672,14 @@
       "actual_payout_units": 32.4,
       "invested_units": 9,
       "returned_units": 0.0,
-      "profit_units": -9.0
+      "profit_units": -9.0,
+      "combined_odds": 2.323316,
+      "combined_odds_complete": true,
+      "dutch_invested_units": 1.0,
+      "dutch_returned_units": 0.0,
+      "dutch_profit_units": -1.0,
+      "final_odds_min": 4.1,
+      "final_odds_max": 617.8
     },
     {
       "race_id": "20260610-38-01",
@@ -592,7 +707,14 @@
       "actual_payout_units": 13.4,
       "invested_units": 6,
       "returned_units": 0.0,
-      "profit_units": -6.0
+      "profit_units": -6.0,
+      "combined_odds": 16.258783,
+      "combined_odds_complete": true,
+      "dutch_invested_units": 1.0,
+      "dutch_returned_units": 0.0,
+      "dutch_profit_units": -1.0,
+      "final_odds_min": 48.4,
+      "final_odds_max": 570.4
     },
     {
       "race_id": "20260610-63-01",
@@ -620,7 +742,14 @@
       "actual_payout_units": 35.8,
       "invested_units": 9,
       "returned_units": 0.0,
-      "profit_units": -9.0
+      "profit_units": -9.0,
+      "combined_odds": 14.585966,
+      "combined_odds_complete": true,
+      "dutch_invested_units": 1.0,
+      "dutch_returned_units": 0.0,
+      "dutch_profit_units": -1.0,
+      "final_odds_min": 26.8,
+      "final_odds_max": 1267.2
     },
     {
       "race_id": "20260610-22-02",
@@ -648,7 +777,14 @@
       "actual_payout_units": 114.1,
       "invested_units": 8,
       "returned_units": 0.0,
-      "profit_units": -8.0
+      "profit_units": -8.0,
+      "combined_odds": 7.114876,
+      "combined_odds_complete": true,
+      "dutch_invested_units": 1.0,
+      "dutch_returned_units": 0.0,
+      "dutch_profit_units": -1.0,
+      "final_odds_min": 15.4,
+      "final_odds_max": 741.1
     },
     {
       "race_id": "20260610-38-02",
@@ -676,7 +812,14 @@
       "actual_payout_units": 91.5,
       "invested_units": 8,
       "returned_units": 0.0,
-      "profit_units": -8.0
+      "profit_units": -8.0,
+      "combined_odds": 1.628764,
+      "combined_odds_complete": true,
+      "dutch_invested_units": 1.0,
+      "dutch_returned_units": 0.0,
+      "dutch_profit_units": -1.0,
+      "final_odds_min": 3.8,
+      "final_odds_max": 314.7
     },
     {
       "race_id": "20260610-63-02",
@@ -704,7 +847,14 @@
       "actual_payout_units": 19.0,
       "invested_units": 8,
       "returned_units": 0.0,
-      "profit_units": -8.0
+      "profit_units": -8.0,
+      "combined_odds": 3.17546,
+      "combined_odds_complete": true,
+      "dutch_invested_units": 1.0,
+      "dutch_returned_units": 0.0,
+      "dutch_profit_units": -1.0,
+      "final_odds_min": 16.4,
+      "final_odds_max": 72.2
     },
     {
       "race_id": "20260610-22-03",
@@ -732,7 +882,14 @@
       "actual_payout_units": 142.4,
       "invested_units": 9,
       "returned_units": 0.0,
-      "profit_units": -9.0
+      "profit_units": -9.0,
+      "combined_odds": 3.748167,
+      "combined_odds_complete": true,
+      "dutch_invested_units": 1.0,
+      "dutch_returned_units": 0.0,
+      "dutch_profit_units": -1.0,
+      "final_odds_min": 9.3,
+      "final_odds_max": 919.1
     },
     {
       "race_id": "20260610-38-03",
@@ -760,7 +917,14 @@
       "actual_payout_units": 64.9,
       "invested_units": 9,
       "returned_units": 64.9,
-      "profit_units": 55.9
+      "profit_units": 55.9,
+      "combined_odds": 1.566329,
+      "combined_odds_complete": true,
+      "dutch_invested_units": 1.0,
+      "dutch_returned_units": 1.566329,
+      "dutch_profit_units": 0.566329,
+      "final_odds_min": 2.6,
+      "final_odds_max": 1421.3
     },
     {
       "race_id": "20260610-63-03",
@@ -788,7 +952,14 @@
       "actual_payout_units": 2.4,
       "invested_units": 6,
       "returned_units": 2.4,
-      "profit_units": -3.6
+      "profit_units": -3.6,
+      "combined_odds": 1.670319,
+      "combined_odds_complete": true,
+      "dutch_invested_units": 1.0,
+      "dutch_returned_units": 1.670319,
+      "dutch_profit_units": 0.670319,
+      "final_odds_min": 2.4,
+      "final_odds_max": 195.2
     },
     {
       "race_id": "20260610-22-04",
@@ -816,7 +987,14 @@
       "actual_payout_units": 20.2,
       "invested_units": 10,
       "returned_units": 20.2,
-      "profit_units": 10.2
+      "profit_units": 10.2,
+      "combined_odds": 1.738382,
+      "combined_odds_complete": true,
+      "dutch_invested_units": 1.0,
+      "dutch_returned_units": 1.738382,
+      "dutch_profit_units": 0.738382,
+      "final_odds_min": 4.8,
+      "final_odds_max": 297.5
     },
     {
       "race_id": "20260610-38-04",
@@ -844,7 +1022,14 @@
       "actual_payout_units": 12.6,
       "invested_units": 8,
       "returned_units": 0.0,
-      "profit_units": -8.0
+      "profit_units": -8.0,
+      "combined_odds": 1.2623,
+      "combined_odds_complete": true,
+      "dutch_invested_units": 1.0,
+      "dutch_returned_units": 0.0,
+      "dutch_profit_units": -1.0,
+      "final_odds_min": 2.1,
+      "final_odds_max": 889.6
     },
     {
       "race_id": "20260610-22-05",
@@ -872,7 +1057,14 @@
       "actual_payout_units": 30.6,
       "invested_units": 6,
       "returned_units": 30.6,
-      "profit_units": 24.6
+      "profit_units": 24.6,
+      "combined_odds": 4.18691,
+      "combined_odds_complete": true,
+      "dutch_invested_units": 1.0,
+      "dutch_returned_units": 4.18691,
+      "dutch_profit_units": 3.18691,
+      "final_odds_min": 10.9,
+      "final_odds_max": 90.6
     },
     {
       "race_id": "20260610-63-05",
@@ -900,7 +1092,14 @@
       "actual_payout_units": 11.4,
       "invested_units": 9,
       "returned_units": 11.4,
-      "profit_units": 2.4
+      "profit_units": 2.4,
+      "combined_odds": 3.436419,
+      "combined_odds_complete": true,
+      "dutch_invested_units": 1.0,
+      "dutch_returned_units": 3.436419,
+      "dutch_profit_units": 2.436419,
+      "final_odds_min": 11.4,
+      "final_odds_max": 125.6
     },
     {
       "race_id": "20260610-22-06",
@@ -928,7 +1127,14 @@
       "actual_payout_units": 58.8,
       "invested_units": 12,
       "returned_units": 0.0,
-      "profit_units": -12.0
+      "profit_units": -12.0,
+      "combined_odds": 5.957135,
+      "combined_odds_complete": true,
+      "dutch_invested_units": 1.0,
+      "dutch_returned_units": 0.0,
+      "dutch_profit_units": -1.0,
+      "final_odds_min": 14.2,
+      "final_odds_max": 2707.5
     },
     {
       "race_id": "20260610-63-06",
@@ -956,7 +1162,14 @@
       "actual_payout_units": 17.5,
       "invested_units": 7,
       "returned_units": 0.0,
-      "profit_units": -7.0
+      "profit_units": -7.0,
+      "combined_odds": 4.548022,
+      "combined_odds_complete": true,
+      "dutch_invested_units": 1.0,
+      "dutch_returned_units": 0.0,
+      "dutch_profit_units": -1.0,
+      "final_odds_min": 10.9,
+      "final_odds_max": 84.7
     },
     {
       "race_id": "20260610-22-07",
@@ -984,7 +1197,14 @@
       "actual_payout_units": 7.9,
       "invested_units": 6,
       "returned_units": 7.9,
-      "profit_units": 1.9
+      "profit_units": 1.9,
+      "combined_odds": 4.667347,
+      "combined_odds_complete": true,
+      "dutch_invested_units": 1.0,
+      "dutch_returned_units": 4.667347,
+      "dutch_profit_units": 3.667347,
+      "final_odds_min": 7.9,
+      "final_odds_max": 1114.5
     },
     {
       "race_id": "20260610-38-07",
@@ -1012,7 +1232,14 @@
       "actual_payout_units": 16.9,
       "invested_units": 7,
       "returned_units": 0.0,
-      "profit_units": -7.0
+      "profit_units": -7.0,
+      "combined_odds": 7.410416,
+      "combined_odds_complete": true,
+      "dutch_invested_units": 1.0,
+      "dutch_returned_units": 0.0,
+      "dutch_profit_units": -1.0,
+      "final_odds_min": 18.1,
+      "final_odds_max": 653.0
     },
     {
       "race_id": "20260610-63-07",
@@ -1040,7 +1267,14 @@
       "actual_payout_units": 5.6,
       "invested_units": 6,
       "returned_units": 0.0,
-      "profit_units": -6.0
+      "profit_units": -6.0,
+      "combined_odds": 1.976726,
+      "combined_odds_complete": true,
+      "dutch_invested_units": 1.0,
+      "dutch_returned_units": 0.0,
+      "dutch_profit_units": -1.0,
+      "final_odds_min": 3.2,
+      "final_odds_max": 523.5
     },
     {
       "race_id": "20260610-22-08",
@@ -1068,7 +1302,14 @@
       "actual_payout_units": 219.9,
       "invested_units": 8,
       "returned_units": 0.0,
-      "profit_units": -8.0
+      "profit_units": -8.0,
+      "combined_odds": 7.650061,
+      "combined_odds_complete": true,
+      "dutch_invested_units": 1.0,
+      "dutch_returned_units": 0.0,
+      "dutch_profit_units": -1.0,
+      "final_odds_min": 18.8,
+      "final_odds_max": 739.2
     },
     {
       "race_id": "20260610-38-08",
@@ -1096,7 +1337,14 @@
       "actual_payout_units": 627.6,
       "invested_units": 5,
       "returned_units": 0.0,
-      "profit_units": -5.0
+      "profit_units": -5.0,
+      "combined_odds": 7.545468,
+      "combined_odds_complete": true,
+      "dutch_invested_units": 1.0,
+      "dutch_returned_units": 0.0,
+      "dutch_profit_units": -1.0,
+      "final_odds_min": 19.6,
+      "final_odds_max": 243.3
     },
     {
       "race_id": "20260610-63-08",
@@ -1124,7 +1372,14 @@
       "actual_payout_units": 33.2,
       "invested_units": 6,
       "returned_units": 0.0,
-      "profit_units": -6.0
+      "profit_units": -6.0,
+      "combined_odds": 4.259356,
+      "combined_odds_complete": true,
+      "dutch_invested_units": 1.0,
+      "dutch_returned_units": 0.0,
+      "dutch_profit_units": -1.0,
+      "final_odds_min": 11.8,
+      "final_odds_max": 101.7
     },
     {
       "race_id": "20260610-22-09",
@@ -1152,7 +1407,14 @@
       "actual_payout_units": 173.8,
       "invested_units": 11,
       "returned_units": 0.0,
-      "profit_units": -11.0
+      "profit_units": -11.0,
+      "combined_odds": 12.825589,
+      "combined_odds_complete": true,
+      "dutch_invested_units": 1.0,
+      "dutch_returned_units": 0.0,
+      "dutch_profit_units": -1.0,
+      "final_odds_min": 50.0,
+      "final_odds_max": 1611.5
     },
     {
       "race_id": "20260610-38-09",
@@ -1180,7 +1442,14 @@
       "actual_payout_units": 6.2,
       "invested_units": 9,
       "returned_units": 6.2,
-      "profit_units": -2.8
+      "profit_units": -2.8,
+      "combined_odds": 1.227179,
+      "combined_odds_complete": true,
+      "dutch_invested_units": 1.0,
+      "dutch_returned_units": 1.227179,
+      "dutch_profit_units": 0.227179,
+      "final_odds_min": 2.4,
+      "final_odds_max": 86.9
     },
     {
       "race_id": "20260610-63-09",
@@ -1208,7 +1477,14 @@
       "actual_payout_units": 26.6,
       "invested_units": 8,
       "returned_units": 0.0,
-      "profit_units": -8.0
+      "profit_units": -8.0,
+      "combined_odds": 2.445071,
+      "combined_odds_complete": true,
+      "dutch_invested_units": 1.0,
+      "dutch_returned_units": 0.0,
+      "dutch_profit_units": -1.0,
+      "final_odds_min": 10.1,
+      "final_odds_max": 163.1
     },
     {
       "race_id": "20260610-22-10",
@@ -1236,7 +1512,14 @@
       "actual_payout_units": 179.8,
       "invested_units": 11,
       "returned_units": 0.0,
-      "profit_units": -11.0
+      "profit_units": -11.0,
+      "combined_odds": 2.823237,
+      "combined_odds_complete": true,
+      "dutch_invested_units": 1.0,
+      "dutch_returned_units": 0.0,
+      "dutch_profit_units": -1.0,
+      "final_odds_min": 10.4,
+      "final_odds_max": 228.5
     },
     {
       "race_id": "20260610-38-10",
@@ -1264,7 +1547,14 @@
       "actual_payout_units": 11.4,
       "invested_units": 3,
       "returned_units": 3.1,
-      "profit_units": 0.1
+      "profit_units": 0.1,
+      "combined_odds": 1.848164,
+      "combined_odds_complete": true,
+      "dutch_invested_units": 1.0,
+      "dutch_returned_units": 0.987812,
+      "dutch_profit_units": -0.012188,
+      "final_odds_min": 3.1,
+      "final_odds_max": 21.7
     },
     {
       "race_id": "20260610-22-11",
@@ -1292,7 +1582,14 @@
       "actual_payout_units": 23.8,
       "invested_units": 8,
       "returned_units": 0.0,
-      "profit_units": -8.0
+      "profit_units": -8.0,
+      "combined_odds": 3.610425,
+      "combined_odds_complete": true,
+      "dutch_invested_units": 1.0,
+      "dutch_returned_units": 0.0,
+      "dutch_profit_units": -1.0,
+      "final_odds_min": 12.2,
+      "final_odds_max": 81.1
     },
     {
       "race_id": "20260610-38-11",
@@ -1320,7 +1617,14 @@
       "actual_payout_units": 125.2,
       "invested_units": 5,
       "returned_units": 0.0,
-      "profit_units": -5.0
+      "profit_units": -5.0,
+      "combined_odds": 11.385885,
+      "combined_odds_complete": true,
+      "dutch_invested_units": 1.0,
+      "dutch_returned_units": 0.0,
+      "dutch_profit_units": -1.0,
+      "final_odds_min": 25.9,
+      "final_odds_max": 116.6
     },
     {
       "race_id": "20260610-13-01",
@@ -1348,7 +1652,14 @@
       "actual_payout_units": 103.5,
       "invested_units": 9,
       "returned_units": 0.0,
-      "profit_units": -9.0
+      "profit_units": -9.0,
+      "combined_odds": 1.948588,
+      "combined_odds_complete": true,
+      "dutch_invested_units": 1.0,
+      "dutch_returned_units": 0.0,
+      "dutch_profit_units": -1.0,
+      "final_odds_min": 8.1,
+      "final_odds_max": 79.9
     },
     {
       "race_id": "20260610-63-11",
@@ -1376,7 +1687,14 @@
       "actual_payout_units": 27.0,
       "invested_units": 8,
       "returned_units": 27.0,
-      "profit_units": 19.0
+      "profit_units": 19.0,
+      "combined_odds": 8.125571,
+      "combined_odds_complete": true,
+      "dutch_invested_units": 1.0,
+      "dutch_returned_units": 8.125571,
+      "dutch_profit_units": 7.125571,
+      "final_odds_min": 27.0,
+      "final_odds_max": 652.8
     },
     {
       "race_id": "20260610-27-01",
@@ -1404,7 +1722,14 @@
       "actual_payout_units": 3.0,
       "invested_units": 6,
       "returned_units": 0.0,
-      "profit_units": -6.0
+      "profit_units": -6.0,
+      "combined_odds": 3.842021,
+      "combined_odds_complete": true,
+      "dutch_invested_units": 1.0,
+      "dutch_returned_units": 0.0,
+      "dutch_profit_units": -1.0,
+      "final_odds_min": 7.2,
+      "final_odds_max": 290.6
     },
     {
       "race_id": "20260610-13-02",
@@ -1432,7 +1757,14 @@
       "actual_payout_units": 59.2,
       "invested_units": 11,
       "returned_units": 59.2,
-      "profit_units": 48.2
+      "profit_units": 48.2,
+      "combined_odds": 2.881278,
+      "combined_odds_complete": true,
+      "dutch_invested_units": 1.0,
+      "dutch_returned_units": 2.881278,
+      "dutch_profit_units": 1.881278,
+      "final_odds_min": 9.4,
+      "final_odds_max": 1724.1
     },
     {
       "race_id": "20260610-22-12",
@@ -1460,7 +1792,14 @@
       "actual_payout_units": 13.7,
       "invested_units": 10,
       "returned_units": 13.7,
-      "profit_units": 3.7
+      "profit_units": 3.7,
+      "combined_odds": 4.320794,
+      "combined_odds_complete": true,
+      "dutch_invested_units": 1.0,
+      "dutch_returned_units": 4.320794,
+      "dutch_profit_units": 3.320794,
+      "final_odds_min": 13.7,
+      "final_odds_max": 449.7
     },
     {
       "race_id": "20260610-27-02",
@@ -1488,7 +1827,14 @@
       "actual_payout_units": 275.6,
       "invested_units": 9,
       "returned_units": 0.0,
-      "profit_units": -9.0
+      "profit_units": -9.0,
+      "combined_odds": 1.726221,
+      "combined_odds_complete": true,
+      "dutch_invested_units": 1.0,
+      "dutch_returned_units": 0.0,
+      "dutch_profit_units": -1.0,
+      "final_odds_min": 2.8,
+      "final_odds_max": 177.3
     },
     {
       "race_id": "20260610-13-03",
@@ -1516,7 +1862,14 @@
       "actual_payout_units": "",
       "invested_units": 0,
       "returned_units": 0.0,
-      "profit_units": 0.0
+      "profit_units": 0.0,
+      "combined_odds": 41.167385,
+      "combined_odds_complete": true,
+      "dutch_invested_units": 0.0,
+      "dutch_returned_units": 0.0,
+      "dutch_profit_units": 0.0,
+      "final_odds_min": 79.7,
+      "final_odds_max": 1356.9
     },
     {
       "race_id": "20260610-27-03",
@@ -1544,7 +1897,14 @@
       "actual_payout_units": "",
       "invested_units": 0,
       "returned_units": 0.0,
-      "profit_units": 0.0
+      "profit_units": 0.0,
+      "combined_odds": 7.876759,
+      "combined_odds_complete": true,
+      "dutch_invested_units": 0.0,
+      "dutch_returned_units": 0.0,
+      "dutch_profit_units": 0.0,
+      "final_odds_min": 40.1,
+      "final_odds_max": 201.3
     },
     {
       "race_id": "20260610-13-04",
@@ -1572,7 +1932,14 @@
       "actual_payout_units": "",
       "invested_units": 0,
       "returned_units": 0.0,
-      "profit_units": 0.0
+      "profit_units": 0.0,
+      "combined_odds": 7.571816,
+      "combined_odds_complete": true,
+      "dutch_invested_units": 0.0,
+      "dutch_returned_units": 0.0,
+      "dutch_profit_units": 0.0,
+      "final_odds_min": 18.7,
+      "final_odds_max": 466.4
     },
     {
       "race_id": "20260610-27-04",
@@ -1600,7 +1967,14 @@
       "actual_payout_units": "",
       "invested_units": 0,
       "returned_units": 0.0,
-      "profit_units": 0.0
+      "profit_units": 0.0,
+      "combined_odds": 1.10884,
+      "combined_odds_complete": true,
+      "dutch_invested_units": 0.0,
+      "dutch_returned_units": 0.0,
+      "dutch_profit_units": 0.0,
+      "final_odds_min": 1.4,
+      "final_odds_max": 1521.1
     },
     {
       "race_id": "20260610-13-05",
@@ -1628,7 +2002,14 @@
       "actual_payout_units": "",
       "invested_units": 0,
       "returned_units": 0.0,
-      "profit_units": 0.0
+      "profit_units": 0.0,
+      "combined_odds": 4.282938,
+      "combined_odds_complete": true,
+      "dutch_invested_units": 0.0,
+      "dutch_returned_units": 0.0,
+      "dutch_profit_units": 0.0,
+      "final_odds_min": 17.5,
+      "final_odds_max": 75.0
     },
     {
       "race_id": "20260610-13-06",
@@ -1656,7 +2037,14 @@
       "actual_payout_units": "",
       "invested_units": 0,
       "returned_units": 0.0,
-      "profit_units": 0.0
+      "profit_units": 0.0,
+      "combined_odds": 7.350263,
+      "combined_odds_complete": true,
+      "dutch_invested_units": 0.0,
+      "dutch_returned_units": 0.0,
+      "dutch_profit_units": 0.0,
+      "final_odds_min": 26.8,
+      "final_odds_max": 70.5
     },
     {
       "race_id": "20260610-13-07",
@@ -1684,7 +2072,14 @@
       "actual_payout_units": "",
       "invested_units": 0,
       "returned_units": 0.0,
-      "profit_units": 0.0
+      "profit_units": 0.0,
+      "combined_odds": 2.69538,
+      "combined_odds_complete": true,
+      "dutch_invested_units": 0.0,
+      "dutch_returned_units": 0.0,
+      "dutch_profit_units": 0.0,
+      "final_odds_min": 10.8,
+      "final_odds_max": 87.6
     },
     {
       "race_id": "20260610-27-07",
@@ -1712,7 +2107,14 @@
       "actual_payout_units": "",
       "invested_units": 0,
       "returned_units": 0.0,
-      "profit_units": 0.0
+      "profit_units": 0.0,
+      "combined_odds": 5.00136,
+      "combined_odds_complete": true,
+      "dutch_invested_units": 0.0,
+      "dutch_returned_units": 0.0,
+      "dutch_profit_units": 0.0,
+      "final_odds_min": 15.6,
+      "final_odds_max": 391.0
     },
     {
       "race_id": "20260610-13-08",
@@ -1740,7 +2142,14 @@
       "actual_payout_units": "",
       "invested_units": 0,
       "returned_units": 0.0,
-      "profit_units": 0.0
+      "profit_units": 0.0,
+      "combined_odds": 7.673199,
+      "combined_odds_complete": true,
+      "dutch_invested_units": 0.0,
+      "dutch_returned_units": 0.0,
+      "dutch_profit_units": 0.0,
+      "final_odds_min": 26.8,
+      "final_odds_max": 238.6
     },
     {
       "race_id": "20260610-27-08",
@@ -1768,7 +2177,14 @@
       "actual_payout_units": "",
       "invested_units": 0,
       "returned_units": 0.0,
-      "profit_units": 0.0
+      "profit_units": 0.0,
+      "combined_odds": 2.833007,
+      "combined_odds_complete": true,
+      "dutch_invested_units": 0.0,
+      "dutch_returned_units": 0.0,
+      "dutch_profit_units": 0.0,
+      "final_odds_min": 6.9,
+      "final_odds_max": 583.5
     },
     {
       "race_id": "20260610-13-09",
@@ -1796,7 +2212,14 @@
       "actual_payout_units": "",
       "invested_units": 0,
       "returned_units": 0.0,
-      "profit_units": 0.0
+      "profit_units": 0.0,
+      "combined_odds": 22.281812,
+      "combined_odds_complete": true,
+      "dutch_invested_units": 0.0,
+      "dutch_returned_units": 0.0,
+      "dutch_profit_units": 0.0,
+      "final_odds_min": 58.2,
+      "final_odds_max": 366.5
     },
     {
       "race_id": "20260610-27-09",
@@ -1824,7 +2247,14 @@
       "actual_payout_units": "",
       "invested_units": 0,
       "returned_units": 0.0,
-      "profit_units": 0.0
+      "profit_units": 0.0,
+      "combined_odds": 3.440219,
+      "combined_odds_complete": true,
+      "dutch_invested_units": 0.0,
+      "dutch_returned_units": 0.0,
+      "dutch_profit_units": 0.0,
+      "final_odds_min": 8.7,
+      "final_odds_max": 233.9
     },
     {
       "race_id": "20260610-13-10",
@@ -1852,7 +2282,14 @@
       "actual_payout_units": "",
       "invested_units": 0,
       "returned_units": 0.0,
-      "profit_units": 0.0
+      "profit_units": 0.0,
+      "combined_odds": 13.206839,
+      "combined_odds_complete": true,
+      "dutch_invested_units": 0.0,
+      "dutch_returned_units": 0.0,
+      "dutch_profit_units": 0.0,
+      "final_odds_min": 29.6,
+      "final_odds_max": 379.2
     },
     {
       "race_id": "20260610-27-10",
@@ -1880,7 +2317,14 @@
       "actual_payout_units": "",
       "invested_units": 0,
       "returned_units": 0.0,
-      "profit_units": 0.0
+      "profit_units": 0.0,
+      "combined_odds": 7.000226,
+      "combined_odds_complete": true,
+      "dutch_invested_units": 0.0,
+      "dutch_returned_units": 0.0,
+      "dutch_profit_units": 0.0,
+      "final_odds_min": 26.9,
+      "final_odds_max": 185.7
     },
     {
       "race_id": "20260610-13-11",
@@ -1908,7 +2352,14 @@
       "actual_payout_units": "",
       "invested_units": 0,
       "returned_units": 0.0,
-      "profit_units": 0.0
+      "profit_units": 0.0,
+      "combined_odds": 94.2,
+      "combined_odds_complete": true,
+      "dutch_invested_units": 0.0,
+      "dutch_returned_units": 0.0,
+      "dutch_profit_units": 0.0,
+      "final_odds_min": 94.2,
+      "final_odds_max": 94.2
     },
     {
       "race_id": "20260610-27-11",
@@ -1936,7 +2387,14 @@
       "actual_payout_units": "",
       "invested_units": 0,
       "returned_units": 0.0,
-      "profit_units": 0.0
+      "profit_units": 0.0,
+      "combined_odds": 2.981598,
+      "combined_odds_complete": true,
+      "dutch_invested_units": 0.0,
+      "dutch_returned_units": 0.0,
+      "dutch_profit_units": 0.0,
+      "final_odds_min": 8.6,
+      "final_odds_max": 92.1
     },
     {
       "race_id": "20260610-13-12",
@@ -1964,7 +2422,14 @@
       "actual_payout_units": "",
       "invested_units": 0,
       "returned_units": 0.0,
-      "profit_units": 0.0
+      "profit_units": 0.0,
+      "combined_odds": 52.179944,
+      "combined_odds_complete": true,
+      "dutch_invested_units": 0.0,
+      "dutch_returned_units": 0.0,
+      "dutch_profit_units": 0.0,
+      "final_odds_min": 253.1,
+      "final_odds_max": 662.3
     },
     {
       "race_id": "20260610-24-01",
@@ -1992,7 +2457,14 @@
       "actual_payout_units": "",
       "invested_units": 0,
       "returned_units": 0.0,
-      "profit_units": 0.0
+      "profit_units": 0.0,
+      "combined_odds": 8.132288,
+      "combined_odds_complete": true,
+      "dutch_invested_units": 0.0,
+      "dutch_returned_units": 0.0,
+      "dutch_profit_units": 0.0,
+      "final_odds_min": 28.8,
+      "final_odds_max": 130.9
     },
     {
       "race_id": "20260610-24-02",
@@ -2020,7 +2492,14 @@
       "actual_payout_units": "",
       "invested_units": 0,
       "returned_units": 0.0,
-      "profit_units": 0.0
+      "profit_units": 0.0,
+      "combined_odds": "",
+      "combined_odds_complete": false,
+      "dutch_invested_units": 0.0,
+      "dutch_returned_units": 0.0,
+      "dutch_profit_units": 0.0,
+      "final_odds_min": "",
+      "final_odds_max": ""
     },
     {
       "race_id": "20260610-86-03",
@@ -2048,7 +2527,14 @@
       "actual_payout_units": "",
       "invested_units": 0,
       "returned_units": 0.0,
-      "profit_units": 0.0
+      "profit_units": 0.0,
+      "combined_odds": 6.424045,
+      "combined_odds_complete": true,
+      "dutch_invested_units": 0.0,
+      "dutch_returned_units": 0.0,
+      "dutch_profit_units": 0.0,
+      "final_odds_min": 28.9,
+      "final_odds_max": 115.7
     },
     {
       "race_id": "20260610-24-03",
@@ -2076,7 +2562,14 @@
       "actual_payout_units": "",
       "invested_units": 0,
       "returned_units": 0.0,
-      "profit_units": 0.0
+      "profit_units": 0.0,
+      "combined_odds": 2.212651,
+      "combined_odds_complete": true,
+      "dutch_invested_units": 0.0,
+      "dutch_returned_units": 0.0,
+      "dutch_profit_units": 0.0,
+      "final_odds_min": 5.7,
+      "final_odds_max": 137.8
     },
     {
       "race_id": "20260610-86-04",
@@ -2104,7 +2597,14 @@
       "actual_payout_units": "",
       "invested_units": 0,
       "returned_units": 0.0,
-      "profit_units": 0.0
+      "profit_units": 0.0,
+      "combined_odds": 3.223183,
+      "combined_odds_complete": true,
+      "dutch_invested_units": 0.0,
+      "dutch_returned_units": 0.0,
+      "dutch_profit_units": 0.0,
+      "final_odds_min": 12.7,
+      "final_odds_max": 225.0
     },
     {
       "race_id": "20260610-24-04",
@@ -2132,7 +2632,14 @@
       "actual_payout_units": "",
       "invested_units": 0,
       "returned_units": 0.0,
-      "profit_units": 0.0
+      "profit_units": 0.0,
+      "combined_odds": 2.291721,
+      "combined_odds_complete": true,
+      "dutch_invested_units": 0.0,
+      "dutch_returned_units": 0.0,
+      "dutch_profit_units": 0.0,
+      "final_odds_min": 7.0,
+      "final_odds_max": 786.7
     },
     {
       "race_id": "20260610-86-05",
@@ -2160,7 +2667,14 @@
       "actual_payout_units": "",
       "invested_units": 0,
       "returned_units": 0.0,
-      "profit_units": 0.0
+      "profit_units": 0.0,
+      "combined_odds": 4.049718,
+      "combined_odds_complete": true,
+      "dutch_invested_units": 0.0,
+      "dutch_returned_units": 0.0,
+      "dutch_profit_units": 0.0,
+      "final_odds_min": 10.2,
+      "final_odds_max": 161.2
     },
     {
       "race_id": "20260610-24-05",
@@ -2188,7 +2702,14 @@
       "actual_payout_units": "",
       "invested_units": 0,
       "returned_units": 0.0,
-      "profit_units": 0.0
+      "profit_units": 0.0,
+      "combined_odds": 13.075677,
+      "combined_odds_complete": true,
+      "dutch_invested_units": 0.0,
+      "dutch_returned_units": 0.0,
+      "dutch_profit_units": 0.0,
+      "final_odds_min": 54.5,
+      "final_odds_max": 130.8
     },
     {
       "race_id": "20260610-86-06",
@@ -2216,7 +2737,14 @@
       "actual_payout_units": "",
       "invested_units": 0,
       "returned_units": 0.0,
-      "profit_units": 0.0
+      "profit_units": 0.0,
+      "combined_odds": 6.750752,
+      "combined_odds_complete": true,
+      "dutch_invested_units": 0.0,
+      "dutch_returned_units": 0.0,
+      "dutch_profit_units": 0.0,
+      "final_odds_min": 30.5,
+      "final_odds_max": 175.8
     },
     {
       "race_id": "20260610-24-06",
@@ -2244,7 +2772,14 @@
       "actual_payout_units": "",
       "invested_units": 0,
       "returned_units": 0.0,
-      "profit_units": 0.0
+      "profit_units": 0.0,
+      "combined_odds": 7.246507,
+      "combined_odds_complete": true,
+      "dutch_invested_units": 0.0,
+      "dutch_returned_units": 0.0,
+      "dutch_profit_units": 0.0,
+      "final_odds_min": 29.7,
+      "final_odds_max": 9999.9
     },
     {
       "race_id": "20260610-86-07",
@@ -2272,7 +2807,14 @@
       "actual_payout_units": "",
       "invested_units": 0,
       "returned_units": 0.0,
-      "profit_units": 0.0
+      "profit_units": 0.0,
+      "combined_odds": 2.893504,
+      "combined_odds_complete": true,
+      "dutch_invested_units": 0.0,
+      "dutch_returned_units": 0.0,
+      "dutch_profit_units": 0.0,
+      "final_odds_min": 8.7,
+      "final_odds_max": 302.0
     },
     {
       "race_id": "20260610-24-07",
@@ -2300,7 +2842,14 @@
       "actual_payout_units": "",
       "invested_units": 0,
       "returned_units": 0.0,
-      "profit_units": 0.0
+      "profit_units": 0.0,
+      "combined_odds": 8.805766,
+      "combined_odds_complete": true,
+      "dutch_invested_units": 0.0,
+      "dutch_returned_units": 0.0,
+      "dutch_profit_units": 0.0,
+      "final_odds_min": 30.8,
+      "final_odds_max": 132.2
     },
     {
       "race_id": "20260610-86-08",
@@ -2328,7 +2877,14 @@
       "actual_payout_units": "",
       "invested_units": 0,
       "returned_units": 0.0,
-      "profit_units": 0.0
+      "profit_units": 0.0,
+      "combined_odds": 3.612251,
+      "combined_odds_complete": true,
+      "dutch_invested_units": 0.0,
+      "dutch_returned_units": 0.0,
+      "dutch_profit_units": 0.0,
+      "final_odds_min": 16.7,
+      "final_odds_max": 618.3
     },
     {
       "race_id": "20260610-24-08",
@@ -2356,7 +2912,14 @@
       "actual_payout_units": "",
       "invested_units": 0,
       "returned_units": 0.0,
-      "profit_units": 0.0
+      "profit_units": 0.0,
+      "combined_odds": 5.10749,
+      "combined_odds_complete": true,
+      "dutch_invested_units": 0.0,
+      "dutch_returned_units": 0.0,
+      "dutch_profit_units": 0.0,
+      "final_odds_min": 21.6,
+      "final_odds_max": 1145.2
     },
     {
       "race_id": "20260610-86-09",
@@ -2384,7 +2947,14 @@
       "actual_payout_units": "",
       "invested_units": 0,
       "returned_units": 0.0,
-      "profit_units": 0.0
+      "profit_units": 0.0,
+      "combined_odds": 5.584994,
+      "combined_odds_complete": true,
+      "dutch_invested_units": 0.0,
+      "dutch_returned_units": 0.0,
+      "dutch_profit_units": 0.0,
+      "final_odds_min": 12.6,
+      "final_odds_max": 1287.7
     },
     {
       "race_id": "20260610-24-09",
@@ -2412,7 +2982,14 @@
       "actual_payout_units": "",
       "invested_units": 0,
       "returned_units": 0.0,
-      "profit_units": 0.0
+      "profit_units": 0.0,
+      "combined_odds": 4.408116,
+      "combined_odds_complete": true,
+      "dutch_invested_units": 0.0,
+      "dutch_returned_units": 0.0,
+      "dutch_profit_units": 0.0,
+      "final_odds_min": 14.3,
+      "final_odds_max": 546.2
     },
     {
       "race_id": "20260610-44-01",
@@ -2440,7 +3017,14 @@
       "actual_payout_units": 6.0,
       "invested_units": 6,
       "returned_units": 6.0,
-      "profit_units": 0.0
+      "profit_units": 0.0,
+      "combined_odds": 2.194041,
+      "combined_odds_complete": true,
+      "dutch_invested_units": 1.0,
+      "dutch_returned_units": 2.194041,
+      "dutch_profit_units": 1.194041,
+      "final_odds_min": 6.0,
+      "final_odds_max": 59.2
     },
     {
       "race_id": "20260610-12-01",
@@ -2468,7 +3052,14 @@
       "actual_payout_units": 37.2,
       "invested_units": 7,
       "returned_units": 0.0,
-      "profit_units": -7.0
+      "profit_units": -7.0,
+      "combined_odds": 1.302158,
+      "combined_odds_complete": true,
+      "dutch_invested_units": 1.0,
+      "dutch_returned_units": 0.0,
+      "dutch_profit_units": -1.0,
+      "final_odds_min": 2.4,
+      "final_odds_max": 310.5
     },
     {
       "race_id": "20260610-44-02",
@@ -2496,7 +3087,14 @@
       "actual_payout_units": 12.1,
       "invested_units": 8,
       "returned_units": 12.1,
-      "profit_units": 4.1
+      "profit_units": 4.1,
+      "combined_odds": 2.07847,
+      "combined_odds_complete": true,
+      "dutch_invested_units": 1.0,
+      "dutch_returned_units": 2.07847,
+      "dutch_profit_units": 1.07847,
+      "final_odds_min": 5.8,
+      "final_odds_max": 274.2
     },
     {
       "race_id": "20260610-12-02",
@@ -2524,7 +3122,14 @@
       "actual_payout_units": 1747.4,
       "invested_units": 7,
       "returned_units": 0.0,
-      "profit_units": -7.0
+      "profit_units": -7.0,
+      "combined_odds": 2.532815,
+      "combined_odds_complete": true,
+      "dutch_invested_units": 1.0,
+      "dutch_returned_units": 0.0,
+      "dutch_profit_units": -1.0,
+      "final_odds_min": 5.7,
+      "final_odds_max": 279.4
     },
     {
       "race_id": "20260610-44-03",
@@ -2552,7 +3157,14 @@
       "actual_payout_units": 10.4,
       "invested_units": 10,
       "returned_units": 10.4,
-      "profit_units": 0.4
+      "profit_units": 0.4,
+      "combined_odds": 1.261357,
+      "combined_odds_complete": true,
+      "dutch_invested_units": 1.0,
+      "dutch_returned_units": 1.261357,
+      "dutch_profit_units": 0.261357,
+      "final_odds_min": 5.2,
+      "final_odds_max": 36.6
     },
     {
       "race_id": "20260610-12-03",
@@ -2580,7 +3192,14 @@
       "actual_payout_units": 12.0,
       "invested_units": 6,
       "returned_units": 0.0,
-      "profit_units": -6.0
+      "profit_units": -6.0,
+      "combined_odds": 12.154002,
+      "combined_odds_complete": true,
+      "dutch_invested_units": 1.0,
+      "dutch_returned_units": 0.0,
+      "dutch_profit_units": -1.0,
+      "final_odds_min": 48.4,
+      "final_odds_max": 483.2
     },
     {
       "race_id": "20260610-44-04",
@@ -2608,7 +3227,14 @@
       "actual_payout_units": 28.4,
       "invested_units": 6,
       "returned_units": 0.0,
-      "profit_units": -6.0
+      "profit_units": -6.0,
+      "combined_odds": 8.708506,
+      "combined_odds_complete": true,
+      "dutch_invested_units": 1.0,
+      "dutch_returned_units": 0.0,
+      "dutch_profit_units": -1.0,
+      "final_odds_min": 18.7,
+      "final_odds_max": 297.9
     },
     {
       "race_id": "20260610-12-04",
@@ -2636,7 +3262,14 @@
       "actual_payout_units": 182.8,
       "invested_units": 7,
       "returned_units": 0.0,
-      "profit_units": -7.0
+      "profit_units": -7.0,
+      "combined_odds": 1.242861,
+      "combined_odds_complete": true,
+      "dutch_invested_units": 1.0,
+      "dutch_returned_units": 0.0,
+      "dutch_profit_units": -1.0,
+      "final_odds_min": 1.9,
+      "final_odds_max": 75.4
     },
     {
       "race_id": "20260610-44-05",
@@ -2664,7 +3297,14 @@
       "actual_payout_units": 4.4,
       "invested_units": 4,
       "returned_units": 0.0,
-      "profit_units": -4.0
+      "profit_units": -4.0,
+      "combined_odds": 15.870839,
+      "combined_odds_complete": true,
+      "dutch_invested_units": 1.0,
+      "dutch_returned_units": 0.0,
+      "dutch_profit_units": -1.0,
+      "final_odds_min": 34.8,
+      "final_odds_max": 334.2
     },
     {
       "race_id": "20260610-12-05",
@@ -2692,7 +3332,14 @@
       "actual_payout_units": 14.9,
       "invested_units": 8,
       "returned_units": 14.9,
-      "profit_units": 6.9
+      "profit_units": 6.9,
+      "combined_odds": 3.109527,
+      "combined_odds_complete": true,
+      "dutch_invested_units": 1.0,
+      "dutch_returned_units": 3.109527,
+      "dutch_profit_units": 2.109527,
+      "final_odds_min": 14.1,
+      "final_odds_max": 74.8
     },
     {
       "race_id": "20260610-44-06",
@@ -2720,7 +3367,14 @@
       "actual_payout_units": 591.4,
       "invested_units": 10,
       "returned_units": 0.0,
-      "profit_units": -10.0
+      "profit_units": -10.0,
+      "combined_odds": 1.443856,
+      "combined_odds_complete": true,
+      "dutch_invested_units": 1.0,
+      "dutch_returned_units": 0.0,
+      "dutch_profit_units": -1.0,
+      "final_odds_min": 3.1,
+      "final_odds_max": 245.3
     },
     {
       "race_id": "20260610-12-06",
@@ -2748,7 +3402,14 @@
       "actual_payout_units": 1.5,
       "invested_units": 8,
       "returned_units": 1.5,
-      "profit_units": -6.5
+      "profit_units": -6.5,
+      "combined_odds": 1.060184,
+      "combined_odds_complete": true,
+      "dutch_invested_units": 1.0,
+      "dutch_returned_units": 1.060184,
+      "dutch_profit_units": 0.060184,
+      "final_odds_min": 1.5,
+      "final_odds_max": 228.5
     },
     {
       "race_id": "20260610-44-07",
@@ -2776,7 +3437,14 @@
       "actual_payout_units": 201.5,
       "invested_units": 6,
       "returned_units": 0.0,
-      "profit_units": -6.0
+      "profit_units": -6.0,
+      "combined_odds": 20.239786,
+      "combined_odds_complete": true,
+      "dutch_invested_units": 1.0,
+      "dutch_returned_units": 0.0,
+      "dutch_profit_units": -1.0,
+      "final_odds_min": 50.7,
+      "final_odds_max": 305.3
     },
     {
       "race_id": "20260610-12-07",
@@ -2804,7 +3472,14 @@
       "actual_payout_units": 7.6,
       "invested_units": 9,
       "returned_units": 7.6,
-      "profit_units": -1.4
+      "profit_units": -1.4,
+      "combined_odds": 1.513852,
+      "combined_odds_complete": true,
+      "dutch_invested_units": 1.0,
+      "dutch_returned_units": 1.513852,
+      "dutch_profit_units": 0.513852,
+      "final_odds_min": 4.9,
+      "final_odds_max": 75.5
     },
     {
       "race_id": "20260610-22-01",
@@ -2832,7 +3507,14 @@
       "actual_payout_units": 32.4,
       "invested_units": 8,
       "returned_units": 0.0,
-      "profit_units": -8.0
+      "profit_units": -8.0,
+      "combined_odds": 2.332086,
+      "combined_odds_complete": true,
+      "dutch_invested_units": 1.0,
+      "dutch_returned_units": 0.0,
+      "dutch_profit_units": -1.0,
+      "final_odds_min": 4.1,
+      "final_odds_max": 379.5
     },
     {
       "race_id": "20260610-38-01",
@@ -2860,7 +3542,14 @@
       "actual_payout_units": 13.4,
       "invested_units": 5,
       "returned_units": 0.0,
-      "profit_units": -5.0
+      "profit_units": -5.0,
+      "combined_odds": 16.735824,
+      "combined_odds_complete": true,
+      "dutch_invested_units": 1.0,
+      "dutch_returned_units": 0.0,
+      "dutch_profit_units": -1.0,
+      "final_odds_min": 48.4,
+      "final_odds_max": 318.6
     },
     {
       "race_id": "20260610-63-01",
@@ -2888,7 +3577,14 @@
       "actual_payout_units": 35.8,
       "invested_units": 3,
       "returned_units": 0.0,
-      "profit_units": -3.0
+      "profit_units": -3.0,
+      "combined_odds": 16.800934,
+      "combined_odds_complete": true,
+      "dutch_invested_units": 1.0,
+      "dutch_returned_units": 0.0,
+      "dutch_profit_units": -1.0,
+      "final_odds_min": 26.8,
+      "final_odds_max": 218.8
     },
     {
       "race_id": "20260610-22-02",
@@ -2916,7 +3612,14 @@
       "actual_payout_units": 114.1,
       "invested_units": 6,
       "returned_units": 0.0,
-      "profit_units": -6.0
+      "profit_units": -6.0,
+      "combined_odds": 7.268112,
+      "combined_odds_complete": true,
+      "dutch_invested_units": 1.0,
+      "dutch_returned_units": 0.0,
+      "dutch_profit_units": -1.0,
+      "final_odds_min": 15.4,
+      "final_odds_max": 301.9
     },
     {
       "race_id": "20260610-38-02",
@@ -2944,7 +3647,14 @@
       "actual_payout_units": 91.5,
       "invested_units": 8,
       "returned_units": 0.0,
-      "profit_units": -8.0
+      "profit_units": -8.0,
+      "combined_odds": 1.628764,
+      "combined_odds_complete": true,
+      "dutch_invested_units": 1.0,
+      "dutch_returned_units": 0.0,
+      "dutch_profit_units": -1.0,
+      "final_odds_min": 3.8,
+      "final_odds_max": 314.7
     },
     {
       "race_id": "20260610-63-02",
@@ -2972,7 +3682,14 @@
       "actual_payout_units": 19.0,
       "invested_units": 8,
       "returned_units": 0.0,
-      "profit_units": -8.0
+      "profit_units": -8.0,
+      "combined_odds": 3.17546,
+      "combined_odds_complete": true,
+      "dutch_invested_units": 1.0,
+      "dutch_returned_units": 0.0,
+      "dutch_profit_units": -1.0,
+      "final_odds_min": 16.4,
+      "final_odds_max": 72.2
     },
     {
       "race_id": "20260610-22-03",
@@ -3000,7 +3717,14 @@
       "actual_payout_units": 142.4,
       "invested_units": 9,
       "returned_units": 0.0,
-      "profit_units": -9.0
+      "profit_units": -9.0,
+      "combined_odds": 3.748167,
+      "combined_odds_complete": true,
+      "dutch_invested_units": 1.0,
+      "dutch_returned_units": 0.0,
+      "dutch_profit_units": -1.0,
+      "final_odds_min": 9.3,
+      "final_odds_max": 919.1
     },
     {
       "race_id": "20260610-38-03",
@@ -3028,7 +3752,14 @@
       "actual_payout_units": 64.9,
       "invested_units": 8,
       "returned_units": 64.9,
-      "profit_units": 56.9
+      "profit_units": 56.9,
+      "combined_odds": 1.568057,
+      "combined_odds_complete": true,
+      "dutch_invested_units": 1.0,
+      "dutch_returned_units": 1.568057,
+      "dutch_profit_units": 0.568057,
+      "final_odds_min": 2.6,
+      "final_odds_max": 444.9
     },
     {
       "race_id": "20260610-63-03",
@@ -3056,7 +3787,14 @@
       "actual_payout_units": 2.4,
       "invested_units": 6,
       "returned_units": 2.4,
-      "profit_units": -3.6
+      "profit_units": -3.6,
+      "combined_odds": 1.670319,
+      "combined_odds_complete": true,
+      "dutch_invested_units": 1.0,
+      "dutch_returned_units": 1.670319,
+      "dutch_profit_units": 0.670319,
+      "final_odds_min": 2.4,
+      "final_odds_max": 195.2
     },
     {
       "race_id": "20260610-22-04",
@@ -3084,7 +3822,14 @@
       "actual_payout_units": 20.2,
       "invested_units": 10,
       "returned_units": 20.2,
-      "profit_units": 10.2
+      "profit_units": 10.2,
+      "combined_odds": 1.738382,
+      "combined_odds_complete": true,
+      "dutch_invested_units": 1.0,
+      "dutch_returned_units": 1.738382,
+      "dutch_profit_units": 0.738382,
+      "final_odds_min": 4.8,
+      "final_odds_max": 297.5
     },
     {
       "race_id": "20260610-38-04",
@@ -3112,7 +3857,14 @@
       "actual_payout_units": 12.6,
       "invested_units": 7,
       "returned_units": 0.0,
-      "profit_units": -7.0
+      "profit_units": -7.0,
+      "combined_odds": 1.264094,
+      "combined_odds_complete": true,
+      "dutch_invested_units": 1.0,
+      "dutch_returned_units": 0.0,
+      "dutch_profit_units": -1.0,
+      "final_odds_min": 2.1,
+      "final_odds_max": 371.3
     },
     {
       "race_id": "20260610-22-05",
@@ -3140,7 +3892,14 @@
       "actual_payout_units": 30.6,
       "invested_units": 6,
       "returned_units": 30.6,
-      "profit_units": 24.6
+      "profit_units": 24.6,
+      "combined_odds": 4.18691,
+      "combined_odds_complete": true,
+      "dutch_invested_units": 1.0,
+      "dutch_returned_units": 4.18691,
+      "dutch_profit_units": 3.18691,
+      "final_odds_min": 10.9,
+      "final_odds_max": 90.6
     },
     {
       "race_id": "20260610-63-05",
@@ -3168,7 +3927,14 @@
       "actual_payout_units": 11.4,
       "invested_units": 9,
       "returned_units": 11.4,
-      "profit_units": 2.4
+      "profit_units": 2.4,
+      "combined_odds": 3.436419,
+      "combined_odds_complete": true,
+      "dutch_invested_units": 1.0,
+      "dutch_returned_units": 3.436419,
+      "dutch_profit_units": 2.436419,
+      "final_odds_min": 11.4,
+      "final_odds_max": 125.6
     },
     {
       "race_id": "20260610-22-06",
@@ -3196,7 +3962,14 @@
       "actual_payout_units": 58.8,
       "invested_units": 7,
       "returned_units": 0.0,
-      "profit_units": -7.0
+      "profit_units": -7.0,
+      "combined_odds": 6.088581,
+      "combined_odds_complete": true,
+      "dutch_invested_units": 1.0,
+      "dutch_returned_units": 0.0,
+      "dutch_profit_units": -1.0,
+      "final_odds_min": 14.2,
+      "final_odds_max": 628.6
     },
     {
       "race_id": "20260610-63-06",
@@ -3224,7 +3997,14 @@
       "actual_payout_units": 17.5,
       "invested_units": 7,
       "returned_units": 0.0,
-      "profit_units": -7.0
+      "profit_units": -7.0,
+      "combined_odds": 4.548022,
+      "combined_odds_complete": true,
+      "dutch_invested_units": 1.0,
+      "dutch_returned_units": 0.0,
+      "dutch_profit_units": -1.0,
+      "final_odds_min": 10.9,
+      "final_odds_max": 84.7
     },
     {
       "race_id": "20260610-22-07",
@@ -3252,7 +4032,14 @@
       "actual_payout_units": 7.9,
       "invested_units": 6,
       "returned_units": 7.9,
-      "profit_units": 1.9
+      "profit_units": 1.9,
+      "combined_odds": 4.667347,
+      "combined_odds_complete": true,
+      "dutch_invested_units": 1.0,
+      "dutch_returned_units": 4.667347,
+      "dutch_profit_units": 3.667347,
+      "final_odds_min": 7.9,
+      "final_odds_max": 1114.5
     },
     {
       "race_id": "20260610-38-07",
@@ -3280,7 +4067,14 @@
       "actual_payout_units": 16.9,
       "invested_units": 7,
       "returned_units": 0.0,
-      "profit_units": -7.0
+      "profit_units": -7.0,
+      "combined_odds": 7.410416,
+      "combined_odds_complete": true,
+      "dutch_invested_units": 1.0,
+      "dutch_returned_units": 0.0,
+      "dutch_profit_units": -1.0,
+      "final_odds_min": 18.1,
+      "final_odds_max": 653.0
     },
     {
       "race_id": "20260610-63-07",
@@ -3308,7 +4102,14 @@
       "actual_payout_units": 5.6,
       "invested_units": 6,
       "returned_units": 0.0,
-      "profit_units": -6.0
+      "profit_units": -6.0,
+      "combined_odds": 1.976726,
+      "combined_odds_complete": true,
+      "dutch_invested_units": 1.0,
+      "dutch_returned_units": 0.0,
+      "dutch_profit_units": -1.0,
+      "final_odds_min": 3.2,
+      "final_odds_max": 523.5
     },
     {
       "race_id": "20260610-22-08",
@@ -3336,7 +4137,14 @@
       "actual_payout_units": 219.9,
       "invested_units": 8,
       "returned_units": 0.0,
-      "profit_units": -8.0
+      "profit_units": -8.0,
+      "combined_odds": 7.650061,
+      "combined_odds_complete": true,
+      "dutch_invested_units": 1.0,
+      "dutch_returned_units": 0.0,
+      "dutch_profit_units": -1.0,
+      "final_odds_min": 18.8,
+      "final_odds_max": 739.2
     },
     {
       "race_id": "20260610-38-08",
@@ -3364,7 +4172,14 @@
       "actual_payout_units": 627.6,
       "invested_units": 5,
       "returned_units": 0.0,
-      "profit_units": -5.0
+      "profit_units": -5.0,
+      "combined_odds": 7.545468,
+      "combined_odds_complete": true,
+      "dutch_invested_units": 1.0,
+      "dutch_returned_units": 0.0,
+      "dutch_profit_units": -1.0,
+      "final_odds_min": 19.6,
+      "final_odds_max": 243.3
     },
     {
       "race_id": "20260610-63-08",
@@ -3392,7 +4207,14 @@
       "actual_payout_units": 33.2,
       "invested_units": 6,
       "returned_units": 0.0,
-      "profit_units": -6.0
+      "profit_units": -6.0,
+      "combined_odds": 4.259356,
+      "combined_odds_complete": true,
+      "dutch_invested_units": 1.0,
+      "dutch_returned_units": 0.0,
+      "dutch_profit_units": -1.0,
+      "final_odds_min": 11.8,
+      "final_odds_max": 101.7
     },
     {
       "race_id": "20260610-22-09",
@@ -3420,7 +4242,14 @@
       "actual_payout_units": 173.8,
       "invested_units": 8,
       "returned_units": 0.0,
-      "profit_units": -8.0
+      "profit_units": -8.0,
+      "combined_odds": 13.247331,
+      "combined_odds_complete": true,
+      "dutch_invested_units": 1.0,
+      "dutch_returned_units": 0.0,
+      "dutch_profit_units": -1.0,
+      "final_odds_min": 50.0,
+      "final_odds_max": 563.0
     },
     {
       "race_id": "20260610-38-09",
@@ -3448,7 +4277,14 @@
       "actual_payout_units": 6.2,
       "invested_units": 9,
       "returned_units": 6.2,
-      "profit_units": -2.8
+      "profit_units": -2.8,
+      "combined_odds": 1.227179,
+      "combined_odds_complete": true,
+      "dutch_invested_units": 1.0,
+      "dutch_returned_units": 1.227179,
+      "dutch_profit_units": 0.227179,
+      "final_odds_min": 2.4,
+      "final_odds_max": 86.9
     },
     {
       "race_id": "20260610-63-09",
@@ -3476,7 +4312,14 @@
       "actual_payout_units": 26.6,
       "invested_units": 8,
       "returned_units": 0.0,
-      "profit_units": -8.0
+      "profit_units": -8.0,
+      "combined_odds": 2.445071,
+      "combined_odds_complete": true,
+      "dutch_invested_units": 1.0,
+      "dutch_returned_units": 0.0,
+      "dutch_profit_units": -1.0,
+      "final_odds_min": 10.1,
+      "final_odds_max": 163.1
     },
     {
       "race_id": "20260610-22-10",
@@ -3504,7 +4347,14 @@
       "actual_payout_units": 179.8,
       "invested_units": 11,
       "returned_units": 0.0,
-      "profit_units": -11.0
+      "profit_units": -11.0,
+      "combined_odds": 2.823237,
+      "combined_odds_complete": true,
+      "dutch_invested_units": 1.0,
+      "dutch_returned_units": 0.0,
+      "dutch_profit_units": -1.0,
+      "final_odds_min": 10.4,
+      "final_odds_max": 228.5
     },
     {
       "race_id": "20260610-38-10",
@@ -3532,7 +4382,14 @@
       "actual_payout_units": 11.4,
       "invested_units": 3,
       "returned_units": 3.1,
-      "profit_units": 0.1
+      "profit_units": 0.1,
+      "combined_odds": 1.848164,
+      "combined_odds_complete": true,
+      "dutch_invested_units": 1.0,
+      "dutch_returned_units": 0.987812,
+      "dutch_profit_units": -0.012188,
+      "final_odds_min": 3.1,
+      "final_odds_max": 21.7
     },
     {
       "race_id": "20260610-22-11",
@@ -3560,7 +4417,14 @@
       "actual_payout_units": 23.8,
       "invested_units": 8,
       "returned_units": 0.0,
-      "profit_units": -8.0
+      "profit_units": -8.0,
+      "combined_odds": 3.610425,
+      "combined_odds_complete": true,
+      "dutch_invested_units": 1.0,
+      "dutch_returned_units": 0.0,
+      "dutch_profit_units": -1.0,
+      "final_odds_min": 12.2,
+      "final_odds_max": 81.1
     },
     {
       "race_id": "20260610-38-11",
@@ -3588,7 +4452,14 @@
       "actual_payout_units": 125.2,
       "invested_units": 5,
       "returned_units": 0.0,
-      "profit_units": -5.0
+      "profit_units": -5.0,
+      "combined_odds": 11.385885,
+      "combined_odds_complete": true,
+      "dutch_invested_units": 1.0,
+      "dutch_returned_units": 0.0,
+      "dutch_profit_units": -1.0,
+      "final_odds_min": 25.9,
+      "final_odds_max": 116.6
     },
     {
       "race_id": "20260610-13-01",
@@ -3616,7 +4487,14 @@
       "actual_payout_units": 103.5,
       "invested_units": 9,
       "returned_units": 0.0,
-      "profit_units": -9.0
+      "profit_units": -9.0,
+      "combined_odds": 1.948588,
+      "combined_odds_complete": true,
+      "dutch_invested_units": 1.0,
+      "dutch_returned_units": 0.0,
+      "dutch_profit_units": -1.0,
+      "final_odds_min": 8.1,
+      "final_odds_max": 79.9
     },
     {
       "race_id": "20260610-63-11",
@@ -3644,7 +4522,14 @@
       "actual_payout_units": 27.0,
       "invested_units": 7,
       "returned_units": 27.0,
-      "profit_units": 20.0
+      "profit_units": 20.0,
+      "combined_odds": 8.227987,
+      "combined_odds_complete": true,
+      "dutch_invested_units": 1.0,
+      "dutch_returned_units": 8.227987,
+      "dutch_profit_units": 7.227987,
+      "final_odds_min": 27.0,
+      "final_odds_max": 335.1
     },
     {
       "race_id": "20260610-27-01",
@@ -3672,7 +4557,14 @@
       "actual_payout_units": 3.0,
       "invested_units": 5,
       "returned_units": 0.0,
-      "profit_units": -5.0
+      "profit_units": -5.0,
+      "combined_odds": 3.893496,
+      "combined_odds_complete": true,
+      "dutch_invested_units": 1.0,
+      "dutch_returned_units": 0.0,
+      "dutch_profit_units": -1.0,
+      "final_odds_min": 7.2,
+      "final_odds_max": 85.2
     },
     {
       "race_id": "20260610-13-02",
@@ -3700,7 +4592,14 @@
       "actual_payout_units": 59.2,
       "invested_units": 10,
       "returned_units": 59.2,
-      "profit_units": 49.2
+      "profit_units": 49.2,
+      "combined_odds": 2.886101,
+      "combined_odds_complete": true,
+      "dutch_invested_units": 1.0,
+      "dutch_returned_units": 2.886101,
+      "dutch_profit_units": 1.886101,
+      "final_odds_min": 9.4,
+      "final_odds_max": 1325.0
     },
     {
       "race_id": "20260610-22-12",
@@ -3728,7 +4627,14 @@
       "actual_payout_units": 13.7,
       "invested_units": 10,
       "returned_units": 13.7,
-      "profit_units": 3.7
+      "profit_units": 3.7,
+      "combined_odds": 4.320794,
+      "combined_odds_complete": true,
+      "dutch_invested_units": 1.0,
+      "dutch_returned_units": 4.320794,
+      "dutch_profit_units": 3.320794,
+      "final_odds_min": 13.7,
+      "final_odds_max": 449.7
     },
     {
       "race_id": "20260610-27-02",
@@ -3756,7 +4662,14 @@
       "actual_payout_units": 275.6,
       "invested_units": 8,
       "returned_units": 0.0,
-      "profit_units": -8.0
+      "profit_units": -8.0,
+      "combined_odds": 1.743193,
+      "combined_odds_complete": true,
+      "dutch_invested_units": 1.0,
+      "dutch_returned_units": 0.0,
+      "dutch_profit_units": -1.0,
+      "final_odds_min": 2.8,
+      "final_odds_max": 89.3
     },
     {
       "race_id": "20260610-13-03",
@@ -3784,7 +4697,14 @@
       "actual_payout_units": "",
       "invested_units": 0,
       "returned_units": 0.0,
-      "profit_units": 0.0
+      "profit_units": 0.0,
+      "combined_odds": 43.5326,
+      "combined_odds_complete": true,
+      "dutch_invested_units": 0.0,
+      "dutch_returned_units": 0.0,
+      "dutch_profit_units": 0.0,
+      "final_odds_min": 79.7,
+      "final_odds_max": 1356.9
     },
     {
       "race_id": "20260610-27-03",
@@ -3812,7 +4732,14 @@
       "actual_payout_units": "",
       "invested_units": 0,
       "returned_units": 0.0,
-      "profit_units": 0.0
+      "profit_units": 0.0,
+      "combined_odds": 7.876759,
+      "combined_odds_complete": true,
+      "dutch_invested_units": 0.0,
+      "dutch_returned_units": 0.0,
+      "dutch_profit_units": 0.0,
+      "final_odds_min": 40.1,
+      "final_odds_max": 201.3
     },
     {
       "race_id": "20260610-13-04",
@@ -3840,7 +4767,14 @@
       "actual_payout_units": "",
       "invested_units": 0,
       "returned_units": 0.0,
-      "profit_units": 0.0
+      "profit_units": 0.0,
+      "combined_odds": 7.69751,
+      "combined_odds_complete": true,
+      "dutch_invested_units": 0.0,
+      "dutch_returned_units": 0.0,
+      "dutch_profit_units": 0.0,
+      "final_odds_min": 18.7,
+      "final_odds_max": 466.4
     },
     {
       "race_id": "20260610-27-04",
@@ -3868,7 +4802,14 @@
       "actual_payout_units": "",
       "invested_units": 0,
       "returned_units": 0.0,
-      "profit_units": 0.0
+      "profit_units": 0.0,
+      "combined_odds": 1.10884,
+      "combined_odds_complete": true,
+      "dutch_invested_units": 0.0,
+      "dutch_returned_units": 0.0,
+      "dutch_profit_units": 0.0,
+      "final_odds_min": 1.4,
+      "final_odds_max": 1521.1
     },
     {
       "race_id": "20260610-13-05",
@@ -3896,7 +4837,14 @@
       "actual_payout_units": "",
       "invested_units": 0,
       "returned_units": 0.0,
-      "profit_units": 0.0
+      "profit_units": 0.0,
+      "combined_odds": 4.282938,
+      "combined_odds_complete": true,
+      "dutch_invested_units": 0.0,
+      "dutch_returned_units": 0.0,
+      "dutch_profit_units": 0.0,
+      "final_odds_min": 17.5,
+      "final_odds_max": 75.0
     },
     {
       "race_id": "20260610-13-06",
@@ -3924,7 +4872,14 @@
       "actual_payout_units": "",
       "invested_units": 0,
       "returned_units": 0.0,
-      "profit_units": 0.0
+      "profit_units": 0.0,
+      "combined_odds": 7.350263,
+      "combined_odds_complete": true,
+      "dutch_invested_units": 0.0,
+      "dutch_returned_units": 0.0,
+      "dutch_profit_units": 0.0,
+      "final_odds_min": 26.8,
+      "final_odds_max": 70.5
     },
     {
       "race_id": "20260610-13-07",
@@ -3952,7 +4907,14 @@
       "actual_payout_units": "",
       "invested_units": 0,
       "returned_units": 0.0,
-      "profit_units": 0.0
+      "profit_units": 0.0,
+      "combined_odds": 2.69538,
+      "combined_odds_complete": true,
+      "dutch_invested_units": 0.0,
+      "dutch_returned_units": 0.0,
+      "dutch_profit_units": 0.0,
+      "final_odds_min": 10.8,
+      "final_odds_max": 87.6
     },
     {
       "race_id": "20260610-27-07",
@@ -3980,7 +4942,14 @@
       "actual_payout_units": "",
       "invested_units": 0,
       "returned_units": 0.0,
-      "profit_units": 0.0
+      "profit_units": 0.0,
+      "combined_odds": 5.00136,
+      "combined_odds_complete": true,
+      "dutch_invested_units": 0.0,
+      "dutch_returned_units": 0.0,
+      "dutch_profit_units": 0.0,
+      "final_odds_min": 15.6,
+      "final_odds_max": 391.0
     },
     {
       "race_id": "20260610-13-08",
@@ -4008,7 +4977,14 @@
       "actual_payout_units": "",
       "invested_units": 0,
       "returned_units": 0.0,
-      "profit_units": 0.0
+      "profit_units": 0.0,
+      "combined_odds": 7.673199,
+      "combined_odds_complete": true,
+      "dutch_invested_units": 0.0,
+      "dutch_returned_units": 0.0,
+      "dutch_profit_units": 0.0,
+      "final_odds_min": 26.8,
+      "final_odds_max": 238.6
     },
     {
       "race_id": "20260610-27-08",
@@ -4036,7 +5012,14 @@
       "actual_payout_units": "",
       "invested_units": 0,
       "returned_units": 0.0,
-      "profit_units": 0.0
+      "profit_units": 0.0,
+      "combined_odds": 2.866412,
+      "combined_odds_complete": true,
+      "dutch_invested_units": 0.0,
+      "dutch_returned_units": 0.0,
+      "dutch_profit_units": 0.0,
+      "final_odds_min": 6.9,
+      "final_odds_max": 182.3
     },
     {
       "race_id": "20260610-13-09",
@@ -4064,7 +5047,14 @@
       "actual_payout_units": "",
       "invested_units": 0,
       "returned_units": 0.0,
-      "profit_units": 0.0
+      "profit_units": 0.0,
+      "combined_odds": 23.988993,
+      "combined_odds_complete": true,
+      "dutch_invested_units": 0.0,
+      "dutch_returned_units": 0.0,
+      "dutch_profit_units": 0.0,
+      "final_odds_min": 58.2,
+      "final_odds_max": 366.5
     },
     {
       "race_id": "20260610-27-09",
@@ -4092,7 +5082,14 @@
       "actual_payout_units": "",
       "invested_units": 0,
       "returned_units": 0.0,
-      "profit_units": 0.0
+      "profit_units": 0.0,
+      "combined_odds": 3.491574,
+      "combined_odds_complete": true,
+      "dutch_invested_units": 0.0,
+      "dutch_returned_units": 0.0,
+      "dutch_profit_units": 0.0,
+      "final_odds_min": 8.7,
+      "final_odds_max": 160.8
     },
     {
       "race_id": "20260610-13-10",
@@ -4120,7 +5117,14 @@
       "actual_payout_units": "",
       "invested_units": 0,
       "returned_units": 0.0,
-      "profit_units": 0.0
+      "profit_units": 0.0,
+      "combined_odds": 13.704483,
+      "combined_odds_complete": true,
+      "dutch_invested_units": 0.0,
+      "dutch_returned_units": 0.0,
+      "dutch_profit_units": 0.0,
+      "final_odds_min": 29.6,
+      "final_odds_max": 379.2
     },
     {
       "race_id": "20260610-27-10",
@@ -4148,7 +5152,14 @@
       "actual_payout_units": "",
       "invested_units": 0,
       "returned_units": 0.0,
-      "profit_units": 0.0
+      "profit_units": 0.0,
+      "combined_odds": 7.000226,
+      "combined_odds_complete": true,
+      "dutch_invested_units": 0.0,
+      "dutch_returned_units": 0.0,
+      "dutch_profit_units": 0.0,
+      "final_odds_min": 26.9,
+      "final_odds_max": 185.7
     },
     {
       "race_id": "20260610-13-11",
@@ -4176,7 +5187,14 @@
       "actual_payout_units": "",
       "invested_units": 0,
       "returned_units": 0.0,
-      "profit_units": 0.0
+      "profit_units": 0.0,
+      "combined_odds": 94.2,
+      "combined_odds_complete": true,
+      "dutch_invested_units": 0.0,
+      "dutch_returned_units": 0.0,
+      "dutch_profit_units": 0.0,
+      "final_odds_min": 94.2,
+      "final_odds_max": 94.2
     },
     {
       "race_id": "20260610-27-11",
@@ -4204,7 +5222,14 @@
       "actual_payout_units": "",
       "invested_units": 0,
       "returned_units": 0.0,
-      "profit_units": 0.0
+      "profit_units": 0.0,
+      "combined_odds": 2.981598,
+      "combined_odds_complete": true,
+      "dutch_invested_units": 0.0,
+      "dutch_returned_units": 0.0,
+      "dutch_profit_units": 0.0,
+      "final_odds_min": 8.6,
+      "final_odds_max": 92.1
     },
     {
       "race_id": "20260610-13-12",
@@ -4232,7 +5257,14 @@
       "actual_payout_units": "",
       "invested_units": 0,
       "returned_units": 0.0,
-      "profit_units": 0.0
+      "profit_units": 0.0,
+      "combined_odds": 65.810506,
+      "combined_odds_complete": true,
+      "dutch_invested_units": 0.0,
+      "dutch_returned_units": 0.0,
+      "dutch_profit_units": 0.0,
+      "final_odds_min": 253.1,
+      "final_odds_max": 476.5
     },
     {
       "race_id": "20260610-24-01",
@@ -4260,7 +5292,14 @@
       "actual_payout_units": "",
       "invested_units": 0,
       "returned_units": 0.0,
-      "profit_units": 0.0
+      "profit_units": 0.0,
+      "combined_odds": 8.132288,
+      "combined_odds_complete": true,
+      "dutch_invested_units": 0.0,
+      "dutch_returned_units": 0.0,
+      "dutch_profit_units": 0.0,
+      "final_odds_min": 28.8,
+      "final_odds_max": 130.9
     },
     {
       "race_id": "20260610-24-02",
@@ -4288,7 +5327,14 @@
       "actual_payout_units": "",
       "invested_units": 0,
       "returned_units": 0.0,
-      "profit_units": 0.0
+      "profit_units": 0.0,
+      "combined_odds": "",
+      "combined_odds_complete": false,
+      "dutch_invested_units": 0.0,
+      "dutch_returned_units": 0.0,
+      "dutch_profit_units": 0.0,
+      "final_odds_min": "",
+      "final_odds_max": ""
     },
     {
       "race_id": "20260610-86-03",
@@ -4316,7 +5362,14 @@
       "actual_payout_units": "",
       "invested_units": 0,
       "returned_units": 0.0,
-      "profit_units": 0.0
+      "profit_units": 0.0,
+      "combined_odds": 9.126191,
+      "combined_odds_complete": true,
+      "dutch_invested_units": 0.0,
+      "dutch_returned_units": 0.0,
+      "dutch_profit_units": 0.0,
+      "final_odds_min": 28.9,
+      "final_odds_max": 86.8
     },
     {
       "race_id": "20260610-24-03",
@@ -4344,7 +5397,14 @@
       "actual_payout_units": "",
       "invested_units": 0,
       "returned_units": 0.0,
-      "profit_units": 0.0
+      "profit_units": 0.0,
+      "combined_odds": 2.212651,
+      "combined_odds_complete": true,
+      "dutch_invested_units": 0.0,
+      "dutch_returned_units": 0.0,
+      "dutch_profit_units": 0.0,
+      "final_odds_min": 5.7,
+      "final_odds_max": 137.8
     },
     {
       "race_id": "20260610-86-04",
@@ -4372,7 +5432,14 @@
       "actual_payout_units": "",
       "invested_units": 0,
       "returned_units": 0.0,
-      "profit_units": 0.0
+      "profit_units": 0.0,
+      "combined_odds": 3.545028,
+      "combined_odds_complete": true,
+      "dutch_invested_units": 0.0,
+      "dutch_returned_units": 0.0,
+      "dutch_profit_units": 0.0,
+      "final_odds_min": 12.7,
+      "final_odds_max": 225.0
     },
     {
       "race_id": "20260610-24-04",
@@ -4400,7 +5467,14 @@
       "actual_payout_units": "",
       "invested_units": 0,
       "returned_units": 0.0,
-      "profit_units": 0.0
+      "profit_units": 0.0,
+      "combined_odds": 2.332493,
+      "combined_odds_complete": true,
+      "dutch_invested_units": 0.0,
+      "dutch_returned_units": 0.0,
+      "dutch_profit_units": 0.0,
+      "final_odds_min": 7.0,
+      "final_odds_max": 393.3
     },
     {
       "race_id": "20260610-86-05",
@@ -4428,7 +5502,14 @@
       "actual_payout_units": "",
       "invested_units": 0,
       "returned_units": 0.0,
-      "profit_units": 0.0
+      "profit_units": 0.0,
+      "combined_odds": 4.049718,
+      "combined_odds_complete": true,
+      "dutch_invested_units": 0.0,
+      "dutch_returned_units": 0.0,
+      "dutch_profit_units": 0.0,
+      "final_odds_min": 10.2,
+      "final_odds_max": 161.2
     },
     {
       "race_id": "20260610-24-05",
@@ -4456,7 +5537,14 @@
       "actual_payout_units": "",
       "invested_units": 0,
       "returned_units": 0.0,
-      "profit_units": 0.0
+      "profit_units": 0.0,
+      "combined_odds": 15.948005,
+      "combined_odds_complete": true,
+      "dutch_invested_units": 0.0,
+      "dutch_returned_units": 0.0,
+      "dutch_profit_units": 0.0,
+      "final_odds_min": 54.5,
+      "final_odds_max": 130.8
     },
     {
       "race_id": "20260610-86-06",
@@ -4484,7 +5572,14 @@
       "actual_payout_units": "",
       "invested_units": 0,
       "returned_units": 0.0,
-      "profit_units": 0.0
+      "profit_units": 0.0,
+      "combined_odds": 6.750752,
+      "combined_odds_complete": true,
+      "dutch_invested_units": 0.0,
+      "dutch_returned_units": 0.0,
+      "dutch_profit_units": 0.0,
+      "final_odds_min": 30.5,
+      "final_odds_max": 175.8
     },
     {
       "race_id": "20260610-24-06",
@@ -4512,7 +5607,14 @@
       "actual_payout_units": "",
       "invested_units": 0,
       "returned_units": 0.0,
-      "profit_units": 0.0
+      "profit_units": 0.0,
+      "combined_odds": 9.007727,
+      "combined_odds_complete": true,
+      "dutch_invested_units": 0.0,
+      "dutch_returned_units": 0.0,
+      "dutch_profit_units": 0.0,
+      "final_odds_min": 29.7,
+      "final_odds_max": 148.8
     },
     {
       "race_id": "20260610-86-07",
@@ -4540,7 +5642,14 @@
       "actual_payout_units": "",
       "invested_units": 0,
       "returned_units": 0.0,
-      "profit_units": 0.0
+      "profit_units": 0.0,
+      "combined_odds": 2.687152,
+      "combined_odds_complete": true,
+      "dutch_invested_units": 0.0,
+      "dutch_returned_units": 0.0,
+      "dutch_profit_units": 0.0,
+      "final_odds_min": 8.7,
+      "final_odds_max": 41.1
     },
     {
       "race_id": "20260610-24-07",
@@ -4568,7 +5677,14 @@
       "actual_payout_units": "",
       "invested_units": 0,
       "returned_units": 0.0,
-      "profit_units": 0.0
+      "profit_units": 0.0,
+      "combined_odds": 8.805766,
+      "combined_odds_complete": true,
+      "dutch_invested_units": 0.0,
+      "dutch_returned_units": 0.0,
+      "dutch_profit_units": 0.0,
+      "final_odds_min": 30.8,
+      "final_odds_max": 132.2
     },
     {
       "race_id": "20260610-86-08",
@@ -4596,7 +5712,14 @@
       "actual_payout_units": "",
       "invested_units": 0,
       "returned_units": 0.0,
-      "profit_units": 0.0
+      "profit_units": 0.0,
+      "combined_odds": 3.698692,
+      "combined_odds_complete": true,
+      "dutch_invested_units": 0.0,
+      "dutch_returned_units": 0.0,
+      "dutch_profit_units": 0.0,
+      "final_odds_min": 16.7,
+      "final_odds_max": 309.1
     },
     {
       "race_id": "20260610-24-08",
@@ -4624,7 +5747,14 @@
       "actual_payout_units": "",
       "invested_units": 0,
       "returned_units": 0.0,
-      "profit_units": 0.0
+      "profit_units": 0.0,
+      "combined_odds": 5.42195,
+      "combined_odds_complete": true,
+      "dutch_invested_units": 0.0,
+      "dutch_returned_units": 0.0,
+      "dutch_profit_units": 0.0,
+      "final_odds_min": 21.6,
+      "final_odds_max": 572.6
     },
     {
       "race_id": "20260610-86-09",
@@ -4652,7 +5782,14 @@
       "actual_payout_units": "",
       "invested_units": 0,
       "returned_units": 0.0,
-      "profit_units": 0.0
+      "profit_units": 0.0,
+      "combined_odds": 5.734226,
+      "combined_odds_complete": true,
+      "dutch_invested_units": 0.0,
+      "dutch_returned_units": 0.0,
+      "dutch_profit_units": 0.0,
+      "final_odds_min": 12.6,
+      "final_odds_max": 214.6
     },
     {
       "race_id": "20260610-24-09",
@@ -4680,7 +5817,14 @@
       "actual_payout_units": "",
       "invested_units": 0,
       "returned_units": 0.0,
-      "profit_units": 0.0
+      "profit_units": 0.0,
+      "combined_odds": 5.273919,
+      "combined_odds_complete": true,
+      "dutch_invested_units": 0.0,
+      "dutch_returned_units": 0.0,
+      "dutch_profit_units": 0.0,
+      "final_odds_min": 14.3,
+      "final_odds_max": 546.2
     }
   ],
   "result_updated_at": "2026-06-10T16:42:53+09:00",
