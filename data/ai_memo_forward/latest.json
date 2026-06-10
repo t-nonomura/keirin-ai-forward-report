@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-10T13:37:18+09:00",
+  "generated_at": "2026-06-10T15:22:53+09:00",
   "target_date": "2026-06-10",
   "source_races_json": "data\\raw\\official\\2026-06-10\\races.json",
   "raw_race_count": 81,
@@ -56,18 +56,18 @@
         "selected_race_count": 80,
         "forward_test_race_count": 1,
         "reference_race_count": 80,
-        "settled_count": 29,
-        "pending_count": 51,
+        "settled_count": 39,
+        "pending_count": 41,
         "no_selection_count": 1,
-        "hit_count": 11,
-        "miss_count": 18,
-        "hit_rate": 0.3793103448275862,
-        "ticket_count": 239,
-        "average_ticket_count": 8.241379310344827,
-        "invested_units": 239.0,
-        "returned_units": 182.0,
-        "profit_units": -57.0,
-        "roi": 0.7615062761506276,
+        "hit_count": 13,
+        "miss_count": 26,
+        "hit_rate": 0.3333333333333333,
+        "ticket_count": 316,
+        "average_ticket_count": 8.102564102564102,
+        "invested_units": 316.0,
+        "returned_units": 196.1,
+        "profit_units": -119.9,
+        "roi": 0.6205696202531645,
         "summary_scope": "settled_visible_predictions"
       }
     },
@@ -123,18 +123,18 @@
         "selected_race_count": 80,
         "forward_test_race_count": 0,
         "reference_race_count": 81,
-        "settled_count": 29,
-        "pending_count": 51,
+        "settled_count": 39,
+        "pending_count": 41,
         "no_selection_count": 1,
-        "hit_count": 11,
-        "miss_count": 18,
-        "hit_rate": 0.3793103448275862,
-        "ticket_count": 209,
-        "average_ticket_count": 7.206896551724138,
-        "invested_units": 209.0,
-        "returned_units": 182.0,
-        "profit_units": -27.0,
-        "roi": 0.8708133971291866,
+        "hit_count": 13,
+        "miss_count": 26,
+        "hit_rate": 0.3333333333333333,
+        "ticket_count": 283,
+        "average_ticket_count": 7.256410256410256,
+        "invested_units": 283.0,
+        "returned_units": 196.1,
+        "profit_units": -86.9,
+        "roi": 0.6929328621908127,
         "summary_scope": "settled_visible_predictions"
       }
     }
@@ -979,12 +979,12 @@
       "odds_max": 292.3,
       "estimated_hit_index": 0.087821,
       "expected_value_max": 2.873327,
-      "status": "pending",
-      "actual_ticket": "",
-      "actual_payout_units": "",
-      "invested_units": 0,
-      "returned_units": 0.0,
-      "profit_units": 0.0
+      "status": "hit",
+      "actual_ticket": "1-4-7",
+      "actual_payout_units": 7.9,
+      "invested_units": 6,
+      "returned_units": 7.9,
+      "profit_units": 1.9
     },
     {
       "race_id": "20260610-38-07",
@@ -1007,12 +1007,12 @@
       "odds_max": 300.7,
       "estimated_hit_index": 0.077234,
       "expected_value_max": 2.825849,
-      "status": "pending",
-      "actual_ticket": "",
-      "actual_payout_units": "",
-      "invested_units": 0,
-      "returned_units": 0.0,
-      "profit_units": 0.0
+      "status": "miss",
+      "actual_ticket": "7-4-1",
+      "actual_payout_units": 16.9,
+      "invested_units": 7,
+      "returned_units": 0,
+      "profit_units": -7
     },
     {
       "race_id": "20260610-63-07",
@@ -1035,12 +1035,12 @@
       "odds_max": 235.6,
       "estimated_hit_index": 0.065777,
       "expected_value_max": 2.375273,
-      "status": "pending",
-      "actual_ticket": "",
-      "actual_payout_units": "",
-      "invested_units": 0,
-      "returned_units": 0.0,
-      "profit_units": 0.0
+      "status": "miss",
+      "actual_ticket": "4-1-2",
+      "actual_payout_units": 5.6,
+      "invested_units": 6,
+      "returned_units": 0,
+      "profit_units": -6
     },
     {
       "race_id": "20260610-22-08",
@@ -1063,12 +1063,12 @@
       "odds_max": 421.3,
       "estimated_hit_index": 0.091231,
       "expected_value_max": 4.056228,
-      "status": "pending",
-      "actual_ticket": "",
-      "actual_payout_units": "",
-      "invested_units": 0,
-      "returned_units": 0.0,
-      "profit_units": 0.0
+      "status": "miss",
+      "actual_ticket": "5-2-4",
+      "actual_payout_units": 219.9,
+      "invested_units": 8,
+      "returned_units": 0,
+      "profit_units": -8
     },
     {
       "race_id": "20260610-38-08",
@@ -1091,12 +1091,12 @@
       "odds_max": 200.3,
       "estimated_hit_index": 0.060082,
       "expected_value_max": 2.157392,
-      "status": "pending",
-      "actual_ticket": "",
-      "actual_payout_units": "",
-      "invested_units": 0,
-      "returned_units": 0.0,
-      "profit_units": 0.0
+      "status": "miss",
+      "actual_ticket": "2-1-3",
+      "actual_payout_units": 627.6,
+      "invested_units": 5,
+      "returned_units": 0,
+      "profit_units": -5
     },
     {
       "race_id": "20260610-63-08",
@@ -1119,12 +1119,12 @@
       "odds_max": 64.8,
       "estimated_hit_index": 0.070285,
       "expected_value_max": 0.780509,
-      "status": "pending",
-      "actual_ticket": "",
-      "actual_payout_units": "",
-      "invested_units": 0,
-      "returned_units": 0.0,
-      "profit_units": 0.0
+      "status": "miss",
+      "actual_ticket": "5-7-1",
+      "actual_payout_units": 33.2,
+      "invested_units": 6,
+      "returned_units": 0,
+      "profit_units": -6
     },
     {
       "race_id": "20260610-22-09",
@@ -1147,12 +1147,12 @@
       "odds_max": 1184.2,
       "estimated_hit_index": 0.095801,
       "expected_value_max": 10.797426,
-      "status": "pending",
-      "actual_ticket": "",
-      "actual_payout_units": "",
-      "invested_units": 0,
-      "returned_units": 0.0,
-      "profit_units": 0.0
+      "status": "miss",
+      "actual_ticket": "2-5-6",
+      "actual_payout_units": 173.8,
+      "invested_units": 11,
+      "returned_units": 0,
+      "profit_units": -11
     },
     {
       "race_id": "20260610-38-09",
@@ -1175,12 +1175,12 @@
       "odds_max": 58.5,
       "estimated_hit_index": 0.128329,
       "expected_value_max": 0.895397,
-      "status": "pending",
-      "actual_ticket": "",
-      "actual_payout_units": "",
-      "invested_units": 0,
-      "returned_units": 0.0,
-      "profit_units": 0.0
+      "status": "hit",
+      "actual_ticket": "7-2-3",
+      "actual_payout_units": 6.2,
+      "invested_units": 9,
+      "returned_units": 6.2,
+      "profit_units": -2.8
     },
     {
       "race_id": "20260610-63-09",
@@ -1203,12 +1203,12 @@
       "odds_max": 237.1,
       "estimated_hit_index": 0.100453,
       "expected_value_max": 3.366719,
-      "status": "pending",
-      "actual_ticket": "",
-      "actual_payout_units": "",
-      "invested_units": 0,
-      "returned_units": 0.0,
-      "profit_units": 0.0
+      "status": "miss",
+      "actual_ticket": "5-1-6",
+      "actual_payout_units": 26.6,
+      "invested_units": 8,
+      "returned_units": 0,
+      "profit_units": -8
     },
     {
       "race_id": "20260610-22-10",
@@ -1231,12 +1231,12 @@
       "odds_max": 380.8,
       "estimated_hit_index": 0.123815,
       "expected_value_max": 3.949629,
-      "status": "pending",
-      "actual_ticket": "",
-      "actual_payout_units": "",
-      "invested_units": 0,
-      "returned_units": 0.0,
-      "profit_units": 0.0
+      "status": "miss",
+      "actual_ticket": "3-7-4",
+      "actual_payout_units": 179.8,
+      "invested_units": 11,
+      "returned_units": 0,
+      "profit_units": -11
     },
     {
       "race_id": "20260610-38-10",
@@ -3247,12 +3247,12 @@
       "odds_max": 292.3,
       "estimated_hit_index": 0.087821,
       "expected_value_max": 2.873327,
-      "status": "pending",
-      "actual_ticket": "",
-      "actual_payout_units": "",
-      "invested_units": 0,
-      "returned_units": 0.0,
-      "profit_units": 0.0
+      "status": "hit",
+      "actual_ticket": "1-4-7",
+      "actual_payout_units": 7.9,
+      "invested_units": 6,
+      "returned_units": 7.9,
+      "profit_units": 1.9
     },
     {
       "race_id": "20260610-38-07",
@@ -3275,12 +3275,12 @@
       "odds_max": 300.7,
       "estimated_hit_index": 0.077234,
       "expected_value_max": 2.825849,
-      "status": "pending",
-      "actual_ticket": "",
-      "actual_payout_units": "",
-      "invested_units": 0,
-      "returned_units": 0.0,
-      "profit_units": 0.0
+      "status": "miss",
+      "actual_ticket": "7-4-1",
+      "actual_payout_units": 16.9,
+      "invested_units": 7,
+      "returned_units": 0,
+      "profit_units": -7
     },
     {
       "race_id": "20260610-63-07",
@@ -3303,12 +3303,12 @@
       "odds_max": 235.6,
       "estimated_hit_index": 0.065777,
       "expected_value_max": 2.375273,
-      "status": "pending",
-      "actual_ticket": "",
-      "actual_payout_units": "",
-      "invested_units": 0,
-      "returned_units": 0.0,
-      "profit_units": 0.0
+      "status": "miss",
+      "actual_ticket": "4-1-2",
+      "actual_payout_units": 5.6,
+      "invested_units": 6,
+      "returned_units": 0,
+      "profit_units": -6
     },
     {
       "race_id": "20260610-22-08",
@@ -3331,12 +3331,12 @@
       "odds_max": 421.3,
       "estimated_hit_index": 0.091231,
       "expected_value_max": 4.056228,
-      "status": "pending",
-      "actual_ticket": "",
-      "actual_payout_units": "",
-      "invested_units": 0,
-      "returned_units": 0.0,
-      "profit_units": 0.0
+      "status": "miss",
+      "actual_ticket": "5-2-4",
+      "actual_payout_units": 219.9,
+      "invested_units": 8,
+      "returned_units": 0,
+      "profit_units": -8
     },
     {
       "race_id": "20260610-38-08",
@@ -3359,12 +3359,12 @@
       "odds_max": 200.3,
       "estimated_hit_index": 0.060082,
       "expected_value_max": 2.157392,
-      "status": "pending",
-      "actual_ticket": "",
-      "actual_payout_units": "",
-      "invested_units": 0,
-      "returned_units": 0.0,
-      "profit_units": 0.0
+      "status": "miss",
+      "actual_ticket": "2-1-3",
+      "actual_payout_units": 627.6,
+      "invested_units": 5,
+      "returned_units": 0,
+      "profit_units": -5
     },
     {
       "race_id": "20260610-63-08",
@@ -3387,12 +3387,12 @@
       "odds_max": 64.8,
       "estimated_hit_index": 0.070285,
       "expected_value_max": 0.780509,
-      "status": "pending",
-      "actual_ticket": "",
-      "actual_payout_units": "",
-      "invested_units": 0,
-      "returned_units": 0.0,
-      "profit_units": 0.0
+      "status": "miss",
+      "actual_ticket": "5-7-1",
+      "actual_payout_units": 33.2,
+      "invested_units": 6,
+      "returned_units": 0,
+      "profit_units": -6
     },
     {
       "race_id": "20260610-22-09",
@@ -3415,12 +3415,12 @@
       "odds_max": 343.8,
       "estimated_hit_index": 0.069918,
       "expected_value_max": 2.985417,
-      "status": "pending",
-      "actual_ticket": "",
-      "actual_payout_units": "",
-      "invested_units": 0,
-      "returned_units": 0.0,
-      "profit_units": 0.0
+      "status": "miss",
+      "actual_ticket": "2-5-6",
+      "actual_payout_units": 173.8,
+      "invested_units": 8,
+      "returned_units": 0,
+      "profit_units": -8
     },
     {
       "race_id": "20260610-38-09",
@@ -3443,12 +3443,12 @@
       "odds_max": 58.5,
       "estimated_hit_index": 0.128329,
       "expected_value_max": 0.895397,
-      "status": "pending",
-      "actual_ticket": "",
-      "actual_payout_units": "",
-      "invested_units": 0,
-      "returned_units": 0.0,
-      "profit_units": 0.0
+      "status": "hit",
+      "actual_ticket": "7-2-3",
+      "actual_payout_units": 6.2,
+      "invested_units": 9,
+      "returned_units": 6.2,
+      "profit_units": -2.8
     },
     {
       "race_id": "20260610-63-09",
@@ -3471,12 +3471,12 @@
       "odds_max": 237.1,
       "estimated_hit_index": 0.100453,
       "expected_value_max": 3.366719,
-      "status": "pending",
-      "actual_ticket": "",
-      "actual_payout_units": "",
-      "invested_units": 0,
-      "returned_units": 0.0,
-      "profit_units": 0.0
+      "status": "miss",
+      "actual_ticket": "5-1-6",
+      "actual_payout_units": 26.6,
+      "invested_units": 8,
+      "returned_units": 0,
+      "profit_units": -8
     },
     {
       "race_id": "20260610-22-10",
@@ -3499,12 +3499,12 @@
       "odds_max": 380.8,
       "estimated_hit_index": 0.123815,
       "expected_value_max": 3.949629,
-      "status": "pending",
-      "actual_ticket": "",
-      "actual_payout_units": "",
-      "invested_units": 0,
-      "returned_units": 0.0,
-      "profit_units": 0.0
+      "status": "miss",
+      "actual_ticket": "3-7-4",
+      "actual_payout_units": 179.8,
+      "invested_units": 11,
+      "returned_units": 0,
+      "profit_units": -11
     },
     {
       "race_id": "20260610-38-10",
@@ -4683,7 +4683,7 @@
       "profit_units": 0.0
     }
   ],
-  "result_updated_at": "2026-06-10T13:37:18+09:00",
+  "result_updated_at": "2026-06-10T15:22:53+09:00",
   "result_source": "keirin.jp JSJ012 direct result API",
   "result_fetch_error_count": 0
 }
