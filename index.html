@@ -15,7 +15,7 @@
 <section class="panel"><h2>&#x30EC;&#x30FC;&#x30B9;&#x4E00;&#x89A7;</h2><div class="toolbar"><label>&#x7BC4;&#x56F2;<select id="scope-filter"><option value="all">&#x5168;R</option><option value="forward_test">&#x691C;&#x8A3C;&#x5BFE;&#x8C61;</option><option value="reference">&#x53C2;&#x8003;</option></select></label><label>&#x5834;<select id="venue-filter"><option value="all">&#x5168;&#x5834;</option></select></label><label>&#x7D50;&#x679C;<select id="status-filter"><option value="all">&#x5168;&#x3066;</option><option value="pending">&#x672A;&#x78BA;&#x5B9A;</option><option value="hit">&#x7684;&#x4E2D;</option><option value="miss">&#x4E0D;&#x7684;&#x4E2D;</option><option value="no_selection">&#x8CB7;&#x3044;&#x76EE;&#x306A;&#x3057;</option></select></label><label>&#x4E26;&#x3073;&#x9806;<select id="sort-select"><option value="time">&#x767A;&#x8D70;&#x9806;</option><option value="target">&#x691C;&#x8A3C;&#x5BFE;&#x8C61;&#x512A;&#x5148;</option><option value="odds">&#x6700;&#x9AD8;&#x30AA;&#x30C3;&#x30BA;&#x9806;</option></select></label></div><div class="table" id="race-table"><div class="note">&#x8AAD;&#x307F;&#x8FBC;&#x307F;&#x4E2D;...</div></div></section>
 </main>
 <script>
-const DATA_URL='data/ai_memo_forward/latest.json?v=20260611-ai-memo-forward';
+const DATA_URL='data/ai_memo_forward/latest.json?v=20260612-ai-memo-forward';
 let DATA=null;let pattern='stable_cap_500';
 function e(v){return String(v==null?'':v).replace(/[&<>"']/g,function(c){return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c];});}
 function n(v){const x=Number(String(v==null?0:v).replace(/,/g,''));return Number.isFinite(x)?x:0;}
