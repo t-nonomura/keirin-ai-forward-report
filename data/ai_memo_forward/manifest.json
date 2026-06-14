@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-12T16:06:43+09:00",
-  "latest_date": "2026-06-12",
+  "generated_at": "2026-06-14T10:48:10+09:00",
+  "latest_date": "2026-06-14",
   "dates": [
     {
       "date": "2026-06-10",
@@ -28,18 +28,36 @@
         "offensive_no_500_cap",
         "stable_cap_500"
       ]
+    },
+    {
+      "date": "2026-06-13",
+      "file": "data/ai_memo_forward/predictions_2026-06-13.csv",
+      "row_count": 130,
+      "pattern_ids": [
+        "offensive_no_500_cap",
+        "stable_cap_500"
+      ]
+    },
+    {
+      "date": "2026-06-14",
+      "file": "data/ai_memo_forward/predictions_2026-06-14.csv",
+      "row_count": 166,
+      "pattern_ids": [
+        "offensive_no_500_cap",
+        "stable_cap_500"
+      ]
     }
   ],
   "patterns": {
     "offensive_no_500_cap": {
-      "label": "攻め: 500倍超を除外しない",
-      "short_label": "500倍超除外なし",
-      "description": "A1/A3準決勝、400m、80〜200倍帯を除外。500倍超は残す攻め寄りのパターンです。"
+      "label": "??: 500????????",
+      "short_label": "500??????",
+      "description": "A1/A3????400m?80?200??????500?????????????????"
     },
     "stable_cap_500": {
-      "label": "安定: 500倍超除外",
-      "short_label": "500倍超除外あり",
-      "description": "A1/A3準決勝、400m、80〜200倍帯に加えて500倍超も除外する安定寄りのパターンです。"
+      "label": "??: 500????",
+      "short_label": "500??????",
+      "description": "A1/A3????400m?80?200??????500???????????????????"
     }
   }
 }
