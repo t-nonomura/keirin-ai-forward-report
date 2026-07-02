@@ -1,97 +1,65 @@
 {
-  "command": "backtest-girls-trifecta-strategy",
-  "input_path": "exports\\girls-trifecta-v2-final-odds-through-20260701\\girls_trifecta_v2_dataset_roi_focus_through_20260701.csv",
-  "output_dir": "exports\\girls-trifecta-v2-final-odds-through-20260701\\backtest_all_2145_hit30_ev_cover_public_20260702",
-  "purchase_mode": "hit30",
-  "always_buy": true,
-  "stake_units": 6.0,
-  "market_blend_weight": 0.35,
-  "required_asof_label": "final",
-  "target_roi": 1.1,
-  "race_count": 2145,
-  "strategy_count": 4,
-  "odds_policy_status": "research_latest_or_final",
-  "strategies": {
-    "market_only_top1": {
-      "race_count": 2145,
-      "selected_race_count": 2145,
-      "total_stake_units": 12870.0,
-      "return_units": 8641.800000000003,
-      "profit_units": -4228.199999999997,
-      "roi": 0.671468531469,
-      "hit_count": 315,
-      "hit_rate": 0.146853146853,
-      "max_drawdown_units": 4283.4,
-      "top1_return_share": 0.011317086718,
-      "top3_return_share": 0.029299451503,
-      "roi_without_top1": 0.664179104478,
-      "roi_without_top3": 0.652707749767,
-      "target_roi": 1.1,
-      "target_roi_research_met": false,
-      "target_roi_met": false,
-      "formal_goal_grade_eligible": false
+  "command": "build-public-girls-weighted-overlay-scale-selector-report",
+  "generated_at": "2026-07-03T05:28:54+09:00",
+  "input_selector": "exports\\forward-tests\\girls_weighted_overlay_scale_selector_20260703\\entropy_q3_profit\\race_summary.csv",
+  "highlight_case": "entropy_q3_profit_selector",
+  "case_order": [
+    "entropy_q3_profit_selector",
+    "entropy_q3_cap12_flat12",
+    "sleeve_scale2_fixed",
+    "sleeve_scale2_no_base_press"
+  ],
+  "case_labels": {
+    "entropy_q3_profit_selector": "Prior-month scale/press selector (entropy_q3_profit)",
+    "entropy_q3_cap12_flat12": "Entropy Q3 cap12 flat/base",
+    "sleeve_scale2_fixed": "Fixed sleeve scale 2",
+    "sleeve_scale2_no_base_press": "Fixed sleeve scale 2 no-base-press"
+  },
+  "odds_policy_status": "final_odds_research_only",
+  "period": "2026-01-01 to 2026-07-01",
+  "cases": {
+    "entropy_q3_profit_selector": {
+      "label": "Prior-month scale/press selector (entropy_q3_profit)",
+      "race_count": 1068,
+      "stake_units": 22128.0,
+      "return_units": 24063.4,
+      "roi": 1.0874638467100506,
+      "hit_rate": 0.5617977528089888,
+      "average_ticket_count": 12.425093632958802
     },
-    "market_only_top6_equal": {
-      "race_count": 2145,
-      "selected_race_count": 2145,
-      "total_stake_units": 12870.0,
-      "return_units": 8952.400000000007,
-      "profit_units": -3917.599999999993,
-      "roi": 0.695602175602,
-      "hit_count": 1040,
-      "hit_rate": 0.484848484848,
-      "max_drawdown_units": 3923.499999999996,
-      "top1_return_share": 0.003440418212,
-      "top3_return_share": 0.009986148966,
-      "roi_without_top1": 0.693532338308,
-      "roi_without_top3": 0.689620292561,
-      "target_roi": 1.1,
-      "target_roi_research_met": false,
-      "target_roi_met": false,
-      "formal_goal_grade_eligible": false
+    "entropy_q3_cap12_flat12": {
+      "label": "Entropy Q3 cap12 flat/base",
+      "race_count": 1068,
+      "stake_units": 12816.0,
+      "return_units": 12183.8,
+      "roi": 0.9506710362047439,
+      "hit_rate": 0.5571161048689138,
+      "average_ticket_count": 12.0
     },
-    "v1_purchase": {
-      "race_count": 2145,
-      "selected_race_count": 2145,
-      "total_stake_units": 12870.0,
-      "return_units": 16019.700000000004,
-      "profit_units": 3149.700000000004,
-      "roi": 1.244731934732,
-      "hit_count": 33,
-      "hit_rate": 0.015384615385,
-      "max_drawdown_units": 1485.6,
-      "top1_return_share": 0.037416431019,
-      "top3_return_share": 0.112174385288,
-      "roi_without_top1": 1.198717350746,
-      "roi_without_top3": 1.106652661064,
-      "target_roi": 1.1,
-      "target_roi_research_met": true,
-      "target_roi_met": false,
-      "formal_goal_grade_eligible": false
+    "sleeve_scale2_fixed": {
+      "label": "Fixed sleeve scale 2",
+      "race_count": 1068,
+      "stake_units": 26628.0,
+      "return_units": 29406.0,
+      "roi": 1.104326273095989,
+      "hit_rate": 0.5636704119850188,
+      "average_ticket_count": 12.593632958801498
     },
-    "hit30_ev_cover": {
-      "race_count": 2145,
-      "selected_race_count": 2145,
-      "total_stake_units": 12870.0,
-      "return_units": 10232.1,
-      "profit_units": -2637.9,
-      "roi": 0.795034965035,
-      "hit_count": 656,
-      "hit_rate": 0.305827505828,
-      "max_drawdown_units": 2786.700000000002,
-      "top1_return_share": 0.009763391679,
-      "top3_return_share": 0.029270628708,
-      "roi_without_top1": 0.787639925373,
-      "roi_without_top3": 0.772844693433,
-      "target_roi": 1.1,
-      "target_roi_research_met": false,
-      "target_roi_met": false,
-      "formal_goal_grade_eligible": false
+    "sleeve_scale2_no_base_press": {
+      "label": "Fixed sleeve scale 2 no-base-press",
+      "race_count": 1068,
+      "stake_units": 24636.0,
+      "return_units": 26167.4,
+      "roi": 1.0621610651079723,
+      "hit_rate": 0.5636704119850188,
+      "average_ticket_count": 12.593632958801498
     }
   },
-  "outputs": {
-    "summary_json": "exports\\girls-trifecta-v2-final-odds-through-20260701\\backtest_all_2145_hit30_ev_cover_public_20260702\\summary.json",
-    "race_summary_csv": "exports\\girls-trifecta-v2-final-odds-through-20260701\\backtest_all_2145_hit30_ev_cover_public_20260702\\race_summary.csv",
-    "selected_ticket_details_csv": "exports\\girls-trifecta-v2-final-odds-through-20260701\\backtest_all_2145_hit30_ev_cover_public_20260702\\selected_ticket_details.csv"
-  }
+  "notes": [
+    "?????prior-month scale/press?????forward-report????????????????",
+    "???????????????????????????????T-5???????????????",
+    "???????/press???prior-month??????????????????????????",
+    "???1????=100??????????dataset?actual_hit/payout_units?????????????????",
+    "ROI110?????????scale2??????????????promotable????????"
+  ]
 }
