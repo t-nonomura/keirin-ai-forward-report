@@ -10,15 +10,15 @@
 <body>
 <header><div class="inner"><h1>ガールズ3連単バックテスト</h1><div class="meta" id="meta">&#x8AAD;&#x307F;&#x8FBC;&#x307F;&#x4E2D;...</div></div></header>
 <main>
-<section class="panel warnbox">final odds を含む研究用検証です。昇格判断では発走前証跡のフォワードテストと分けて扱います。</section>
+<section class="panel warnbox">final odds を含む研究用検証です。正式判定では発走前オッズのforwardテストと分けて扱います。</section>
 <section class="panel"><h2>&#x30B1;&#x30FC;&#x30B9;&#x5207;&#x66FF;</h2><div class="tabs" id="case-tabs"></div><div class="note" id="strategy"></div><div class="cards" id="summary-cards"></div></section>
 <section class="panel"><h2>&#x5206;&#x89E3;&#x8868;&#x793A;</h2><div class="tabs" id="breakdown-tabs"></div><div class="toolbar"><label>&#x4E26;&#x3073;&#x9806;<select id="sort-select"><option value="default">&#x65E2;&#x5B9A;</option><option value="roi">ROI&#x9AD8;&#x3044;&#x9806;</option><option value="race_count">R&#x6570;&#x591A;&#x3044;&#x9806;</option><option value="profit">&#x640D;&#x76CA;&#x9AD8;&#x3044;&#x9806;</option><option value="hit_rate">&#x7684;&#x4E2D;&#x7387;&#x9AD8;&#x3044;&#x9806;</option></select></label><label>&#x6700;&#x5C0F;R&#x6570;<input id="min-races" type="number" min="1" value="1"></label></div><div class="table" id="breakdown-table"><div class="note">&#x8AAD;&#x307F;&#x8FBC;&#x307F;&#x4E2D;...</div></div></section>
 <section class="panel"><h2>&#x65E5;&#x5225;&#x30EC;&#x30FC;&#x30B9;&#x660E;&#x7D30;</h2><div class="note">&#x65E5;&#x5225;&#x30BF;&#x30D6;&#x306E;&#x884C;&#x3092;&#x30AF;&#x30EA;&#x30C3;&#x30AF;&#x3057;&#x3066;&#x3082;&#x5BFE;&#x8C61;&#x65E5;&#x3092;&#x5207;&#x308A;&#x66FF;&#x3048;&#x3089;&#x308C;&#x307E;&#x3059;&#x3002;</div><div class="toolbar one"><label>&#x5BFE;&#x8C61;&#x65E5;<select id="detail-date"></select></label></div><div class="table" id="detail-table"><div class="note">&#x8AAD;&#x307F;&#x8FBC;&#x307F;&#x4E2D;...</div></div></section>
 <section class="panel"><h2>&#x6CE8;&#x8A18;</h2><ul id="notes"></ul></section>
 </main>
 <script>
-const DATA_URL='data/ai_memo_formation_400m.json?v=20260702-girls-trifecta-selector-v2';
-const DEFAULT_CASE_ORDER=['girls_selector_model','ticket_model','hit30','rankadd','segment12','segment_var8','condadd'];
+const DATA_URL='data/ai_memo_formation_400m.json?v=20260702-girls-trifecta-trim-hit32-v1';
+const DEFAULT_CASE_ORDER=['girls_selector_trim_hit32','girls_selector_model','ticket_model','hit30','rankadd','segment12','segment_var8','condadd'];
 const BREAKDOWN_TABS=[
   {id:'month',label:'\u6708\u5225'},
   {id:'week',label:'\u9031\u5225'},
@@ -27,7 +27,7 @@ const BREAKDOWN_TABS=[
   {id:'hour',label:'\u6642\u53f0'},
   {id:'venue',label:'\u30ec\u30fc\u30b9\u5834'}
 ];
-let DATA=null;let caseId='girls_selector_model';let breakdownId='month';let detailDate='';
+let DATA=null;let caseId='girls_selector_trim_hit32';let breakdownId='month';let detailDate='';
 function e(v){return String(v==null?'':v).replace(/[&<>"']/g,function(c){return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c];});}
 function n(v){const x=Number(String(v==null?0:v).replace(/,/g,''));return Number.isFinite(x)?x:0;}
 function yen(u){return Math.round(n(u)*100).toLocaleString('ja-JP')+'\u5186';}
