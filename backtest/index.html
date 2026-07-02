@@ -17,8 +17,8 @@
 <section class="panel"><h2>&#x6CE8;&#x8A18;</h2><ul id="notes"></ul></section>
 </main>
 <script>
-const DATA_URL='data/ai_memo_formation_400m.json?v=20260702-girls-nested-cap18-v1';
-const DEFAULT_CASE_ORDER=['girls_nested_cap18_pool_roi_hit31','girls_hit32_cap18','girls_strategy_top_depthmax_cap18','girls_fixed_cap18','girls_venue_cap18','girls_min80_cap18','girls_score_tie_cap18'];
+const DATA_URL='data/ai_memo_formation_400m.json?v=20260702-girls-frozen-composite-v1';
+const DEFAULT_CASE_ORDER=['gated_roi_cover_composite_market_fallback_market_entropy_le_3p4_and_primary_market_probability_ge_0p0083','roi_cover_market_probability_c5_p36','roi_focus_ev_top1','v1_purchase','market_only_top6_equal','market_only_top1'];
 const BREAKDOWN_TABS=[
   {id:'month',label:'\u6708\u5225'},
   {id:'week',label:'\u9031\u5225'},
@@ -27,7 +27,7 @@ const BREAKDOWN_TABS=[
   {id:'hour',label:'\u6642\u53f0'},
   {id:'venue',label:'\u30ec\u30fc\u30b9\u5834'}
 ];
-let DATA=null;let caseId='girls_nested_cap18_pool_roi_hit31';let breakdownId='month';let detailDate='';
+let DATA=null;let caseId='gated_roi_cover_composite_market_fallback_market_entropy_le_3p4_and_primary_market_probability_ge_0p0083';let breakdownId='month';let detailDate='';
 function e(v){return String(v==null?'':v).replace(/[&<>"']/g,function(c){return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c];});}
 function n(v){const x=Number(String(v==null?0:v).replace(/,/g,''));return Number.isFinite(x)?x:0;}
 function yen(u){return Math.round(n(u)*100).toLocaleString('ja-JP')+'\u5186';}
