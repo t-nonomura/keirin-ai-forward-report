@@ -1,36 +1,36 @@
 {
   "command": "audit-girls-stake-normalization",
-  "race_summary_path": "exports\\forward-tests\\girls_may_loss_guard_20260703\\compound_entropy_ticket_cons\\race_summary.csv",
-  "dataset_path": "exports\\girls-trifecta-v2-final-odds-through-20260701\\girls_trifecta_v2_dataset_roi_focus_through_20260701.csv",
+  "race_summary_path": "exports\\girls-trifecta-segment-safety-switch-public-20260703\\race_summary.csv",
+  "dataset_path": "exports\\girls-trifecta-v2-final-odds-through-20260703\\girls_trifecta_v2_dataset_roi_focus_through_20260703.csv",
   "date_range": "min to max",
   "flat_unit": 1.0,
   "recorded": {
     "race_count": 1068,
-    "stake_units": 9478.0,
-    "return_units": 10890.2,
-    "profit_units": 1412.2000000000007,
-    "roi": 1.1489976788351974,
-    "hit_count": 336,
-    "hit_rate": 0.3146067415730337,
-    "average_ticket_count": 8.874531835205993,
-    "average_stake_units": 8.874531835205993,
-    "top3_return_share": 0.08064131053607831,
-    "roi_without_top3": 1.0590226359213035,
-    "max_drawdown_units": 578.5000000000003
+    "stake_units": 10782.0,
+    "return_units": 12614.0,
+    "profit_units": 1832.0,
+    "roi": 1.1699128176590614,
+    "hit_count": 402,
+    "hit_rate": 0.37640449438202245,
+    "average_ticket_count": 10.095505617977528,
+    "average_stake_units": 10.095505617977528,
+    "top3_return_share": 0.06962105596955764,
+    "roi_without_top3": 1.0908905000929539,
+    "max_drawdown_units": 954.5
   },
   "flat_per_ticket": {
     "race_count": 1068,
-    "stake_units": 9478.0,
-    "return_units": 10890.2,
-    "profit_units": 1412.2000000000007,
-    "roi": 1.1489976788351974,
-    "hit_count": 336,
-    "hit_rate": 0.3146067415730337,
-    "average_ticket_count": 8.874531835205993,
-    "average_stake_units": 8.874531835205993,
-    "top3_return_share": 0.08064131053607831,
-    "roi_without_top3": 1.0590226359213035,
-    "max_drawdown_units": 578.5000000000003
+    "stake_units": 10782.0,
+    "return_units": 12614.0,
+    "profit_units": 1832.0,
+    "roi": 1.1699128176590614,
+    "hit_count": 402,
+    "hit_rate": 0.37640449438202245,
+    "average_ticket_count": 10.095505617977528,
+    "average_stake_units": 10.095505617977528,
+    "top3_return_share": 0.06962105596955764,
+    "roi_without_top3": 1.0908905000929539,
+    "max_drawdown_units": 954.5
   },
   "settlement_audit": {
     "recorded_return_error_count": 0,
@@ -40,7 +40,9 @@
     "sample_actual_metadata_errors": []
   },
   "source_strategy_counts": {
-    "": 1068
+    "primary_cold_start": 180,
+    "primary": 573,
+    "defensive_segment_switch": 315
   },
   "gate_pass_counts": {
     "": 1068
