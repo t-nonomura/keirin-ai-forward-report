@@ -29,7 +29,7 @@
   "month_count": 7,
   "defensive_switch_race_count": 315,
   "leakage_note": "For each evaluated month, segment cutpoints and switch triggers are computed only from races in earlier months. Current-month returns are used only after tickets are selected.",
-  "strategy": "Girls trifecta v2: segment safety switch / all-race buy / 6-18 tickets / flat 100 yen per selected ticket / final-odds research",
+  "strategy": "ガールズ3連単 v2 / 全レース購入 / 6-18点目安 / 選択買い目を各100円で平買い / 最終オッズ研究検証",
   "odds_policy_status": "final_odds_research_only",
   "input_path": "exports\\girls-trifecta-v2-final-odds-through-20260703\\girls_trifecta_v2_dataset_roi_focus_through_20260703.csv",
   "highlight_case": "segment_safety_switch_research_v0",
@@ -37,12 +37,19 @@
     "segment_safety_switch_research_v0"
   ],
   "case_labels": {
-    "segment_safety_switch_research_v0": "????3?? v2 ?????????????????"
+    "segment_safety_switch_research_v0": "ガールズ3連単 v2 セグメント安全切替（研究候補）"
   },
   "notes": [
-    "?????????????????????T-5/T-10???forward-grade????????????",
-    "??????????????????????????????????????????????????",
-    "????????1?100????????????????????1??????????????",
-    "For each evaluated month, segment cutpoints and switch triggers are computed only from races in earlier months. Current-month returns are used only after tickets are selected."
-  ]
+    "For each evaluated month, segment cutpoints and switch triggers are computed only from races in earlier months. Current-month returns are used only after tickets are selected.",
+    "公開forward-reportのバックテスト表示に合わせ、ケース比較、月別/週別/日別/場別の内訳、日別レース詳細を出力しています。",
+    "払い戻しは選択買い目1点100円の平買いとして補正済みです。的中時は selected_ticket_details.payout_units の配当額だけを返戻に使い、stake倍率で二重計上しません。",
+    "今回はユーザー指定により最終オッズで検証しています。T-5/T-10の正式forward判定とは分けて扱います。",
+    "投資額、払戻額、損益は 1 unit = 100円で表示しています。"
+  ],
+  "settlement_audit": {
+    "error_count": 0,
+    "audited_race_count": 1068,
+    "skipped_missing_details": 0,
+    "sample_errors": []
+  }
 }
