@@ -1,20 +1,48 @@
 {
-  "command": "walkforward-girls-segment-safety-switch",
-  "primary_race_summary_path": "exports\\forward-tests\\girls_nested_selector_valid_grid_audited_20260703\\950_venue_cap18_r360_h0p32_roi_dd0p0_rw0p0\\race_summary.csv",
-  "defensive_race_summary_path": "exports\\forward-tests\\girls_pre_roll_locked_max_press_20260703\\risk_guard_20260703\\entropy18_overlay_s3_full_start202510_unseen\\race_summary.csv",
-  "dataset_path": "exports\\girls-trifecta-v2-final-odds-through-20260703\\girls_trifecta_v2_dataset_roi_focus_through_20260703.csv",
-  "train_from_month": "2026-01",
-  "start_month": "2026-02",
-  "segment_fields": [
-    "girls_field_top_point_gap",
-    "race_margin_chaos_score",
-    "girls_market_entropy",
-    "girls_market_top_probability"
+  "command": "public-girls-backtest-upload",
+  "strategy": "Girls trifecta v2: public forward-report comparison / final-odds research",
+  "odds_policy_status": "final_odds_research_only",
+  "input_path": "exports/girls-trifecta-v2-final-odds-through-20260703/girls_trifecta_v2_dataset_roi_focus_through_20260703.csv",
+  "highlight_case": "segment_safety_switch_research_v0",
+  "case_order": [
+    "segment_safety_switch_research_v0",
+    "exact_switch_with_entropy18_missing_source_fallback_flat"
   ],
-  "min_train_races": 60,
-  "hit_delta": 0.1,
-  "min_defensive_roi": 0.95,
-  "max_primary_hit_rate": 0.3,
+  "case_summaries": {
+    "segment_safety_switch_research_v0": {
+      "race_count": 1068,
+      "stake_units": 10782.0,
+      "return_units": 12614.0,
+      "profit_units": 1832.0,
+      "roi": 1.1699128176590614,
+      "hit_rate": 0.37640449438202245,
+      "average_ticket_count": 10.095505617977528,
+      "top3_return_share": 0.06962105596955764,
+      "roi_without_top3": 1.0908905000929539
+    },
+    "exact_switch_with_entropy18_missing_source_fallback_flat": {
+      "race_count": 1080,
+      "stake_units": 10984.0,
+      "return_units": 12747.8,
+      "profit_units": 1763.8,
+      "roi": 1.1605790240349598,
+      "hit_rate": 0.37962962962962965,
+      "average_ticket_count": 10.170370370370371,
+      "top3_return_share": 0.06889031832943725,
+      "roi_without_top3": 1.0829927007299267
+    }
+  },
+  "notes": [
+    "Rendered in the same forward-report style: case comparison, month/week/day/venue breakdowns, and daily race details.",
+    "Settlement is corrected as flat 100 yen per selected ticket. Hit returns use payout_units once and do not multiply by stake again.",
+    "Final odds are used for this research report by user request; this is separate from a T-5/T-10 formal forward-grade verdict.",
+    "Main case: segment safety switch through 2026-07-01. Monthly switch rules are selected only from prior-month races.",
+    "For each evaluated month, segment cutpoints and switch triggers are computed only from races in earlier months. Current-month returns are used only after tickets are selected.",
+    "Reference case: 12 missing races on 2026-07-02 and 2026-07-03 are filled by the entropy18 fallback source. Source choice is priority-based, not outcome-based.",
+    "For each race this helper uses the first source in CLI order that has preselected tickets. Actual outcomes are used only to settle those already-selected tickets."
+  ],
+  "period": "2026-01-01 to 2026-07-03",
+  "generated_at": "2026-07-04T01:53:11+09:00",
   "race_count": 1068,
   "stake_units": 10782.0,
   "return_units": 12614.0,
@@ -25,30 +53,10 @@
   "ticket_count": 10782,
   "average_ticket_count": 10.095505617977528,
   "top3_return_share": 0.06962105596955764,
-  "roi_without_top3": 1.088462251901317,
-  "month_count": 7,
-  "defensive_switch_race_count": 315,
-  "leakage_note": "For each evaluated month, segment cutpoints and switch triggers are computed only from races in earlier months. Current-month returns are used only after tickets are selected.",
-  "strategy": "ガールズ3連単 v2 / 全レース購入 / 6-18点目安 / 選択買い目を各100円で平買い / 最終オッズ研究検証",
-  "odds_policy_status": "final_odds_research_only",
-  "input_path": "exports\\girls-trifecta-v2-final-odds-through-20260703\\girls_trifecta_v2_dataset_roi_focus_through_20260703.csv",
-  "highlight_case": "segment_safety_switch_research_v0",
-  "case_order": [
-    "segment_safety_switch_research_v0"
-  ],
-  "case_labels": {
-    "segment_safety_switch_research_v0": "ガールズ3連単 v2 セグメント安全切替（研究候補）"
-  },
-  "notes": [
-    "For each evaluated month, segment cutpoints and switch triggers are computed only from races in earlier months. Current-month returns are used only after tickets are selected.",
-    "公開forward-reportのバックテスト表示に合わせ、ケース比較、月別/週別/日別/場別の内訳、日別レース詳細を出力しています。",
-    "払い戻しは選択買い目1点100円の平買いとして補正済みです。的中時は selected_ticket_details.payout_units の配当額だけを返戻に使い、stake倍率で二重計上しません。",
-    "今回はユーザー指定により最終オッズで検証しています。T-5/T-10の正式forward判定とは分けて扱います。",
-    "投資額、払戻額、損益は 1 unit = 100円で表示しています。"
-  ],
+  "roi_without_top3": 1.0908905000929539,
   "settlement_audit": {
     "error_count": 0,
-    "audited_race_count": 1068,
+    "audited_race_count": 2148,
     "skipped_missing_details": 0,
     "sample_errors": []
   }
