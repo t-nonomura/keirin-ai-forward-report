@@ -1,140 +1,217 @@
 {
-  "command": "build-public-girls-pre-roll-cap-press-report-input",
-  "generated_at": "2026-07-03T06:06:15+09:00",
-  "odds_policy_status": "final_odds_research_only",
-  "period": "2026-01-01 to 2026-07-01",
-  "highlight_case": "pre_roll_cap15_overlay_s3",
-  "case_order": [
-    "pre_roll_cap15_overlay_s3",
-    "pre_roll_cap10_overlay_s25",
-    "pre_roll_cap12_overlay_s2",
-    "entropy_q3_profit_selector"
+  "command": "resettle-existing-wf-stake-risk-guard-with-ticket-payouts",
+  "source_race_summary": "exports\\forward-tests\\girls_pre_roll_locked_max_press_20260703\\risk_guard_20260703\\wf_cap15_train0_roi_floor_min1_through_20260702\\race_summary.csv",
+  "source_selected_ticket_details": "exports\\forward-tests\\girls_pre_roll_locked_max_press_20260703\\risk_guard_20260703\\cap15_overlay_s3_full_start202510_through_20260702\\selected_ticket_details.csv",
+  "output_dir": "exports\\forward-tests\\girls_pre_roll_locked_max_press_20260703\\risk_guard_20260703\\wf_cap15_train0_roi_floor_min1_through_20260702_payout_fixed_fast",
+  "generated_at": "2026-07-03T11:07:13+09:00",
+  "settlement_fix": "Recomputed return_units from selected_ticket_details.payout_units multiplied by guarded stake_units. selected_odds is not used for settlement.",
+  "changed_return_race_count": 49,
+  "sample_changed_returns": [
+    {
+      "race_id": "20260101-83-01",
+      "old_return_units": 17.5,
+      "fixed_return_units": 8.9
+    },
+    {
+      "race_id": "20260204-61-02",
+      "old_return_units": 2.0,
+      "fixed_return_units": 20.0
+    },
+    {
+      "race_id": "20260207-22-02",
+      "old_return_units": 3.0,
+      "fixed_return_units": 30.0
+    },
+    {
+      "race_id": "20260211-74-06",
+      "old_return_units": 2.0,
+      "fixed_return_units": 20.0
+    },
+    {
+      "race_id": "20260216-42-01",
+      "old_return_units": 29.0,
+      "fixed_return_units": 290.0
+    },
+    {
+      "race_id": "20260218-74-02",
+      "old_return_units": 34.0,
+      "fixed_return_units": 14.5
+    },
+    {
+      "race_id": "20260219-81-08",
+      "old_return_units": 1680.2,
+      "fixed_return_units": 748.3000000000001
+    },
+    {
+      "race_id": "20260225-23-05",
+      "old_return_units": 1.0,
+      "fixed_return_units": 10.0
+    },
+    {
+      "race_id": "20260310-45-02",
+      "old_return_units": 4.0,
+      "fixed_return_units": 40.0
+    },
+    {
+      "race_id": "20260330-28-09",
+      "old_return_units": 13.9,
+      "fixed_return_units": 6.800000000000001
+    }
   ],
-  "case_labels": {
-    "pre_roll_cap15_overlay_s3": "Pre-roll cap15 + sleeve x3",
-    "pre_roll_cap10_overlay_s25": "Pre-roll cap10 + sleeve x2.5",
-    "pre_roll_cap12_overlay_s2": "Pre-roll cap12 + sleeve x2",
-    "entropy_q3_profit_selector": "Prior-month scale/press selector"
+  "overall": {
+    "race_count": 1074,
+    "stake_units": 31430.0,
+    "return_units": 37482.7,
+    "profit_units": 6052.7,
+    "roi": 1.1925771555838365,
+    "hit_count": 658,
+    "hit_rate": 0.6126629422718808,
+    "average_ticket_count": 14.572625698324023,
+    "average_stake_units": 29.26443202979516,
+    "selected_count_min": 12,
+    "selected_count_max": 18,
+    "top3_return_share": 0.14360491640143327,
+    "roi_without_top3": 1.0245443809645394,
+    "max_drawdown_units": 2470.2999999999997
   },
-  "cases": {
-    "pre_roll_cap15_overlay_s3": {
-      "command": "build-girls-strategy-union",
-      "dataset_path": "exports\\girls-trifecta-v2-final-odds-through-20260701\\girls_trifecta_v2_dataset_roi_focus_through_20260701.csv",
-      "strategy_name": "pre_roll_cap15_overlay_s3",
-      "sources": {
-        "base": "exports\\forward-tests\\girls_pre_roll_locked_max_press_20260703\\entropy_q3_cap15_base\\race_summary.csv",
-        "sleeve": "exports\\forward-tests\\girls_weighted_overlay_preroll_20260703\\market_q2_sleeve_start202510\\race_summary.csv"
-      },
-      "source_sequence": [
-        "base",
-        "sleeve"
-      ],
-      "source_weights": {
-        "base": 1.0,
-        "sleeve": 3.0
-      },
-      "stake_mode": "source",
-      "start_date": "2026-01-01",
-      "min_count": 6,
-      "max_count": 18,
-      "race_count": 1068,
-      "stake_units": 35718.0,
-      "return_units": 40079.4,
-      "profit_units": 4361.4,
-      "roi": 1.122106500923903,
-      "hit_count": 655,
-      "hit_rate": 0.6132958801498127,
-      "average_ticket_count": 14.568352059925093,
-      "average_stake_units": 33.443820224719104,
+  "month_rows": [
+    {
+      "month": "2026-01",
+      "race_count": 180,
+      "stake_units": 5248.0,
+      "return_units": 4403.2,
+      "profit_units": -844.8,
+      "roi": 0.8390243902439026,
+      "hit_count": 106,
+      "hit_rate": 0.5888888888888889,
+      "average_ticket_count": 14.8,
+      "average_stake_units": 29.155555555555555,
       "selected_count_min": 12,
       "selected_count_max": 18,
-      "top3_return_share": 0.13430091268831382,
-      "roi_without_top3": 0.9741065161851812
+      "top3_return_share": 0.5406295421511627,
+      "roi_without_top3": 0.39169248644461674,
+      "max_drawdown_units": 2470.2999999999997
     },
-    "pre_roll_cap10_overlay_s25": {
-      "command": "build-girls-strategy-union",
-      "dataset_path": "exports\\girls-trifecta-v2-final-odds-through-20260701\\girls_trifecta_v2_dataset_roi_focus_through_20260701.csv",
-      "strategy_name": "pre_roll_cap10_overlay_s25",
-      "sources": {
-        "base": "exports\\forward-tests\\girls_pre_roll_locked_max_press_20260703\\entropy_q3_cap10_base\\race_summary.csv",
-        "sleeve": "exports\\forward-tests\\girls_weighted_overlay_preroll_20260703\\market_q2_sleeve_start202510\\race_summary.csv"
-      },
-      "source_sequence": [
-        "base",
-        "sleeve"
-      ],
-      "source_weights": {
-        "base": 1.0,
-        "sleeve": 2.5
-      },
-      "stake_mode": "source",
-      "start_date": "2026-01-01",
-      "min_count": 6,
-      "max_count": 18,
-      "race_count": 1068,
-      "stake_units": 27945.0,
-      "return_units": 31271.45,
-      "profit_units": 3326.45,
-      "roi": 1.1190356056539636,
-      "hit_count": 571,
-      "hit_rate": 0.5346441947565543,
-      "average_ticket_count": 10.814606741573034,
-      "average_stake_units": 26.165730337078653,
-      "selected_count_min": 10,
-      "selected_count_max": 14,
-      "top3_return_share": 0.14495010624707194,
-      "roi_without_top3": 0.9594061715105853
-    },
-    "pre_roll_cap12_overlay_s2": {
-      "command": "build-girls-strategy-union",
-      "dataset_path": "exports\\girls-trifecta-v2-final-odds-through-20260701\\girls_trifecta_v2_dataset_roi_focus_through_20260701.csv",
-      "strategy_name": "pre_roll_cap12_overlay_s2",
-      "sources": {
-        "base": "exports\\forward-tests\\girls_top12_variant_preroll_20260703\\entropy_q3_cap12\\race_summary.csv",
-        "sleeve": "exports\\forward-tests\\girls_cap12_public_strategy_selector_20260703\\market_q2_roi\\race_summary.csv"
-      },
-      "source_sequence": [
-        "base",
-        "sleeve"
-      ],
-      "source_weights": {
-        "base": 1.0,
-        "sleeve": 2.0
-      },
-      "stake_mode": "source",
-      "start_date": "2026-01-01",
-      "min_count": 6,
-      "max_count": 18,
-      "race_count": 1068,
-      "stake_units": 26628.0,
-      "return_units": 29406.0,
-      "profit_units": 2778.0,
-      "roi": 1.104326273095989,
-      "hit_count": 602,
-      "hit_rate": 0.5636704119850188,
-      "average_ticket_count": 12.593632958801498,
-      "average_stake_units": 24.93258426966292,
+    {
+      "month": "2026-02",
+      "race_count": 176,
+      "stake_units": 5042.0,
+      "return_units": 7756.3,
+      "profit_units": 2714.3,
+      "roi": 1.5383379611265373,
+      "hit_count": 112,
+      "hit_rate": 0.6363636363636364,
+      "average_ticket_count": 14.590909090909092,
+      "average_stake_units": 28.647727272727273,
       "selected_count_min": 12,
       "selected_count_max": 16,
-      "top3_return_share": 0.12524314765694075,
-      "roi_without_top3": 0.9686360897725561
+      "top3_return_share": 0.5915062594278199,
+      "roi_without_top3": 0.6409872547036216,
+      "max_drawdown_units": 1128.2000000000003
     },
-    "entropy_q3_profit_selector": {
-      "label": "Prior-month scale/press selector (entropy_q3_profit)",
-      "race_count": 1068,
-      "stake_units": 22128.0,
-      "return_units": 24063.4,
-      "roi": 1.0874638467100506,
-      "hit_rate": 0.5617977528089888,
-      "average_ticket_count": 12.425093632958802
+    {
+      "month": "2026-03",
+      "race_count": 184,
+      "stake_units": 5103.0,
+      "return_units": 7154.9,
+      "profit_units": 2051.9,
+      "roi": 1.4020968058005099,
+      "hit_count": 125,
+      "hit_rate": 0.6793478260869565,
+      "average_ticket_count": 14.684782608695652,
+      "average_stake_units": 27.733695652173914,
+      "selected_count_min": 12,
+      "selected_count_max": 16,
+      "top3_return_share": 0.6993389145900012,
+      "roi_without_top3": 0.42989608313349337,
+      "max_drawdown_units": 1408.9
+    },
+    {
+      "month": "2026-04",
+      "race_count": 169,
+      "stake_units": 4736.0,
+      "return_units": 4108.5,
+      "profit_units": -627.5,
+      "roi": 0.8675042229729728,
+      "hit_count": 100,
+      "hit_rate": 0.591715976331361,
+      "average_ticket_count": 14.414201183431953,
+      "average_stake_units": 28.023668639053255,
+      "selected_count_min": 12,
+      "selected_count_max": 16,
+      "top3_return_share": 0.5506632590969942,
+      "roi_without_top3": 0.39795214485880553,
+      "max_drawdown_units": 2020.9999999999998
+    },
+    {
+      "month": "2026-05",
+      "race_count": 205,
+      "stake_units": 6497.0,
+      "return_units": 8491.9,
+      "profit_units": 1994.9,
+      "roi": 1.3070494074188086,
+      "hit_count": 131,
+      "hit_rate": 0.6390243902439025,
+      "average_ticket_count": 14.673170731707318,
+      "average_stake_units": 31.692682926829267,
+      "selected_count_min": 12,
+      "selected_count_max": 16,
+      "top3_return_share": 0.5475806356645745,
+      "roi_without_top3": 0.600203093266677,
+      "max_drawdown_units": 914.3000000000002
+    },
+    {
+      "month": "2026-06",
+      "race_count": 152,
+      "stake_units": 4593.0,
+      "return_units": 5474.3,
+      "profit_units": 881.3,
+      "roi": 1.1918789462225121,
+      "hit_count": 79,
+      "hit_rate": 0.5197368421052632,
+      "average_ticket_count": 14.131578947368421,
+      "average_stake_units": 30.217105263157894,
+      "selected_count_min": 12,
+      "selected_count_max": 16,
+      "top3_return_share": 0.5620444623056831,
+      "roi_without_top3": 0.5388851427287028,
+      "max_drawdown_units": 874.9999999999997
+    },
+    {
+      "month": "2026-07",
+      "race_count": 8,
+      "stake_units": 211.0,
+      "return_units": 93.6,
+      "profit_units": -117.4,
+      "roi": 0.4436018957345972,
+      "hit_count": 5,
+      "hit_rate": 0.625,
+      "average_ticket_count": 15.625,
+      "average_stake_units": 26.375,
+      "selected_count_min": 12,
+      "selected_count_max": 17,
+      "top3_return_share": 0.905982905982906,
+      "roi_without_top3": 0.06821705426356586,
+      "max_drawdown_units": 117.39999999999998
     }
-  },
-  "notes": [
-    "Ticket count is kept in the 6-18 range; stake is source-weighted press, so this is not fixed 6 units per race.",
-    "Final-odds research snapshot; not a formal T-5 forward-grade result.",
-    "Selected-ticket details are regenerated from fixed tickets and settled after selection.",
-    "1 unit = 100 yen. Return units are stake-weighted from payout_units.",
-    "cap15/cap10 are pre-roll locked grid selections, but still research-only due to final odds and top-return dependence."
   ],
-  "strategy": "Girls trifecta: always-buy / pre-roll cap + sleeve press / final-odds research"
+  "target_roi110_met_research": true,
+  "formal_goal_grade_eligible": false,
+  "odds_policy_status": "final_odds_research_only",
+  "period": "2026-01-01 to 2026-07-02",
+  "highlight_case": "pre_roll_cap15_overlay_s3_full_through_20260702",
+  "case_order": [
+    "pre_roll_cap15_overlay_s3_full_through_20260702"
+  ],
+  "case_labels": {
+    "pre_roll_cap15_overlay_s3_full_through_20260702": "WF stake-risk guard: cap15 + sleeve x3 (payout fixed)"
+  },
+  "strategy": "Girls trifecta: all-race buy / cap15 + sleeve x3 / non-400m stake-risk guard / final-odds research",
+  "notes": [
+    "?????????????????????12?18???????source-weighted press???100?????????????",
+    "?400m????0.25?????? floor-min1 ?????????????????????????T-5 forward??????????",
+    "???? selected_ticket_details.payout_units ? stake_units ?????????selected_odds ?????????????????????",
+    "??????49??????????????2026-05-09 ??6R???80.7unit???18unit?????1452.6unit???",
+    "2026-07-02??6R?ROI 0.345??????????ROI????????????????????????"
+  ]
 }
