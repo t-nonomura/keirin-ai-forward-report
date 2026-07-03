@@ -1,6 +1,6 @@
 # ガールズ3連単バックテスト
 
-期間: 2026-01-01 to 2026-07-02 / 生成: 2026-07-03T11:35:28+09:00
+期間: 2026-01-01 to 2026-07-02 / 生成: 2026-07-03T11:52:15+09:00
 
 Girls trifecta: all-race buy / cap15 + sleeve x3 / top3-dependency constrained walk-forward guard / final-odds research
 
