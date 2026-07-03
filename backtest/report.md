@@ -1,6 +1,6 @@
 # ガールズ3連単バックテスト
 
-期間: 2026-01-01 to 2026-07-01 / 生成: 2026-07-03T06:09:46+09:00
+期間: 2026-01-01 to 2026-07-01 / 生成: 2026-07-03T09:13:11+09:00
 
 Girls trifecta: always-buy / pre-roll cap + sleeve press / final-odds research
 
@@ -32,7 +32,7 @@ Girls trifecta: always-buy / pre-roll cap + sleeve press / final-odds research
 - Selected-ticket details are regenerated from fixed tickets and settled after selection.
 - 1 unit = 100 yen. Return units are stake-weighted from payout_units.
 - cap15/cap10 are pre-roll locked grid selections, but still research-only due to final odds and top-return dependence.
-- 公開forward-reportのバックテスト表示に近いカード・分解表・日別明細形式です。
-- 今回はユーザー指定により最終オッズで検証しています。発走前T-5/T-10の正式forward判定とは分けて扱います。
-- 投資額・払戻額・損益は1ユニット=100円換算です。
-- CSV内のレース場名はrace_idの場コードから復元しています。
+- 公開 forward-report のバックテスト表示に近いカード・内訳表・日別明細形式で出力しています。
+- 今回はユーザー指定により最終オッズで検証しています。T-5/T-10 の正式 forward 判定とは分けて扱います。
+- 投資額・払戻額・損益は 1 unit = 100円で換算しています。
+- 場名は race_id の場コードから復元しています。
