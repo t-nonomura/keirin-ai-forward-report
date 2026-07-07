@@ -42,7 +42,7 @@
     "For each race this helper uses the first source in CLI order that has preselected tickets. Actual outcomes are used only to settle those already-selected tickets."
   ],
   "period": "2026-01-01 to 2026-07-03",
-  "generated_at": "2026-07-04T01:53:11+09:00",
+  "generated_at": "2026-07-07T16:40:07+09:00",
   "race_count": 1068,
   "stake_units": 10782.0,
   "return_units": 12614.0,
