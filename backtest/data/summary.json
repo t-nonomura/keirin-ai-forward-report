@@ -1,63 +1,74 @@
 {
   "command": "public-girls-backtest-upload",
-  "strategy": "Girls trifecta v2: public forward-report comparison / final-odds research",
+  "primary_race_summary_path": "exports\\forward-tests\\girls_nested_selector_valid_grid_audited_20260703\\950_venue_cap18_r360_h0p32_roi_dd0p0_rw0p0\\race_summary.csv",
+  "defensive_race_summary_path": "exports\\forward-tests\\girls_compound_freeze_future_20260707\\through_20260707\\cap15_overlay_s3_full_start202510_through_20260707\\race_summary.csv",
+  "dataset_path": "exports\\girls_roi110_gate_20260707\\frozen_future_validation_20260704_20260707_resolved20\\girls_trifecta_v2_dataset_through_20260707_resolved20_safe_append.csv",
+  "date_from": "2026-01-01",
+  "date_to": "2026-07-07",
+  "train_from_month": "2026-01",
+  "start_month": "2026-02",
+  "asof_label": "final",
   "odds_policy_status": "final_odds_research_only",
-  "input_path": "exports/girls-trifecta-v2-final-odds-through-20260703/girls_trifecta_v2_dataset_roi_focus_through_20260703.csv",
-  "highlight_case": "segment_safety_switch_research_v0",
-  "case_order": [
-    "segment_safety_switch_research_v0",
-    "exact_switch_with_entropy18_missing_source_fallback_flat"
+  "segment_fields": [
+    "girls_field_top_point_gap",
+    "race_margin_chaos_score",
+    "girls_market_entropy",
+    "girls_market_top_probability"
   ],
+  "min_train_races": 60,
+  "hit_delta": 0.1,
+  "min_defensive_roi": 0.95,
+  "max_primary_hit_rate": 0.3,
+  "coverage_fallback": "defensive",
+  "primary_source_race_count": 1068,
+  "defensive_source_race_count": 1100,
+  "common_source_race_count": 1068,
+  "primary_missing_race_count": 32,
+  "defensive_missing_race_count": 0,
+  "race_count": 1100,
+  "stake_units": 12102.0,
+  "return_units": 13763.199999999993,
+  "profit_units": 1661.1999999999935,
+  "roi": 1.137266567509502,
+  "hit_count": 478,
+  "hit_rate": 0.43454545454545457,
+  "ticket_count": 12102,
+  "average_ticket_count": 11.001818181818182,
+  "top3_return_share": 0.0638078353871193,
+  "roi_without_top3": 1.0668156979632382,
+  "month_count": 7,
+  "defensive_switch_race_count": 508,
+  "defensive_coverage_fallback_race_count": 32,
+  "leakage_note": "For each evaluated month, segment cutpoints and switch triggers are computed only from races in earlier months where both primary and defensive sources exist. Coverage fallback, when enabled, uses defensive tickets only for races missing from primary before outcomes are inspected. Current-month returns are used only after tickets are selected.",
+  "strategy": "Girls trifecta v2: segment safety switch / all-race buy / 6-18 tickets / flat 100 yen per selected ticket / final-odds research",
+  "input_path": "exports\\girls_roi110_gate_20260707\\frozen_future_validation_20260704_20260707_resolved20\\girls_trifecta_v2_dataset_through_20260707_resolved20_safe_append.csv",
+  "highlight_case": "coverage_switch_to0707_month_audit",
+  "case_order": [
+    "coverage_switch_to0707_month_audit"
+  ],
+  "case_labels": {
+    "coverage_switch_to0707_month_audit": "ガールズ3連単 v2 セグメント安全切替（7/7まで・研究）"
+  },
   "case_summaries": {
-    "segment_safety_switch_research_v0": {
-      "race_count": 1068,
-      "stake_units": 10782.0,
-      "return_units": 12614.0,
-      "profit_units": 1832.0,
-      "roi": 1.1699128176590614,
-      "hit_rate": 0.37640449438202245,
-      "average_ticket_count": 10.095505617977528,
-      "top3_return_share": 0.06962105596955764,
-      "roi_without_top3": 1.0908905000929539
-    },
-    "exact_switch_with_entropy18_missing_source_fallback_flat": {
-      "race_count": 1080,
-      "stake_units": 10984.0,
-      "return_units": 12747.8,
-      "profit_units": 1763.8,
-      "roi": 1.1605790240349598,
-      "hit_rate": 0.37962962962962965,
-      "average_ticket_count": 10.170370370370371,
-      "top3_return_share": 0.06889031832943725,
-      "roi_without_top3": 1.0829927007299267
+    "coverage_switch_to0707_month_audit": {
+      "race_count": 1100,
+      "stake_units": 12102.0,
+      "return_units": 13763.199999999993,
+      "profit_units": 1661.1999999999935,
+      "roi": 1.137266567509502,
+      "hit_rate": 0.43454545454545457,
+      "average_ticket_count": 11.001818181818182,
+      "top3_return_share": 0.0638078353871193,
+      "roi_without_top3": 1.0668156979632382
     }
   },
   "notes": [
     "Rendered in the same forward-report style: case comparison, month/week/day/venue breakdowns, and daily race details.",
-    "Settlement is corrected as flat 100 yen per selected ticket. Hit returns use payout_units once and do not multiply by stake again.",
+    "Settlement is corrected as flat 100 yen per selected ticket. Hit returns use selected_ticket_details.payout_units once and do not multiply by stake again.",
     "Final odds are used for this research report by user request; this is separate from a T-5/T-10 formal forward-grade verdict.",
-    "Main case: segment safety switch through 2026-07-01. Monthly switch rules are selected only from prior-month races.",
-    "For each evaluated month, segment cutpoints and switch triggers are computed only from races in earlier months. Current-month returns are used only after tickets are selected.",
-    "Reference case: 12 missing races on 2026-07-02 and 2026-07-03 are filled by the entropy18 fallback source. Source choice is priority-based, not outcome-based.",
-    "For each race this helper uses the first source in CLI order that has preselected tickets. Actual outcomes are used only to settle those already-selected tickets."
-  ],
-  "period": "2026-01-01 to 2026-07-03",
-  "generated_at": "2026-07-07T16:40:07+09:00",
-  "race_count": 1068,
-  "stake_units": 10782.0,
-  "return_units": 12614.0,
-  "profit_units": 1832.0,
-  "roi": 1.1699128176590614,
-  "hit_count": 402,
-  "hit_rate": 0.37640449438202245,
-  "ticket_count": 10782,
-  "average_ticket_count": 10.095505617977528,
-  "top3_return_share": 0.06962105596955764,
-  "roi_without_top3": 1.0908905000929539,
-  "settlement_audit": {
-    "error_count": 0,
-    "audited_race_count": 2148,
-    "skipped_missing_details": 0,
-    "sample_errors": []
-  }
+    "Scope: all girls races from 2026-01-01 through 2026-07-07, always buy, 6-18 selected tickets.",
+    "Monthly segment switches are derived only from prior-month races; current-month outcomes are used only after tickets are selected.",
+    "After 2026-07-04, missing primary coverage is filled by defensive_coverage_fallback, so the newest slice remains a stability-audit target.",
+    "For each evaluated month, segment cutpoints and switch triggers are computed only from races in earlier months where both primary and defensive sources exist. Coverage fallback, when enabled, uses defensive tickets only for races missing from primary before outcomes are inspected. Current-month returns are used only after tickets are selected."
+  ]
 }
