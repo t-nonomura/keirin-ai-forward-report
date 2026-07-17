@@ -1,6 +1,6 @@
 # ガールズ3連単バックテスト
 
-期間: 2026-01-01 to 2026-07-07 / 生成: 2026-07-17T16:12:47+09:00
+期間: 2026-01-01 to 2026-07-07 / 生成: 2026-07-17T16:54:21+09:00
 
 ガールズ3連単 v2 / 全ガールズ毎レース購入 / 6-18点目安 / 選択買い目を各100円で平買い / 最終オッズ研究検証
 
@@ -31,7 +31,7 @@
 - The displayed candidate is the current core ticket model gate best: keep60/prob/source-count fill after 40-80 and 5-20 gate stages.
 - Strict research gate note: overall ROI and hit-rate pass the current target, while high-odds-hit-excluded ROI remains below 1.00 and is still under audit.
 - 公開forward-reportのバックテスト表示に合わせ、ケース比較、月別/週別/日別/場別の内訳、日別レース詳細を出力しています。
-- 払い戻しは選択買い目1点100円の平買いとして補正済みです。的中時は selected_ticket_details.payout_units の配当額だけを返戻に使い、stake倍で二重計上しません。
+- 払い戻しは選択買い目1点100円の平買いとして補正済みです。的中時は selected_ticket_details.payout_units の配当額だけを返戻に使い、stake倍率で二重計上しません。
 - 今回はユーザー指定により最終オッズで検証しています。T-5/T-10の正式forward判定とは分けて扱います。
 - 投資額、払戻額、損益は 1 unit = 100円で表示しています。
 - 精算監査: error_count=0, audited_race_count=1100
