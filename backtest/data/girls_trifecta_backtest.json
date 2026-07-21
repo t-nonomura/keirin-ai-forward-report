@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-21T20:41:00+09:00",
+  "generated_at": "2026-07-22T01:48:57+09:00",
   "period": "2026-01-01 to 2026-07-07",
   "odds_basis": "final_odds_research_only",
   "strategy": "Girls trifecta v2 / all girls races / 6-18 tickets / flat 100 yen per selected ticket / final-odds research",
@@ -73642,7 +73642,7 @@
     "Latest displayed candidate: core bucket replacement, then high-odds condition gate return_guard_trim.",
     "Strict gate note: overall ROI 1.148 and hit-rate 35.9% pass, but high-odds-hit return share 20.8% and ROI excluding high-odds hit returns 0.909 remain under target.",
     "公開forward-reportのバックテスト表示に合わせ、ケース比較、月別/週別/日別/場別の内訳、日別レース詳細を出力しています。",
-    "払い戻しは選択買い目1点100円の平買いとして補正済みです。的中時は selected_ticket_details.payout_units の配当額だけを返戻に使い、stake倍率で二重計上しません。",
+    "払い戻しは選択買い目1点100円の平買いとして補正済みです。的中時は selected_ticket_details.payout_units の配当額だけを返戻に使い、stake倍や選択点数倍で二重計上しません。",
     "今回はユーザー指定により最終オッズで検証しています。T-5/T-10の正式forward判定とは分けて扱います。",
     "投資額、払戻額、損益は 1 unit = 100円で表示しています。"
   ]
