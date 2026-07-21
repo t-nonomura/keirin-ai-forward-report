@@ -1,36 +1,53 @@
 {
   "command": "audit-girls-stake-normalization",
-  "race_summary_path": "exports\\girls-trifecta-public-backtest-upload-20260715-core-ticket-model-gate\\race_summary.csv",
-  "dataset_path": "exports\\girls_roi110_gate_20260707\\frozen_future_validation_20260704_20260707_resolved20\\girls_trifecta_v2_dataset_through_20260707_resolved20_safe_append.csv",
+  "race_summary_path": "exports\\girls_nonhigh_core_probe_20260721\\trimmed_bucket_then_high_trim\\candidates\\wf_high_odds_condition_gate_return_guard_trim\\race_summary.csv",
+  "dataset_path": "exports\\girls_roi110_gate_20260707\\frozen_future_validation_after_20260707\\girls_trifecta_v2_dataset_through_20260716_safe_append.csv",
   "date_range": "2026-01-01 to 2026-07-07",
   "flat_unit": 1.0,
   "recorded": {
     "race_count": 1100,
-    "stake_units": 8227.0,
-    "return_units": 9722.600000000004,
-    "profit_units": 1495.600000000004,
-    "roi": 1.1817916616020425,
+    "stake_units": 7877.0,
+    "return_units": 9042.100000000006,
+    "profit_units": 1165.1000000000058,
+    "roi": 1.147911641487877,
     "hit_count": 395,
     "hit_rate": 0.35909090909090907,
-    "average_ticket_count": 7.4790909090909095,
-    "average_stake_units": 7.4790909090909095,
-    "top3_return_share": 0.08968794355419328,
-    "roi_without_top3": 1.0781581191375313,
+    "average_ticket_count": 7.160909090909091,
+    "average_stake_units": 7.160909090909091,
+    "top3_return_share": 0.09430331449552642,
+    "top5_return_share": 0.14871545326859903,
+    "top10_return_share": 0.23277778392187642,
+    "roi_without_top3": 1.042173581063885,
+    "roi_without_top5": 0.9810604129492743,
+    "roi_without_top10": 0.888258642765686,
     "max_drawdown_units": 440.69999999999993
   },
   "flat_per_ticket": {
     "race_count": 1100,
-    "stake_units": 8227.0,
-    "return_units": 9722.600000000004,
-    "profit_units": 1495.600000000004,
-    "roi": 1.1817916616020425,
+    "stake_units": 7877.0,
+    "return_units": 9042.100000000006,
+    "profit_units": 1165.1000000000058,
+    "roi": 1.147911641487877,
     "hit_count": 395,
     "hit_rate": 0.35909090909090907,
-    "average_ticket_count": 7.4790909090909095,
-    "average_stake_units": 7.4790909090909095,
-    "top3_return_share": 0.08968794355419328,
-    "roi_without_top3": 1.0781581191375313,
+    "average_ticket_count": 7.160909090909091,
+    "average_stake_units": 7.160909090909091,
+    "top3_return_share": 0.09430331449552642,
+    "top5_return_share": 0.14871545326859903,
+    "top10_return_share": 0.23277778392187642,
+    "roi_without_top3": 1.042173581063885,
+    "roi_without_top5": 0.9810604129492743,
+    "roi_without_top10": 0.888258642765686,
     "max_drawdown_units": 440.69999999999993
+  },
+  "stake_mode_inference": {
+    "mode": "flat_per_selected_ticket",
+    "weighted_or_source_stake": false,
+    "recorded_to_flat_stake_ratio": 1.0,
+    "weighted_race_count": 0,
+    "weighted_race_share": 0.0,
+    "max_ticket_stake_units": 1.0,
+    "public_flat_comparable": true
   },
   "settlement_audit": {
     "recorded_return_error_count": 0,
@@ -42,7 +59,7 @@
     "sample_actual_metadata_errors": []
   },
   "source_strategy_counts": {
-    "core_ticket_model_gate": 1100
+    "high_odds_condition_gate": 1100
   },
   "gate_pass_counts": {
     "": 1100
