@@ -1,6 +1,6 @@
 # ガールズ3連単バックテスト
 
-期間: 2026-01-01 to 2026-07-07 / 生成: 2026-07-22T01:48:57+09:00
+期間: 2026-01-01 to 2026-07-07 / 生成: 2026-07-22T04:55:38+09:00
 
 Girls trifecta v2 / all girls races / 6-18 tickets / flat 100 yen per selected ticket / final-odds research
 
