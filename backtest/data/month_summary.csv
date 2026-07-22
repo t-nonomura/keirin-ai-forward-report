@@ -1,8 +1,8 @@
-month,race_count,stake_units,return_units,roi,hit_rate,gate_profile,gate_condition_name,gate_column,gate_direction,gate_threshold,gate_train_ticket_count,gate_train_hit_count,gate_train_ticket_roi,gate_train_ticket_share,gate_train_return_share,gate_fallback_reason
-2026-01,180,1080,772.4,0.7151851851851851,0.17777777777777778,return_guard_trim,source_cold_start,,,0,0,0,0,0,0,before_start_month_source_cold_start
-2026-02,176,1212,1636.299999999999,1.3500825082508248,0.26136363636363635,return_guard_trim,source_cold_start,,,0,0,0,0,0,0,before_start_month_source_cold_start
-2026-03,184,1719,1669.399999999999,0.9711460151250724,0.5760869565217391,return_guard_trim,first_ai_risk_le,girls_first_ai_memo_memory_risk_rate,le,0.428571428571,181,3,4.075690607735,0.502777777778,1,
-2026-04,169,1043,903.2,0.8659635666347076,0.3076923076923077,return_guard_trim,first_ai_risk_le,girls_first_ai_memo_memory_risk_rate,le,0.375,190,3,3.882631578947,0.502645502646,1,
-2026-05,205,1465,2323.2,1.5858020477815702,0.45365853658536587,return_guard_trim,first_ai_risk_le,girls_first_ai_memo_memory_risk_rate,le,0.428571428571,199,3,3.707035175879,0.491358024691,1,
-2026-06,152,1067,1527.7,1.4317713214620431,0.3684210526315789,return_guard_trim,first_ai_negative_le,girls_first_ai_memo_memory_negative_score,le,0.15761617774,337,5,3.216320474777,0.60394265233,1,
-2026-07,34,291,209.9,0.7213058419243986,0.29411764705882354,return_guard_trim,first_ai_negative_le,girls_first_ai_memo_memory_negative_score,le,0.16867706522,447,8,4.204697986577,0.668161434978,1,
+month,stake_units,return_units,race_count,roi,hit_rate,model_used,train_row_count,train_hit_count,fallback_reason,core_model_used,core_train_row_count,core_train_hit_count,core_model_fallback_reason
+2026-01,1080,772.4,180,0.7151851851851851,0.17777777777777778,False,0,0,before_start_month_source_cold_start,False,0,0,before_start_month_source_cold_start
+2026-02,1125,1598.7,176,1.4210666666666663,0.24431818181818182,False,0,0,before_start_month_source_cold_start,False,0,0,before_start_month_source_cold_start
+2026-03,1404,1411.4,184,1.0052706552706552,0.3804347826086957,True,2442,12,,True,2442,12,
+2026-04,1022,903.2,169,0.8837573385518591,0.3076923076923077,True,3588,21,,True,3588,21,
+2026-05,1366,2326.2,205,1.7029282576866767,0.4,True,4753,29,,True,4753,29,
+2026-06,1010,954.3,152,0.9448514851485148,0.3355263157894737,True,6014,47,,True,6014,47,
+2026-07,781,971.2,96,1.243533930857874,0.5104166666666666,True,7230,56,,True,7230,56,

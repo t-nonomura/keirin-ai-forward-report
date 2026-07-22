@@ -1,0 +1,18 @@
+{
+  "command": "audit-girls-forward-report-settlement",
+  "report_json_path": "tmp\\girls_public_report_drop200_20260722\\forward_report\\data\\girls_trifecta_backtest.json",
+  "race_summary_path": "tmp\\girls_public_report_drop200_20260722\\backtest_input\\race_summary.csv",
+  "selected_details_path": "tmp\\girls_public_report_drop200_20260722\\backtest_input\\selected_ticket_details.csv",
+  "dataset_path": "exports\\girls_roi110_gate_20260707\\frozen_future_validation_after_20260707\\girls_trifecta_v2_dataset_through_20260716_safe_append.csv",
+  "period": "2026-01-01 to 2026-07-16",
+  "highlight_case": "wf_core_bucket_replace_all_drop200_plus_fill80_120_ev_sourcecnt_fixed",
+  "case_count": 1,
+  "audited_race_count": 1162,
+  "error_count": 0,
+  "dataset_error_count": 0,
+  "suspected_multiplier_error_count": 0,
+  "passed": true,
+  "sample_errors": [],
+  "sample_suspected_multiplier_errors": [],
+  "leakage_note": "This audit only resettles already-rendered selected tickets. It does not choose tickets, train thresholds, or alter predictions."
+}
