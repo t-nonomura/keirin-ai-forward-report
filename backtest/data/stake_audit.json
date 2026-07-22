@@ -1,6 +1,6 @@
 {
   "command": "audit-girls-stake-normalization",
-  "race_summary_path": "tmp\\girls_public_report_drop200_20260722\\backtest_input\\race_summary.csv",
+  "race_summary_path": "backtest\\data\\race_summary.csv",
   "dataset_path": "exports\\girls_roi110_gate_20260707\\frozen_future_validation_after_20260707\\girls_trifecta_v2_dataset_through_20260716_safe_append.csv",
   "date_range": "2026-01-01 to 2026-07-16",
   "flat_unit": 1.0,
